@@ -1,0 +1,37 @@
+{
+  "datasetVersion": "1.0.0",
+  "lastUpdated": "2024-10-13",
+  "recordCount": 3069,
+  "qualityBreakdown": {
+    "sample": 8,
+    "verified": 0,
+    "unverified": 3061
+  },
+  "supportedBrands": [
+    "Apple",
+    "Asus",
+    "Google",
+    "Honor",
+    "Infinix",
+    "Lava",
+    "Micromax",
+    "Motorola",
+    "Nokia",
+    "Nothing (CMF)",
+    "OnePlus",
+    "Oppo",
+    "POCO",
+    "Realme",
+    "Samsung",
+    "Tecno",
+    "Vivo",
+    "Xiaomi",
+    "iQOO"
+  ],
+  "priceRange": {
+    "min": 4999,
+    "max": 164999,
+    "currency": "INR"
+  },
+  "dataDisclaimer": "Comprehensive catalog of 3069 smartphones spanning Indian market releases. Key trending models contain verified launch MRPs; bulk historical entries are categorized with 'unverified' flags based on launch specifications. Real-time dynamic Indian retail prices require manual entries or commercial retail APIs."
+}
