@@ -1,0 +1,12 @@
+{
+  "name": "smartphone-finder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3,000+ Smartphone Finder India",
+  "scripts": {
+    "start": "npx serve public"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
