@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Compare Smartphones - SmartFinder India</title>
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/components.css">
+  <style>
+    .compare-wrap { max-width: 1200px; margin: 30px auto; padding: 0 16px; overflow-x: auto; }
+    .compare-table { width: 100%; border-collapse: collapse; min-width: 650px; }
+    .compare-table th, .compare-table td { padding: 14px 16px; border: 1px solid var(--border); text-align: left; }
+    .compare-table th { background: var(--bg-secondary); color: var(--text-secondary); font-size: 0.85rem; width: 170px; }
+    .compare-table td { background: var(--bg-card); font-size: 0.88rem; }
+  </style>
+</head>
+<body>
+  <nav class="navbar">
+    <div class="brand-logo">
+      <a href="index.html">← Back to Explorer</a>
+    </div>
+    <button id="clearCompare" class="btn btn-outline" style="font-size:0.8rem; color:var(--danger);">Clear All</button>
+  </nav>
+
+  <div class="compare-wrap">
+    <div id="noCompareNotice" class="state-box" style="display:none;">
+      <h3>No phones selected for comparison</h3>
+      <p style="margin-top:6px;">Go back to explorer and click "+ Compare" on any devices.</p>
+      <a href="index.html" class="btn btn-primary" style="margin-top:16px;">Browse 3,000+ Phones</a>
+    </div>
+    <table class="compare-table" id="compareTable" style="display:none;">
+      <tbody id="compareBody"></tbody>
+    </table>
+  </div>
+
+  <script src="js/utils.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/compare.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      const phones = await DataModule.loadPhones();
+      const compareIds = CompareModule.getCompareList();
+      const selected = phones.filter(p => compareIds.includes(p.id));
+
+      if (selected.length === 0) {
+        document.getElementById('noCompareNotice').style.display = 'block';
+        return;
+      }
+
+      document.getElementById('compareTable').style.display = 'table';
+      const body = document.getElementById('compareBody');
+
+      const rows = [
+        { label: 'Device', val: p => `<b>${p.brand} ${p.model}</b><br><button onclick="removePhone('${p.id}')" style="color:var(--danger); font-size:0.75rem; margin-top:4px;">Remove</button>` },
+        { label: 'Launch Year', val: p => p.launchYear },
+        { label: 'Price (INR)', val: p => `<b>${Utils.formatINR(p.price.inr)}</b><br><small style="color:var(--text-muted);">${p.price.note || ''}</small>` },
+        { label: 'Data Quality', val: p => `<span class="badge badge-${p.dataQuality}">${p.dataQuality}</span>` },
+        { label: 'Processor', val: p => p.specs.processor || 'N/A' },
+        { label: 'RAM', val: p => p.specs.ram.map(r => r + 'GB').join(', ') },
+        { label: 'Storage', val: p => p.specs.storage.map(s => s + 'GB').join(', ') },
+        { label: 'Battery', val: p => p.specs.battery ? p.specs.battery + ' mAh' : 'N/A' },
+        { label: 'Display', val: p => `${p.specs.display.size || 'N/A'}" ${p.specs.display.refreshRate || ''}Hz ${p.specs.display.type || ''}` },
+        { label: 'Main Camera', val: p => p.specs.cameras.main ? p.specs.cameras.main + ' MP' : 'N/A' },
+        { label: 'Front Camera', val: p => p.specs.cameras.front ? p.specs.cameras.front + ' MP' : 'N/A' },
+        { label: 'Gaming Score', val: p => `${p.useCases.gaming} / 10` },
+        { label: 'Camera Score', val: p => `${p.useCases.camera} / 10` },
+        { label: 'Battery Score', val: p => `${p.useCases.battery} / 10` },
+        { label: 'Value Score', val: p => `${p.useCases.value} / 10` }
+      ];
+
+      rows.forEach(r => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<th>${r.label}</th>` + selected.map(p => `<td>${r.val(p)}</td>`).join('');
+        body.appendChild(tr);
+      });
+
+      window.removePhone = (id) => {
+        CompareModule.removeFromCompare(id);
+        window.location.reload();
+      };
+
+      document.getElementById('clearCompare').addEventListener('click', () => {
+        CompareModule.clear();
+        window.location.reload();
+      });
+    });
+  </script>
+</body>
+</html>
