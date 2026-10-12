@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SmartFinder India - 3,000+ Smartphones Explorer</title>
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="brand-logo">
+      <span>📱 SmartFinder</span>
+      <span class="brand-badge">India 3,000+ Edition</span>
+    </div>
+    <div style="display:flex; gap:10px; align-items:center;">
+      <a href="compare.html" id="navCompareBtn" class="btn btn-outline" style="font-size:0.8rem;">Compare (<span id="compareCount">0</span>)</a>
+    </div>
+  </nav>
+
+  <div class="app-layout">
+    <!-- Sidebar Filters -->
+    <aside class="filter-sidebar" id="filterSidebar">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:16px;">
+        <h3 style="font-size:1rem; font-weight:700;">Filters</h3>
+        <button id="resetFilters" style="font-size:0.78rem; color:var(--accent);">Reset All</button>
+      </div>
+
+      <div style="display:flex; flex-direction:column; gap:16px;">
+        <div>
+          <label style="font-size:0.82rem; color:var(--text-secondary); display:block; margin-bottom:6px;">Max Price: <b id="priceLabel">₹1,60,000</b></label>
+          <input type="range" id="priceRange" min="5000" max="160000" step="5000" value="160000" style="width:100%;">
+        </div>
+
+        <div>
+          <label style="font-size:0.82rem; color:var(--text-secondary); display:block; margin-bottom:6px;">Brand</label>
+          <select id="brandSelect" class="btn btn-outline" style="width:100%; text-align:left;">
+            <option value="">All Brands</option>
+          </select>
+        </div>
+
+        <div>
+          <label style="font-size:0.82rem; color:var(--text-secondary); display:block; margin-bottom:6px;">Launch Year</label>
+          <select id="yearSelect" class="btn btn-outline" style="width:100%; text-align:left;">
+            <option value="">All Years</option>
+            <option value="2024">2024</option>
+            <option value="2023">2023</option>
+            <option value="2022">2022</option>
+            <option value="2021">2021</option>
+            <option value="2020">2020 & older</option>
+          </select>
+        </div>
+
+        <div>
+          <label style="font-size:0.82rem; color:var(--text-secondary); display:block; margin-bottom:6px;">Min RAM</label>
+          <div style="display:flex; gap:6px;" id="ramPills">
+            <button class="btn btn-outline" data-val="6">6GB+</button>
+            <button class="btn btn-outline" data-val="8">8GB+</button>
+            <button class="btn btn-outline" data-val="12">12GB+</button>
+          </div>
+        </div>
+
+        <div>
+          <label style="font-size:0.82rem; color:var(--text-secondary); display:block; margin-bottom:6px;">Quick Priority</label>
+          <div style="display:flex; flex-wrap:wrap; gap:6px;" id="useCasePills">
+            <button class="btn btn-outline" data-usecase="gaming">Gaming</button>
+            <button class="btn btn-outline" data-usecase="camera">Camera</button>
+            <button class="btn btn-outline" data-usecase="battery">Battery</button>
+            <button class="btn btn-outline" data-usecase="value">Value</button>
+          </div>
+        </div>
+      </div>
+      <button class="btn btn-primary" id="closeFilterMobile" style="width:100%; margin-top:20px; display:none;">Apply & Close</button>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <div style="display:flex; gap:10px; margin-bottom:16px;">
+        <input type="text" id="searchInput" placeholder="Search 3,000+ phones by brand, model, processor..." class="btn btn-outline" style="flex:1; text-align:left; padding:12px 16px; border-radius:var(--radius-lg); font-size:0.95rem;">
+        <button id="mobileFilterToggle" class="btn btn-outline mobile-filter-bar" style="border-radius:var(--radius-lg);">Filters</button>
+      </div>
+
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:16px; font-size:0.85rem; color:var(--text-muted);">
+        <div>Found <b id="matchCount" style="color:var(--text-primary);">0</b> phones</div>
+        <select id="sortSelect" class="btn btn-outline" style="padding:6px 10px; font-size:0.8rem;">
+          <option value="newest">Newest Launch</option>
+          <option value="price-asc">Price: Low to High</option>
+          <option value="price-desc">Price: High to Low</option>
+          <option value="battery">Battery Capacity</option>
+          <option value="ram">Highest RAM</option>
+        </select>
+      </div>
+
+      <div id="loadingView" class="state-box"><div class="spinner"></div>Loading 3,000+ smartphones database...</div>
+      <div id="emptyView" class="state-box" style="display:none;"><h3>No Smartphones Found</h3><p style="margin-top:6px;">Try adjusting your search query or filter sliders.</p></div>
+      <div id="phoneGrid" class="phone-grid"></div>
+
+      <!-- Pagination -->
+      <div id="paginationBar" class="pagination-container" style="display:none;">
+        <div style="font-size:0.85rem; color:var(--text-secondary);" id="paginationInfo">Showing 1–24 of 3,069 phones</div>
+        <div class="page-numbers" id="paginationControls"></div>
+      </div>
+    </main>
+  </div>
+
+  <!-- Details Modal -->
+  <div class="modal-overlay" id="detailModal">
+    <div class="modal-box">
+      <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:14px;">
+        <div>
+          <h2 id="modalTitle" style="font-size:1.3rem;">Phone Specs</h2>
+          <span id="modalQualityBadge" style="margin-top:4px;"></span>
+        </div>
+        <button id="closeModal" class="btn btn-outline" style="padding:4px 10px;">✕</button>
+      </div>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <!-- Compare Dock -->
+  <div class="compare-dock" id="compareDock">
+    <span style="font-size:0.85rem; color:var(--text-primary);"><b id="dockCount">0</b> phones in compare</span>
+    <a href="compare.html" class="btn btn-primary" style="font-size:0.8rem; padding:6px 14px;">Compare Now →</a>
+  </div>
+
+  <script src="js/utils.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/compare.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/render.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
