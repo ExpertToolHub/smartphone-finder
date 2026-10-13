@@ -4,8 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SmartFinder India - Mega 10 Compare & Ultra HD PDF</title>
-  
-  <!-- High Quality PDF Library CDN -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 
   <style>
@@ -44,12 +42,10 @@
       z-index: 100;
     }
     .brand-wrap a { font-weight: 800; color: var(--primary); font-size: 1rem; }
-    .nav-btns { display: flex; gap: 10px; }
     .btn-clear { background: #fee2e2; color: var(--accent-rose); border: 1px solid #fecaca; padding: 6px 14px; border-radius: var(--radius-pill); font-weight: 700; cursor: pointer; }
 
     .compare-container { max-width: 1400px; margin: 24px auto; padding: 0 16px; width: 100%; }
 
-    /* Action Banner Bar */
     .action-header-box {
       background: #ffffff;
       border: 1px solid var(--border);
@@ -90,38 +86,19 @@
       font-size: 0.92rem;
       font-weight: 800;
       cursor: pointer;
-      display: flex;
-      align-items: center;
-      gap: 8px;
       box-shadow: 0 4px 12px rgba(15, 23, 42, 0.2);
-      transition: background 0.2s;
     }
     .btn-download-pdf:hover { background: #334155; }
 
-    /* Top 3 Final Choose Podium */
-    .top3-section {
-      display: none;
-      margin-bottom: 28px;
-    }
-    .top3-title {
-      font-size: 1.25rem;
-      font-weight: 900;
-      margin-bottom: 14px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-    .top3-cards-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 16px;
-    }
+    .top3-section { display: none; margin-bottom: 28px; }
+    .top3-title { font-size: 1.25rem; font-weight: 900; margin-bottom: 14px; }
+    .top3-cards-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; }
+
     .podium-card {
       background: #ffffff;
       border-radius: var(--radius-lg);
       padding: 20px;
       box-shadow: var(--shadow-card);
-      position: relative;
       border: 1px solid var(--border);
     }
     .podium-card.rank-1 {
@@ -155,19 +132,8 @@
     .podium-rating { font-size: 0.84rem; font-weight: 800; background: #dcfce7; color: #166534; padding: 4px 8px; border-radius: 6px; display: inline-block; }
     .podium-reason { font-size: 0.85rem; color: #334155; margin-top: 12px; line-height: 1.45; }
 
-    /* Comparison Table Container */
-    #printableComparisonArea {
-      background: #ffffff;
-      padding: 12px;
-      border-radius: var(--radius-lg);
-    }
-    .table-card {
-      background: #ffffff;
-      border-radius: var(--radius-lg);
-      border: 1px solid var(--border);
-      overflow-x: auto;
-      box-shadow: var(--shadow-card);
-    }
+    #printableComparisonArea { background: #ffffff; padding: 12px; border-radius: var(--radius-lg); }
+    .table-card { background: #ffffff; border-radius: var(--radius-lg); border: 1px solid var(--border); overflow-x: auto; box-shadow: var(--shadow-card); }
     .comp-table { width: 100%; border-collapse: collapse; min-width: 800px; }
     .comp-table th, .comp-table td { padding: 14px 16px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
     .comp-table th { background: #f8fafc; color: var(--text-muted); font-size: 0.8rem; font-weight: 900; width: 160px; text-transform: uppercase; position: sticky; left: 0; z-index: 2; }
@@ -190,7 +156,7 @@
     <div class="brand-wrap">
       <a href="index.html">← Back to Explorer</a>
     </div>
-    <div class="nav-btns">
+    <div>
       <button id="clearAllBtn" class="btn-clear">Clear All</button>
     </div>
   </nav>
@@ -198,7 +164,7 @@
   <div class="compare-container">
     <div id="emptyNotice" class="empty-card" style="display:none;">
       <h2>Koi Smartphone Selected Nahi Hai</h2>
-      <p style="margin-top:8px; color:var(--text-muted);">Explorer par jaakar kisi bhi 2 se 10 phones par "+ Compare" dabayein.</p>
+      <p style="margin-top:8px; color:var(--text-muted);">Explorer par jaakar phones par "+ Compare" dabayein.</p>
       <a href="index.html" style="display:inline-block; margin-top:16px; background:var(--grad-btn); color:#fff; padding:10px 24px; border-radius:var(--radius-pill); font-weight:800;">Browse Phones</a>
     </div>
 
@@ -214,15 +180,12 @@
         </div>
       </div>
 
-      <!-- Area Captured For High Definition PDF -->
       <div id="printableComparisonArea">
-        <!-- Top 3 Final Choice Podium Cards -->
         <div id="top3Section" class="top3-section">
-          <div class="top3-title">🏆 AI Final Verdict: Top 3 Smartphones Among Selected</div>
+          <div class="top3-title">🏆 AI Final Verdict: Top 3 Smartphones</div>
           <div id="top3Grid" class="top3-cards-grid"></div>
         </div>
 
-        <!-- Specs Table -->
         <div class="table-card">
           <table class="comp-table">
             <tbody id="compareTbody"></tbody>
@@ -239,7 +202,19 @@
     document.addEventListener('DOMContentLoaded', async () => {
       const allPhones = await DataModule.loadPhones();
       const compareIds = CompareModule.getCompareList();
-      let selected = allPhones.filter(p => compareIds.includes(p.id));
+
+      // Ensure Unique IDs & Unique Objects
+      const uniqueIds = [...new Set(compareIds)];
+      let selected = [];
+      const seenIds = new Set();
+      
+      uniqueIds.forEach(id => {
+        const found = allPhones.find(p => p.id === id);
+        if (found && !seenIds.has(found.id)) {
+          seenIds.add(found.id);
+          selected.push(found);
+        }
+      });
 
       const emptyEl = document.getElementById('emptyNotice');
       const compareView = document.getElementById('compareView');
@@ -256,7 +231,7 @@
 
       countEl.innerText = selected.length;
 
-      // Smart Composite Rating
+      // Smart Composite Score Formula
       const calcOverallScore = (p) => {
         const g = p.useCases?.gaming || 7;
         const c = p.useCases?.camera || 7;
@@ -306,11 +281,11 @@
         }).join('');
       };
 
-      // Initial Render
       renderTable(selected, false);
 
-      // Final Choose: Filter & Pick Top 3
+      // Final Choose: Filter Unique Top 3
       document.getElementById('finalChooseBtn').addEventListener('click', () => {
+        // Sort by composite rating
         const sorted = [...selected].sort((a, b) => calcOverallScore(b) - calcOverallScore(a));
         const top3 = sorted.slice(0, 3);
 
@@ -321,13 +296,20 @@
           const cardClass = `rank-${rank}`;
           const title = rank === 1 ? '🥇 #1 CHAMPION (Best Overall)' : rank === 2 ? '🥈 #2 RUNNER UP' : '🥉 #3 THIRD CHOICE';
 
+          // Dynamic Reasoning based on price segment
           let reason = '';
+          const isFlagship = (p.price?.inr || 0) >= 50000;
+
           if (rank === 1) {
-            reason = `🏆 <b>Kyu Jeeta:</b> Iska processor (${p.specs?.processor}), high-resolution camera (${p.specs?.cameras?.main}MP) aur battery backup (${p.specs?.battery}mAh) in 10 phones mein sabse zyada powerful aur balanced hai.`;
+            reason = `🏆 <b>Kyu Jeeta:</b> Iska processor (${p.specs?.processor}), camera setup (${p.specs?.cameras?.main}MP) aur battery combo (${p.specs?.battery}mAh) overall score mein sabhi phones se sabse aage hai.`;
           } else if (rank === 2) {
-            reason = `🥈 <b>Runner Up:</b> Rank #1 ke bilkul kareeb hai, display aur performance top class hai lekin halka sa difference camera/battery score mein raha.`;
+            reason = isFlagship
+              ? `🥈 <b>Flagship Contender:</b> Top-notch premium performance, display aur camera deliver karta hai. Rank #1 se bilkul baal-barabar fark raha.`
+              : `🥈 <b>Runner Up:</b> Apne budget segment mein leading performance aur smooth user experience offer karta hai.`;
           } else {
-            reason = `🥉 <b>Value Pick:</b> Budget aur reliable performance ka behtareen combo offer karta hai.`;
+            reason = isFlagship
+              ? `🥉 <b>Premium Choice:</b> Ultra-smooth build, best-in-class display aur long-term flagship software support provide karta hai.`
+              : `🥉 <b>Value Champion:</b> Kam budget mein solid gaming, display aur camera balance offer karta hai.`;
           }
 
           return `
@@ -341,7 +323,6 @@
           `;
         }).join('');
 
-        // Re-order table with #1 phone on left
         renderTable(sorted, true);
         top3Section.scrollIntoView({ behavior: 'smooth' });
       });
@@ -358,15 +339,15 @@
         };
 
         const btn = document.getElementById('downloadPdfBtn');
-        const originalText = btn.innerText;
-        btn.innerText = '⏳ Generating Ultra HD PDF...';
+        const orig = btn.innerText;
+        btn.innerText = '⏳ Generating PDF...';
 
         html2pdf().set(opt).from(element).save().then(() => {
-          btn.innerText = originalText;
+          btn.innerText = orig;
         }).catch(err => {
           console.error(err);
-          btn.innerText = originalText;
-          alert('PDF download hone mein dikkat aayi, kripya dobara try karein.');
+          btn.innerText = orig;
+          alert('PDF generation mein error aayi, dubara try karein.');
         });
       });
 
