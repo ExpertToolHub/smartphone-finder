@@ -1,217 +1,198 @@
 const app = {
   allPhones: [],
   filteredPhones: [],
-  activeFilters: { maxPrice: 160000, brand: '', minRam: null, year: '', useCasePriority: null },
-  activeSort: 'newest',
-  searchQuery: '',
+  activeTopFilter: 'all',
   currentPage: 1,
   pageSize: 24,
 
   async init() {
-    this.allPhones = await DataModule.loadPhones();
-    document.getElementById('loadingView').style.display = 'none';
-    this.populateBrands();
     this.bindEvents();
-    this.updateUI();
-  },
-
-  populateBrands() {
-    const brands = [...new Set(this.allPhones.map(p => p.brand))].sort();
-    const sel = document.getElementById('brandSelect');
-    brands.forEach(b => {
-      const opt = document.createElement('option');
-      opt.value = b; opt.textContent = b;
-      sel.appendChild(opt);
-    });
+    this.allPhones = await DataModule.loadPhones();
+    this.populateBrands();
+    this.applyFilters();
   },
 
   bindEvents() {
-    document.getElementById('searchInput').addEventListener('input', Utils.debounce((e) => {
-      this.searchQuery = e.target.value;
-      this.currentPage = 1;
-      this.updateUI();
-    }, 250));
-
-    document.getElementById('priceRange').addEventListener('input', (e) => {
-      this.activeFilters.maxPrice = Number(e.target.value);
-      document.getElementById('priceLabel').textContent = Utils.formatINR(this.activeFilters.maxPrice);
-      this.currentPage = 1;
-      this.updateUI();
+    document.getElementById('searchInput')?.addEventListener('input', () => this.applyFilters());
+    document.getElementById('priceRange')?.addEventListener('input', (e) => {
+      document.getElementById('priceLabel').innerText = Utils.formatINR(e.target.value);
+      this.applyFilters();
     });
+    document.getElementById('brandSelect')?.addEventListener('change', () => this.applyFilters());
+    document.getElementById('yearSelect')?.addEventListener('change', () => this.applyFilters());
+    document.getElementById('sortSelect')?.addEventListener('change', () => this.applyFilters());
 
-    document.getElementById('brandSelect').addEventListener('change', (e) => {
-      this.activeFilters.brand = e.target.value;
-      this.currentPage = 1;
-      this.updateUI();
-    });
-
-    document.getElementById('yearSelect').addEventListener('change', (e) => {
-      this.activeFilters.year = e.target.value;
-      this.currentPage = 1;
-      this.updateUI();
-    });
-
-    document.getElementById('sortSelect').addEventListener('change', (e) => {
-      this.activeSort = e.target.value;
-      this.updateUI();
-    });
-
-    document.querySelectorAll('#ramPills button').forEach(btn => {
-      btn.addEventListener('click', () => {
-        const val = Number(btn.dataset.val);
-        this.activeFilters.minRam = this.activeFilters.minRam === val ? null : val;
-        document.querySelectorAll('#ramPills button').forEach(b => b.classList.remove('active'));
-        if (this.activeFilters.minRam) btn.classList.add('active');
-        this.currentPage = 1;
-        this.updateUI();
+    // Top 10 / Top 20 buttons
+    document.querySelectorAll('.top-pill').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        document.querySelectorAll('.top-pill').forEach(b => b.classList.remove('active'));
+        e.target.classList.add('active');
+        this.activeTopFilter = e.target.dataset.top;
+        this.applyFilters();
       });
     });
 
-    document.querySelectorAll('#useCasePills button').forEach(btn => {
-      btn.addEventListener('click', () => {
-        const val = btn.dataset.usecase;
-        this.activeFilters.useCasePriority = this.activeFilters.useCasePriority === val ? null : val;
-        document.querySelectorAll('#useCasePills button').forEach(b => b.classList.remove('active'));
-        if (this.activeFilters.useCasePriority) btn.classList.add('active');
-        this.currentPage = 1;
-        this.updateUI();
-      });
-    });
-
-    document.getElementById('resetFilters').addEventListener('click', () => {
-      this.activeFilters = { maxPrice: 160000, brand: '', minRam: null, year: '', useCasePriority: null };
-      document.getElementById('priceRange').value = 160000;
-      document.getElementById('priceLabel').textContent = '₹1,60,000';
+    // Reset
+    document.getElementById('resetFilters')?.addEventListener('click', () => {
+      document.getElementById('searchInput').value = '';
+      document.getElementById('priceRange').value = 180000;
+      document.getElementById('priceLabel').innerText = '₹1,80,000';
       document.getElementById('brandSelect').value = '';
       document.getElementById('yearSelect').value = '';
-      document.querySelectorAll('#ramPills button, #useCasePills button').forEach(b => b.classList.remove('active'));
-      this.currentPage = 1;
-      this.updateUI();
+      this.activeTopFilter = 'all';
+      document.querySelectorAll('.top-pill').forEach(b => b.classList.remove('active'));
+      document.querySelector('.top-pill[data-top="all"]')?.classList.add('active');
+      this.applyFilters();
     });
 
-    document.getElementById('closeModal').addEventListener('click', () => {
-      document.getElementById('detailModal').classList.remove('open');
-    });
-
-    const sidebar = document.getElementById('filterSidebar');
+    // Mobile filter toggle
     document.getElementById('mobileFilterToggle')?.addEventListener('click', () => {
-      sidebar.classList.toggle('open');
-      document.getElementById('closeFilterMobile').style.display = 'block';
+      document.getElementById('filterSidebar')?.classList.toggle('open');
     });
     document.getElementById('closeFilterMobile')?.addEventListener('click', () => {
-      sidebar.classList.remove('open');
+      document.getElementById('filterSidebar')?.classList.remove('open');
+    });
+    document.getElementById('closeModal')?.addEventListener('click', () => {
+      document.getElementById('detailModal').style.display = 'none';
     });
   },
 
-  updateUI() {
-    let list = SearchModule.search(this.allPhones, this.searchQuery);
-    list = FilterModule.applyFilters(list, this.activeFilters);
-    list = FilterModule.sortPhones(list, this.activeSort);
-    this.filteredPhones = list;
+  populateBrands() {
+    const brandSelect = document.getElementById('brandSelect');
+    if (!brandSelect) return;
+    const brands = [...new Set(this.allPhones.map(p => p.brand))].sort();
+    brands.forEach(b => {
+      const opt = document.createElement('option');
+      opt.value = b;
+      opt.innerText = b;
+      brandSelect.appendChild(opt);
+    });
+  },
 
-    const compareList = CompareModule.getCompareList();
-    document.getElementById('compareCount').textContent = compareList.length;
-    document.getElementById('dockCount').textContent = compareList.length;
-    document.getElementById('compareDock').classList.toggle('show', compareList.length > 0);
+  applyFilters() {
+    const query = document.getElementById('searchInput')?.value.trim().toLowerCase() || '';
+    const maxPrice = Number(document.getElementById('priceRange')?.value) || 180000;
+    const selectedBrand = document.getElementById('brandSelect')?.value || '';
+    const selectedYear = document.getElementById('yearSelect')?.value || '';
+    const sortVal = document.getElementById('sortSelect')?.value || 'newest';
 
+    let result = this.allPhones.filter(p => {
+      if (p.price.inr > maxPrice) return false;
+      if (selectedBrand && p.brand !== selectedBrand) return false;
+      if (selectedYear && String(p.launchYear) !== selectedYear) return false;
+      if (query) {
+        const fullText = `${p.brand} ${p.model} ${p.specs?.processor || ''}`.toLowerCase();
+        if (!fullText.includes(query)) return false;
+      }
+      return true;
+    });
+
+    // Smart Score Calculation: Composite (Gaming + Camera + Battery + Value)
+    const getScore = (p) => {
+      const g = p.useCases?.gaming || 5;
+      const c = p.useCases?.camera || 5;
+      const b = p.useCases?.battery || 5;
+      const v = p.useCases?.value || 5;
+      return (g * 0.25) + (c * 0.3) + (b * 0.2) + (v * 0.25);
+    };
+
+    // Quick Top Filters handler
+    if (this.activeTopFilter === '10') {
+      result.sort((a, b) => getScore(b) - getScore(a));
+      result = result.slice(0, 10);
+    } else if (this.activeTopFilter === '20') {
+      result.sort((a, b) => getScore(b) - getScore(a));
+      result = result.slice(0, 20);
+    } else if (this.activeTopFilter === 'camera') {
+      result.sort((a, b) => (b.useCases?.camera || 0) - (a.useCases?.camera || 0));
+      result = result.slice(0, 15);
+    } else if (this.activeTopFilter === 'gaming') {
+      result.sort((a, b) => (b.useCases?.gaming || 0) - (a.useCases?.gaming || 0));
+      result = result.slice(0, 15);
+    } else if (this.activeTopFilter === 'budget') {
+      result = result.filter(p => p.price.inr <= 20000);
+      result.sort((a, b) => (b.useCases?.value || 0) - (a.useCases?.value || 0));
+      result = result.slice(0, 15);
+    } else {
+      // Normal Sorting
+      if (sortVal === 'newest') result.sort((a, b) => (b.launchYear || 2024) - (a.launchYear || 2024));
+      else if (sortVal === 'best') result.sort((a, b) => getScore(b) - getScore(a));
+      else if (sortVal === 'price-asc') result.sort((a, b) => a.price.inr - b.price.inr);
+      else if (sortVal === 'price-desc') result.sort((a, b) => b.price.inr - a.price.inr);
+      else if (sortVal === 'battery') result.sort((a, b) => (b.specs?.battery || 0) - (a.specs?.battery || 0));
+    }
+
+    this.filteredPhones = result;
+    this.render();
+  },
+
+  render() {
     const grid = document.getElementById('phoneGrid');
-    document.getElementById('matchCount').textContent = list.length;
+    const countEl = document.getElementById('matchCount');
+    const loadingView = document.getElementById('loadingView');
+    const emptyView = document.getElementById('emptyView');
 
-    if (list.length === 0) {
+    loadingView.style.display = 'none';
+    countEl.innerText = this.filteredPhones.length;
+
+    if (this.filteredPhones.length === 0) {
       grid.innerHTML = '';
-      document.getElementById('emptyView').style.display = 'block';
-      document.getElementById('paginationBar').style.display = 'none';
+      emptyView.style.display = 'block';
       return;
     }
 
-    document.getElementById('emptyView').style.display = 'none';
-    document.getElementById('paginationBar').style.display = 'flex';
+    emptyView.style.display = 'none';
+    const compareList = CompareModule.getCompareList();
+    const isTopMode = ['10', '20'].includes(this.activeTopFilter);
 
-    // Pagination slice
-    const totalPages = Math.ceil(list.length / this.pageSize);
-    if (this.currentPage > totalPages) this.currentPage = 1;
-    const startIndex = (this.currentPage - 1) * this.pageSize;
-    const pagedItems = list.slice(startIndex, startIndex + this.pageSize);
+    grid.innerHTML = this.filteredPhones.map((p, index) => {
+      const isCompared = compareList.includes(p.id);
+      const rank = isTopMode ? index + 1 : null;
+      return RenderModule.renderCard(p, isCompared, rank);
+    }).join('');
 
-    grid.innerHTML = pagedItems.map(p => RenderModule.renderCard(p, compareList.includes(p.id))).join('');
-
-    // Pagination info
-    const endIndex = Math.min(startIndex + this.pageSize, list.length);
-    document.getElementById('paginationInfo').textContent = `Showing ${startIndex + 1}–${endIndex} of ${list.length.toLocaleString()} phones`;
-
-    this.renderPaginationControls(totalPages);
-  },
-
-  renderPaginationControls(totalPages) {
-    const controls = document.getElementById('paginationControls');
-    controls.innerHTML = '';
-
-    if (totalPages <= 1) return;
-
-    const prevBtn = document.createElement('button');
-    prevBtn.className = 'btn btn-outline page-btn';
-    prevBtn.textContent = '← Prev';
-    prevBtn.disabled = this.currentPage === 1;
-    prevBtn.onclick = () => { this.currentPage--; this.updateUI(); window.scrollTo({ top: 0, behavior: 'smooth' }); };
-    controls.appendChild(prevBtn);
-
-    const span = document.createElement('span');
-    span.style.fontSize = '0.85rem';
-    span.style.padding = '0 8px';
-    span.textContent = `Page ${this.currentPage} of ${totalPages}`;
-    controls.appendChild(span);
-
-    const nextBtn = document.createElement('button');
-    nextBtn.className = 'btn btn-outline page-btn';
-    nextBtn.textContent = 'Next →';
-    nextBtn.disabled = this.currentPage === totalPages;
-    nextBtn.onclick = () => { this.currentPage++; this.updateUI(); window.scrollTo({ top: 0, behavior: 'smooth' }); };
-    controls.appendChild(nextBtn);
+    this.updateCompareDock();
   },
 
   toggleCompare(id) {
-    if (CompareModule.getCompareList().includes(id)) {
-      CompareModule.removeFromCompare(id);
-    } else {
-      CompareModule.addToCompare(id);
-    }
-    this.updateUI();
+    CompareModule.toggleCompare(id);
+    this.render();
+  },
+
+  updateCompareDock() {
+    const list = CompareModule.getCompareList();
+    const dock = document.getElementById('compareDock');
+    const count = document.getElementById('dockCount');
+    const navCount = document.getElementById('compareCount');
+    if (navCount) navCount.innerText = list.length;
+    if (count) count.innerText = list.length;
+    if (dock) dock.style.display = list.length > 0 ? 'flex' : 'none';
   },
 
   openModal(id) {
-    const p = this.allPhones.find(x => x.id === id);
-    if (!p) return;
-    document.getElementById('modalTitle').textContent = `${p.brand} ${p.model}`;
-    document.getElementById('modalQualityBadge').className = `badge badge-${p.dataQuality}`;
-    document.getElementById('modalQualityBadge').textContent = p.dataQuality;
-
+    const phone = this.allPhones.find(p => p.id === id);
+    if (!phone) return;
+    document.getElementById('modalTitle').innerText = `${phone.brand} ${phone.model}`;
     document.getElementById('modalBody').innerHTML = `
-      <div style="font-size:0.86rem; color:var(--text-secondary); margin:12px 0; display:flex; flex-direction:column; gap:8px;">
-        <p><b>Launch MRP:</b> ${Utils.formatINR(p.price.inr)} <span style="font-size:0.75rem; color:var(--text-muted);">(${p.price.note || ''})</span></p>
-        <p><b>SoC / Processor:</b> ${p.specs.processor || 'N/A'}</p>
-        <p><b>Display:</b> ${p.specs.display.size || 'N/A'}" ${p.specs.display.refreshRate || ''}Hz (${p.specs.display.type || ''})</p>
-        <p><b>RAM Options:</b> ${p.specs.ram.join(', ')} GB</p>
-        <p><b>Storage Options:</b> ${p.specs.storage.join(', ')} GB</p>
-        <p><b>Cameras:</b> Main: ${p.specs.cameras.main || 'N/A'}MP | Front: ${p.specs.cameras.front || 'N/A'}MP</p>
-        <p><b>Battery:</b> ${p.specs.battery ? p.specs.battery + ' mAh' : 'N/A'}</p>
-        <p><b>OS:</b> ${p.specs.os || 'N/A'}</p>
-        
-        <div style="margin-top:10px; border-top:1px solid var(--border); padding-top:10px;">
-          <h4 style="color:var(--text-primary); margin-bottom:8px;">Use-Case Ratings</h4>
-          ${['gaming', 'camera', 'battery', 'dailyUse', 'value'].map(k => `
-            <div style="margin-bottom:6px;">
-              <div style="display:flex; justify-content:space-between; font-size:0.78rem;">
-                <span style="text-transform:capitalize;">${k}</span>
-                <b>${p.useCases[k]}/10</b>
-              </div>
-              <div class="score-bar"><div class="score-fill" style="width:${p.useCases[k]*10}%"></div></div>
-            </div>
-          `).join('')}
+      <div style="margin: 16px 0; font-size: 1.4rem; font-weight:800; color:var(--primary-indigo);">${Utils.formatINR(phone.price.inr)}</div>
+      <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; font-size:0.9rem;">
+        <div><b>Launch Year:</b> ${phone.launchYear}</div>
+        <div><b>Processor:</b> ${phone.specs?.processor || 'N/A'}</div>
+        <div><b>Battery:</b> ${phone.specs?.battery || 'N/A'} mAh</div>
+        <div><b>RAM:</b> ${(phone.specs?.ram || []).join('/')} GB</div>
+        <div><b>Storage:</b> ${(phone.specs?.storage || []).join('/')} GB</div>
+        <div><b>Main Camera:</b> ${phone.specs?.cameras?.main || 'N/A'} MP</div>
+      </div>
+      <div style="margin-top:16px; padding-top:12px; border-top:1px solid #e2e8f0;">
+        <h4 style="margin-bottom:8px;">Performance Scores (out of 10)</h4>
+        <div style="display:flex; gap:14px; font-size:0.85rem;">
+          <span>🎮 Gaming: <b>${phone.useCases?.gaming || 8}/10</b></span>
+          <span>📸 Camera: <b>${phone.useCases?.camera || 8}/10</b></span>
+          <span>🔋 Battery: <b>${phone.useCases?.battery || 8}/10</b></span>
         </div>
-        <p style="margin-top:8px; font-size:0.75rem; color:var(--text-muted);"><b>Source:</b> ${p.source}</p>
       </div>
     `;
-    document.getElementById('detailModal').classList.add('open');
+    document.getElementById('detailModal').style.display = 'flex';
   }
 };
 
