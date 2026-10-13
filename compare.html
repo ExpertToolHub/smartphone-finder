@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Compare Smartphones - SmartFinder India</title>
-  <link rel="stylesheet" href="css/base.css">
-  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="smartphone-finder/css/base.css">
+  <link rel="stylesheet" href="smartphone-finder/css/components.css">
   <style>
     .compare-wrap { max-width: 1200px; margin: 30px auto; padding: 0 16px; overflow-x: auto; }
     .compare-table { width: 100%; border-collapse: collapse; min-width: 650px; }
@@ -33,9 +33,9 @@
     </table>
   </div>
 
-  <script src="js/utils.js"></script>
-  <script src="js/data.js"></script>
-  <script src="js/compare.js"></script>
+  <script src="smartphone-finder/js/utils.js"></script>
+  <script src="smartphone-finder/js/data.js"></script>
+  <script src="smartphone-finder/js/compare.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
       const phones = await DataModule.loadPhones();
