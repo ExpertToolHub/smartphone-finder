@@ -1,6 +1,6 @@
 const RenderModule = {
   renderCard(p, isCompared) {
-    const imgUrl = p.image || 'assets/placeholder-phone.svg';
+    const imgUrl = p.image || 'smartphone-finder/assets/placeholder-phone.svg';
     return `
     <div class="phone-card">
       <div class="card-preview">
