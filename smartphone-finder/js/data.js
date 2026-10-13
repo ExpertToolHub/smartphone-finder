@@ -4,7 +4,6 @@ const DataModule = {
   async loadPhones() {
     if (this.cache) return this.cache;
 
-    // Relative path support for both root and sub-pages
     const candidatePaths = [
       'smartphone-finder/data/phones.json',
       'data/phones.json',
@@ -14,9 +13,7 @@ const DataModule = {
     ];
 
     let staticPhones = null;
-
-    // Cache buster timestamp taaki mobile Chrome hamesha fresh data load kare
-    const cacheBuster = `?v=20261013_${Date.now()}`;
+    const cacheBuster = `?v=master_${Date.now()}`;
 
     for (const path of candidatePaths) {
       try {
@@ -26,23 +23,21 @@ const DataModule = {
           break;
         }
       } catch (e) {
-        // Continue checking fallback paths
+        // Fallback to next path
       }
     }
 
     if (!staticPhones || !Array.isArray(staticPhones)) {
-      console.error('DataModule Error: phones.json load nahi ho payi.');
+      console.error('DataModule Error: phones.json load nahi ho saki.');
       return [];
     }
 
-    // Duplicate IDs filter karna aur specs ko normalize karna
     const uniqueMap = new Map();
 
     staticPhones.forEach(p => {
       if (!p || !p.id) return;
 
       if (!uniqueMap.has(p.id)) {
-        // Safe fallbacks taaki filters aur comparison crash na ho
         const specs = p.specs || {};
         const price = p.price || {};
         const useCases = p.useCases || {};
@@ -56,7 +51,7 @@ const DataModule = {
           price: {
             inr: Number(price.inr) || 0,
             platform: price.platform || 'Amazon / Flipkart',
-            note: price.note || 'Official Online Price'
+            note: price.note || 'Verified Online Price'
           },
           specs: {
             processor: specs.processor || 'Octa-Core Processor',
@@ -86,7 +81,7 @@ const DataModule = {
     });
 
     this.cache = Array.from(uniqueMap.values());
-    console.log(`[DataModule] Successfully loaded ${this.cache.length} unique smartphones.`);
+    console.log(`[DataModule] Loaded ${this.cache.length} master smartphones.`);
     return this.cache;
   }
 };
