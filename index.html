@@ -9,50 +9,76 @@
   <link rel="stylesheet" href="smartphone-finder/css/responsive.css">
 </head>
 <body>
-  <!-- Clean Glass Navbar -->
+  <!-- Clean Header -->
   <nav class="navbar">
     <div class="brand-wrap">
       <span class="brand-title">SmartFinder</span>
       <span class="brand-badge">India 2026 Edition</span>
     </div>
     <div class="nav-actions">
-      <a href="compare.html" id="navCompareBtn" class="btn btn-compare">Compare (<span id="compareCount">0</span>)</a>
+      <a href="compare.html" id="navCompareBtn" class="btn-compare">Compare (<span id="compareCount">0</span>)</a>
     </div>
   </nav>
 
   <div class="app-layout">
-    <!-- Sidebar Filters -->
+    <!-- Super Rich Filter Sidebar -->
     <aside class="filter-sidebar" id="filterSidebar">
       <div class="sidebar-header">
-        <h3>Smart Filters</h3>
+        <h3>Match Requirements</h3>
         <button id="resetFilters" class="reset-link">Reset All</button>
       </div>
 
       <div class="filter-group-list">
+        <!-- Budget Presets -->
         <div class="filter-item">
-          <label class="filter-label">Max Budget: <b id="priceLabel" class="price-val">₹1,60,000</b></label>
+          <label class="filter-label">Quick Budget</label>
+          <div class="pill-group">
+            <button class="budget-preset-btn" data-min="0" data-max="15000">&lt; ₹15k</button>
+            <button class="budget-preset-btn" data-min="15000" data-max="25000">₹15k–₹25k</button>
+            <button class="budget-preset-btn" data-min="25000" data-max="45000">₹25k–₹45k</button>
+            <button class="budget-preset-btn" data-min="45000" data-max="180000">₹45k+ (Flagship)</button>
+          </div>
+        </div>
+
+        <!-- Price Slider -->
+        <div class="filter-item">
+          <label class="filter-label">Max Price: <b id="priceLabel" class="price-val">₹1,80,000</b></label>
           <input type="range" id="priceRange" min="5000" max="180000" step="5000" value="180000" class="range-slider">
         </div>
 
+        <!-- Brand -->
         <div class="filter-item">
           <label class="filter-label">Brand</label>
           <select id="brandSelect" class="form-select">
-            <option value="">All Brands</option>
+            <option value="">All Brands (Any)</option>
           </select>
         </div>
 
+        <!-- Processor Family -->
+        <div class="filter-item">
+          <label class="filter-label">Processor Type</label>
+          <select id="procSelect" class="form-select">
+            <option value="">Any Processor</option>
+            <option value="Snapdragon">Qualcomm Snapdragon</option>
+            <option value="Dimensity">MediaTek Dimensity</option>
+            <option value="Apple">Apple Bionic / Pro</option>
+            <option value="Tensor">Google Tensor</option>
+          </select>
+        </div>
+
+        <!-- Launch Year -->
         <div class="filter-item">
           <label class="filter-label">Launch Year</label>
           <select id="yearSelect" class="form-select">
             <option value="">All Years (Up to 2026)</option>
-            <option value="2026">2026 (Latest Launches)</option>
+            <option value="2026">2026 (Latest Releases)</option>
             <option value="2025">2025</option>
             <option value="2024">2024</option>
-            <option value="2023">2023</option>
-            <option value="2022">2022 & older</option>
+            <option value="2023">2023 & older</option>
           </select>
         </div>
 
+        <!-- RAM -->
         <div class="filter-item">
           <label class="filter-label">Min RAM</label>
           <div class="pill-group" id="ramPills">
@@ -63,31 +89,61 @@
           </div>
         </div>
 
+        <!-- Storage -->
         <div class="filter-item">
-          <label class="filter-label">Specific Priority</label>
+          <label class="filter-label">Min Storage</label>
+          <div class="pill-group" id="storagePills">
+            <button class="pill-btn" data-val="128">128GB+</button>
+            <button class="pill-btn" data-val="256">256GB+</button>
+            <button class="pill-btn" data-val="512">512GB+</button>
+          </div>
+        </div>
+
+        <!-- Battery -->
+        <div class="filter-item">
+          <label class="filter-label">Min Battery Capacity</label>
+          <div class="pill-group" id="batteryPills">
+            <button class="pill-btn" data-val="4500">4500 mAh</button>
+            <button class="pill-btn" data-val="5000">5000 mAh</button>
+            <button class="pill-btn" data-val="6000">6000+ mAh</button>
+          </div>
+        </div>
+
+        <!-- Camera -->
+        <div class="filter-item">
+          <label class="filter-label">Main Camera</label>
+          <div class="pill-group" id="cameraPills">
+            <button class="pill-btn" data-val="50">50MP+</button>
+            <button class="pill-btn" data-val="108">108MP+</button>
+            <button class="pill-btn" data-val="200">200MP</button>
+          </div>
+        </div>
+
+        <!-- Specific Priorities -->
+        <div class="filter-item">
+          <label class="filter-label">Must Excel At</label>
           <div class="pill-group" id="useCasePills">
-            <button class="pill-btn" data-usecase="gaming">🎮 Gaming</button>
-            <button class="pill-btn" data-usecase="camera">📸 Camera</button>
-            <button class="pill-btn" data-usecase="battery">🔋 Battery</button>
-            <button class="pill-btn" data-usecase="value">💎 Value</button>
+            <button class="pill-btn" data-usecase="gaming">🎮 Heavy Gaming</button>
+            <button class="pill-btn" data-usecase="camera">📸 Pro Photos</button>
+            <button class="pill-btn" data-usecase="battery">🔋 2-Day Battery</button>
+            <button class="pill-btn" data-usecase="value">💎 Top VFM</button>
           </div>
         </div>
       </div>
-      <button class="btn btn-primary btn-block" id="closeFilterMobile">Apply Filters</button>
+      <button class="btn btn-primary btn-block" id="closeFilterMobile" style="margin-top:20px;">Show Results</button>
     </aside>
 
     <!-- Main Content Area -->
     <main class="main-content">
-      <!-- Search & Mobile Filter Bar -->
       <div class="search-section">
         <div class="search-bar-wrap">
-          <input type="text" id="searchInput" placeholder="Search phones by brand, model, processor, 5G..." class="search-input">
-          <button id="mobileFilterToggle" class="btn btn-outline mobile-filter-btn">Filters</button>
+          <input type="text" id="searchInput" placeholder="Search by name, processor (e.g. 'OnePlus', 'Snapdragon 8 Elite', 'S26')..." class="search-input">
+          <button id="mobileFilterToggle" class="btn btn-outline mobile-filter-btn">Filters ⚙️</button>
         </div>
 
-        <!-- Top 10 / Top 20 Best Quick Filters -->
+        <!-- Top 10 & Top 20 Best Presets -->
         <div class="quick-top-pills" id="topFilterStrip">
-          <button class="top-pill active" data-top="all">All Devices</button>
+          <button class="top-pill active" data-top="all">All Phones</button>
           <button class="top-pill highlight-gold" data-top="10">🏆 Top 10 Best</button>
           <button class="top-pill highlight-purple" data-top="20">🌟 Top 20 Best</button>
           <button class="top-pill" data-top="camera">📸 Best Camera</button>
@@ -96,11 +152,11 @@
         </div>
       </div>
 
-      <!-- Controls & Count Bar -->
+      <!-- Result Count & Sort -->
       <div class="results-meta-bar">
-        <div class="result-count">Found <b id="matchCount">0</b> phones <span id="topFilterBadge"></span></div>
+        <div class="result-count">Found <b id="matchCount">0</b> smartphones matching criteria</div>
         <div class="sort-wrap">
-          <label for="sortSelect" class="sort-label">Sort by:</label>
+          <label for="sortSelect" class="sort-label">Sort:</label>
           <select id="sortSelect" class="sort-select">
             <option value="newest">Newest Launch (2026)</option>
             <option value="best">Highest Rated (Overall)</option>
@@ -112,20 +168,13 @@
         </div>
       </div>
 
-      <!-- States & Grid -->
-      <div id="loadingView" class="state-card"><div class="spinner"></div>Loading 3,000+ smartphones (Up to Oct 2026)...</div>
+      <!-- Grid -->
+      <div id="loadingView" class="state-card"><div class="spinner"></div>Loading Smartphone Database...</div>
       <div id="emptyView" class="state-card" style="display:none;">
-        <h3>No Smartphones Found</h3>
-        <p>Try clearing your search query or picking a different filter.</p>
+        <h3>No Smartphone Matches All Requirements</h3>
+        <p>Try unchecking one or two filters or resetting to view more options.</p>
       </div>
-      
       <div id="phoneGrid" class="phone-grid"></div>
-
-      <!-- Pagination Controls -->
-      <div id="paginationBar" class="pagination-container" style="display:none;">
-        <div id="paginationInfo" class="page-info">Showing 1–24 phones</div>
-        <div class="page-numbers" id="paginationControls"></div>
-      </div>
     </main>
   </div>
 
@@ -133,10 +182,7 @@
   <div class="modal-overlay" id="detailModal">
     <div class="modal-card">
       <div class="modal-top">
-        <div>
-          <h2 id="modalTitle" class="modal-name">Phone Specs</h2>
-          <span id="modalQualityBadge"></span>
-        </div>
+        <h2 id="modalTitle" class="modal-name">Phone Specs</h2>
         <button id="closeModal" class="btn-close">✕</button>
       </div>
       <div id="modalBody"></div>
@@ -145,15 +191,13 @@
 
   <!-- Compare Dock -->
   <div class="compare-dock" id="compareDock">
-    <span class="dock-text"><b id="dockCount">0</b> devices chosen</span>
-    <a href="compare.html" class="btn btn-compare-dock">Compare Now →</a>
+    <span class="dock-text"><b id="dockCount">0</b> selected for comparison</span>
+    <a href="compare.html" class="btn-compare-dock">Compare Now →</a>
   </div>
 
   <script src="smartphone-finder/js/utils.js"></script>
   <script src="smartphone-finder/js/data.js"></script>
   <script src="smartphone-finder/js/compare.js"></script>
-  <script src="smartphone-finder/js/filters.js"></script>
-  <script src="smartphone-finder/js/search.js"></script>
   <script src="smartphone-finder/js/render.js"></script>
   <script src="smartphone-finder/js/app.js"></script>
 </body>
