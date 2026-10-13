@@ -1,28 +1,44 @@
 const CompareModule = {
-  KEY: 'sf_compare_ids',
+  KEY: 'smartfinder_compare_v2',
+
   getCompareList() {
     try {
-      return JSON.parse(localStorage.getItem(this.KEY)) || [];
-    } catch {
+      const data = localStorage.getItem(this.KEY);
+      return data ? JSON.parse(data) : [];
+    } catch (e) {
       return [];
     }
   },
-  addToCompare(id) {
-    const list = this.getCompareList();
-    if (list.includes(id)) return false;
-    if (list.length >= 4) {
-      alert('You can compare a maximum of 4 smartphones at once.');
-      return false;
+
+  isInCompare(id) {
+    return this.getCompareList().includes(id);
+  },
+
+  toggleCompare(id) {
+    let list = this.getCompareList();
+    if (list.includes(id)) {
+      list = list.filter(item => item !== id);
+    } else {
+      if (list.length >= 4) {
+        alert('Aap ek saath maximum 4 smartphones compare kar sakte hain!');
+        return list;
+      }
+      list.push(id);
     }
-    list.push(id);
     localStorage.setItem(this.KEY, JSON.stringify(list));
-    return true;
+    window.dispatchEvent(new Event('compare-updated'));
+    return list;
   },
+
   removeFromCompare(id) {
-    const list = this.getCompareList().filter(x => x !== id);
+    let list = this.getCompareList().filter(item => item !== id);
     localStorage.setItem(this.KEY, JSON.stringify(list));
+    window.dispatchEvent(new Event('compare-updated'));
+    return list;
   },
+
   clear() {
     localStorage.removeItem(this.KEY);
+    window.dispatchEvent(new Event('compare-updated'));
   }
 };
