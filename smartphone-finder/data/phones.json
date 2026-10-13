@@ -15124,5 +15124,9623 @@
       "battery": 8.7,
       "value": 9.8
     }
+  },
+  {
+    "id": "redmi-note-11t-5g-2021",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 11T 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 16999,
+      "platform": "Amazon / Mi Store",
+      "note": "Official India Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 810",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "FHD+ Adaptive IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.0,
+      "battery": 9.1,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "redmi-note-11s-2022",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 11S",
+    "launchYear": 2022,
+    "price": {
+      "inr": 16499,
+      "platform": "Amazon / Mi Store",
+      "note": "Official India Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G96",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 90,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 8.5,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "redmi-note-11-pro-2022",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 11 Pro",
+    "launchYear": 2022,
+    "price": {
+      "inr": 17999,
+      "platform": "Amazon / Mi Store",
+      "note": "Official India Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G96",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.6,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "xiaomi-11t-pro-2022",
+    "brand": "Xiaomi",
+    "model": "11T Pro 5G Hypercharge",
+    "launchYear": 2022,
+    "price": {
+      "inr": 37999,
+      "platform": "Amazon / Mi Store",
+      "note": "Official India Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "10-bit TrueColor AMOLED 120W"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.0,
+      "camera": 9.0,
+      "battery": 9.3,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "xiaomi-11i-hypercharge-2022",
+    "brand": "Xiaomi",
+    "model": "11i Hypercharge 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 26999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 920",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "AMOLED 120W Fast Charge"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 8.8,
+      "battery": 8.8,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "xiaomi-11i-5g-2022",
+    "brand": "Xiaomi",
+    "model": "11i 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 24999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 920",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5160,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "AMOLED 67W"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 8.8,
+      "battery": 9.2,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-10-pro-plus-2022",
+    "brand": "Realme",
+    "model": "10 Pro+ 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 24999,
+      "platform": "Flipkart / Realme Store",
+      "note": "Official India Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1080",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Curved AMOLED 2160Hz PWM"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.3,
+      "camera": 8.9,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-10-pro-2022",
+    "brand": "Realme",
+    "model": "10 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 18999,
+      "platform": "Flipkart / Realme Store",
+      "note": "Official India Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.72,
+        "refreshRate": 120,
+        "type": "Boundless Display IPS LCD"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.4,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "realme-9-5g-se-2022",
+    "brand": "Realme",
+    "model": "9 5G Speed Edition (SE)",
+    "launchYear": 2022,
+    "price": {
+      "inr": 19999,
+      "platform": "Flipkart",
+      "note": "Official India Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 778G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 144,
+        "type": "144Hz IPS LCD Gaming"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.1,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "samsung-galaxy-m51-2020",
+    "brand": "Samsung",
+    "model": "Galaxy M51 7000mAh Battery King",
+    "launchYear": 2020,
+    "price": {
+      "inr": 24999,
+      "platform": "Amazon",
+      "note": "Official India Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 730G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 7000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "Super AMOLED Plus 7000mAh"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.6,
+      "battery": 10.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "samsung-galaxy-m31-2020",
+    "brand": "Samsung",
+    "model": "Galaxy M31",
+    "launchYear": 2020,
+    "price": {
+      "inr": 15999,
+      "platform": "Amazon",
+      "note": "Official India Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9611",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED 6000mAh"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.0,
+      "camera": 8.1,
+      "battery": 9.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "samsung-s20-2020",
+    "brand": "Samsung",
+    "model": "Galaxy S20",
+    "launchYear": 2020,
+    "price": {
+      "inr": 66999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 990",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.2,
+        "refreshRate": 120,
+        "type": "Dynamic AMOLED 2X"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 8.8,
+      "battery": 8.2,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "samsung-s20-ultra-2020",
+    "brand": "Samsung",
+    "model": "Galaxy S20 Ultra 5G",
+    "launchYear": 2020,
+    "price": {
+      "inr": 97999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 990",
+      "ram": [
+        12
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.9,
+        "refreshRate": 120,
+        "type": "Dynamic AMOLED 2X 100x Space Zoom"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 40
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 9.2,
+      "battery": 9.0,
+      "value": 9.0
+    }
+  },
+  {
+    "id": "samsung-s20-fe-4g-2020",
+    "brand": "Samsung",
+    "model": "Galaxy S20 FE",
+    "launchYear": 2020,
+    "price": {
+      "inr": 39999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 990",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 120,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.3,
+      "camera": 8.8,
+      "battery": 8.6,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "samsung-s21-2021",
+    "brand": "Samsung",
+    "model": "Galaxy S21 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 69999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 2100",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.2,
+        "refreshRate": 120,
+        "type": "Dynamic AMOLED 2X"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 8.9,
+      "camera": 9.1,
+      "battery": 8.3,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-s21-plus-2021",
+    "brand": "Samsung",
+    "model": "Galaxy S21+ 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 81999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 2100",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4800,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Dynamic AMOLED 2X"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 9.0,
+      "camera": 9.2,
+      "battery": 8.9,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-note-20-2020",
+    "brand": "Samsung",
+    "model": "Galaxy Note 20 5G",
+    "launchYear": 2020,
+    "price": {
+      "inr": 77999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 990",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4300,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "Super AMOLED Plus S-Pen"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 8.9,
+      "battery": 8.5,
+      "value": 9.0
+    }
+  },
+  {
+    "id": "samsung-z-fold2-2020",
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 2 5G",
+    "launchYear": 2020,
+    "price": {
+      "inr": 149999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 865+",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 7.6,
+        "refreshRate": 120,
+        "type": "Foldable Dynamic AMOLED"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.9,
+      "battery": 8.4,
+      "value": 8.8
+    }
+  },
+  {
+    "id": "samsung-z-fold3-2021",
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 3 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 149999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 4400,
+      "display": {
+        "size": 7.6,
+        "refreshRate": 120,
+        "type": "Foldable Dynamic AMOLED 2X S-Pen"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.1,
+      "camera": 9.1,
+      "battery": 8.5,
+      "value": 8.9
+    }
+  },
+  {
+    "id": "samsung-z-fold4-2022",
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 4 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 154999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 4400,
+      "display": {
+        "size": 7.6,
+        "refreshRate": 120,
+        "type": "Foldable Dynamic AMOLED 2X"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 9.4,
+      "camera": 9.3,
+      "battery": 8.7,
+      "value": 8.9
+    }
+  },
+  {
+    "id": "samsung-z-fold5-2023",
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 5 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 154999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 4400,
+      "display": {
+        "size": 7.6,
+        "refreshRate": 120,
+        "type": "Foldable Dynamic AMOLED 2X"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 9.6,
+      "camera": 9.4,
+      "battery": 8.9,
+      "value": 8.9
+    }
+  },
+  {
+    "id": "samsung-z-flip3-2021",
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 3 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 84999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 3300,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Foldable Dynamic AMOLED 2X"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.7,
+      "battery": 7.8,
+      "value": 8.9
+    }
+  },
+  {
+    "id": "samsung-z-flip4-2022",
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 4 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 89999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 3700,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Foldable Dynamic AMOLED 2X"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 9.1,
+      "camera": 8.9,
+      "battery": 8.2,
+      "value": 9.0
+    }
+  },
+  {
+    "id": "samsung-z-flip5-2023",
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 5 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 99999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 3700,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Foldable Dynamic AMOLED Flex Window"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 9.3,
+      "camera": 9.0,
+      "battery": 8.5,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "samsung-a73-2022",
+    "brand": "Samsung",
+    "model": "Galaxy A73 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 41999,
+      "platform": "Samsung Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 778G",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Super AMOLED Plus 108MP OIS"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 9.1,
+      "battery": 9.1,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-a52-5g-2021",
+    "brand": "Samsung",
+    "model": "Galaxy A52 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 28999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 750G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 120,
+        "type": "Super AMOLED IP67 OIS"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.0,
+      "camera": 8.8,
+      "battery": 8.7,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-a33-2022",
+    "brand": "Samsung",
+    "model": "Galaxy A33 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 28499,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 1280",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 90,
+        "type": "Super AMOLED IP67 OIS"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.4,
+      "battery": 9.0,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-a23-5g-2022",
+    "brand": "Samsung",
+    "model": "Galaxy A23 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 22999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 120,
+        "type": "PLS LCD OIS"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.1,
+      "battery": 9.0,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-a14-4g-2023",
+    "brand": "Samsung",
+    "model": "Galaxy A14",
+    "launchYear": 2023,
+    "price": {
+      "inr": 12999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G80",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 60,
+        "type": "PLS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 6.6,
+      "camera": 7.5,
+      "battery": 9.0,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "samsung-m32-2021",
+    "brand": "Samsung",
+    "model": "Galaxy M32",
+    "launchYear": 2021,
+    "price": {
+      "inr": 14999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G80",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 90,
+        "type": "Super AMOLED 6000mAh"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 8.2,
+      "battery": 9.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "samsung-m21-2020",
+    "brand": "Samsung",
+    "model": "Galaxy M21",
+    "launchYear": 2020,
+    "price": {
+      "inr": 13999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9611",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED 6000mAh"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 6.9,
+      "camera": 7.9,
+      "battery": 9.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "samsung-f22-2021",
+    "brand": "Samsung",
+    "model": "Galaxy F22",
+    "launchYear": 2021,
+    "price": {
+      "inr": 12499,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G80",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 90,
+        "type": "Super AMOLED 6000mAh"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.0,
+      "camera": 7.8,
+      "battery": 9.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "samsung-f42-5g-2021",
+    "brand": "Samsung",
+    "model": "Galaxy F42 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 20999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 700",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "FHD+ LCD 90Hz"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 8.0,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-f54-5g-2023",
+    "brand": "Samsung",
+    "model": "Galaxy F54 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 27999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 1380",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Super AMOLED Plus 108MP OIS 6000mAh"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.9,
+      "battery": 9.9,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "apple-iphone-12-mini-2020",
+    "brand": "Apple",
+    "model": "iPhone 12 Mini",
+    "launchYear": 2020,
+    "price": {
+      "inr": 69900,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A14 Bionic",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        128,
+        256
+      ],
+      "battery": 2227,
+      "display": {
+        "size": 5.4,
+        "refreshRate": 60,
+        "type": "Super Retina XDR OLED Compact"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 8.6,
+      "battery": 7.5,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "apple-iphone-12-pro-2020",
+    "brand": "Apple",
+    "model": "iPhone 12 Pro",
+    "launchYear": 2020,
+    "price": {
+      "inr": 119900,
+      "platform": "Apple Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A14 Bionic",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128,
+        256,
+        512
+      ],
+      "battery": 2815,
+      "display": {
+        "size": 6.1,
+        "refreshRate": 60,
+        "type": "Super Retina XDR OLED LiDAR"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 8.9,
+      "camera": 9.1,
+      "battery": 8.3,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "apple-iphone-11-pro-2020",
+    "brand": "Apple",
+    "model": "iPhone 11 Pro",
+    "launchYear": 2020,
+    "price": {
+      "inr": 99900,
+      "platform": "Apple Store / Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A13 Bionic",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        256,
+        512
+      ],
+      "battery": 3046,
+      "display": {
+        "size": 5.8,
+        "refreshRate": 60,
+        "type": "Super Retina XDR OLED Compact Flagship"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 8.9,
+      "battery": 8.3,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "apple-iphone-se-2-2020",
+    "brand": "Apple",
+    "model": "iPhone SE (2nd Gen)",
+    "launchYear": 2020,
+    "price": {
+      "inr": 42500,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A13 Bionic",
+      "ram": [
+        3
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 1821,
+      "display": {
+        "size": 4.7,
+        "refreshRate": 60,
+        "type": "Retina HD Classic"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 7
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.1,
+      "battery": 7.2,
+      "value": 9.0
+    }
+  },
+  {
+    "id": "oneplus-10r-2022",
+    "brand": "OnePlus",
+    "model": "10R 5G Endurance",
+    "launchYear": 2022,
+    "price": {
+      "inr": 38999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8100 Max",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Fluid AMOLED 150W Fast Charge"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.9,
+      "camera": 8.7,
+      "battery": 9.1,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "oneplus-9rt-2022",
+    "brand": "OnePlus",
+    "model": "9RT 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 42999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.62,
+        "refreshRate": 120,
+        "type": "E4 AMOLED Sony IMX766 OIS"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.1,
+      "camera": 8.9,
+      "battery": 8.7,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oneplus-9-2021",
+    "brand": "OnePlus",
+    "model": "9 5G Hasselblad",
+    "launchYear": 2021,
+    "price": {
+      "inr": 49999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 120,
+        "type": "Fluid AMOLED"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.0,
+      "camera": 9.0,
+      "battery": 8.7,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "oneplus-8-2020",
+    "brand": "OnePlus",
+    "model": "8 5G",
+    "launchYear": 2020,
+    "price": {
+      "inr": 41999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 865",
+      "ram": [
+        6,
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4300,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 90,
+        "type": "Fluid AMOLED Curved"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.7,
+      "camera": 8.5,
+      "battery": 8.5,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oneplus-nord-ce-original-2021",
+    "brand": "OnePlus",
+    "model": "Nord CE 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 22999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 750G",
+      "ram": [
+        6,
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 90,
+        "type": "Fluid AMOLED Sleek"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.9,
+      "camera": 8.2,
+      "battery": 8.8,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "mi-10t-pro-2020",
+    "brand": "Xiaomi",
+    "model": "Mi 10T Pro 5G",
+    "launchYear": 2020,
+    "price": {
+      "inr": 39999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 865",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 144,
+        "type": "144Hz AdaptiveSync IPS LCD 108MP"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 8.9,
+      "camera": 8.9,
+      "battery": 9.1,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "mi-10t-2020",
+    "brand": "Xiaomi",
+    "model": "Mi 10T 5G",
+    "launchYear": 2020,
+    "price": {
+      "inr": 35999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 865",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 144,
+        "type": "144Hz AdaptiveSync IPS LCD 64MP"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.6,
+      "battery": 9.1,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "mi-10-2020",
+    "brand": "Xiaomi",
+    "model": "Mi 10 5G",
+    "launchYear": 2020,
+    "price": {
+      "inr": 49999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 865",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4780,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 90,
+        "type": "3D Curved AMOLED 108MP OIS"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 9.1,
+      "battery": 8.9,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "redmi-note-9-pro-max-2020",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 9 Pro Max",
+    "launchYear": 2020,
+    "price": {
+      "inr": 16499,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 720G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5020,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 60,
+        "type": "FHD+ DotDisplay"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.3,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "redmi-note-9-pro-2020",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 9 Pro",
+    "launchYear": 2020,
+    "price": {
+      "inr": 13999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 720G",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5020,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 60,
+        "type": "FHD+ DotDisplay"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 8.0,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "redmi-note-9-2020",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 9",
+    "launchYear": 2020,
+    "price": {
+      "inr": 11999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G85",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5020,
+      "display": {
+        "size": 6.53,
+        "refreshRate": 60,
+        "type": "FHD+ DotDisplay"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 6.9,
+      "camera": 7.6,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "redmi-note-10s-2021",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10S",
+    "launchYear": 2021,
+    "price": {
+      "inr": 14999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G95",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 60,
+        "type": "Super AMOLED Stereo"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 8.2,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "redmi-note-10t-5g-2021",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10T 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 13999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 700",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "FHD+ 90Hz AdaptiveSync"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.6,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "redmi-10-prime-2021",
+    "brand": "Xiaomi",
+    "model": "Redmi 10 Prime",
+    "launchYear": 2021,
+    "price": {
+      "inr": 12499,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G88",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "FHD+ 90Hz 6000mAh"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.0,
+      "camera": 7.6,
+      "battery": 9.9,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "redmi-11-prime-5g-2022",
+    "brand": "Xiaomi",
+    "model": "Redmi 11 Prime 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 13999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 700",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.58,
+        "refreshRate": 90,
+        "type": "FHD+ 90Hz"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.6,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "redmi-k20-pro-legend",
+    "brand": "Xiaomi",
+    "model": "Redmi K20 Pro Alpha Flagship",
+    "launchYear": 2020,
+    "price": {
+      "inr": 27999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 855",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.39,
+        "refreshRate": 60,
+        "type": "Pop-Up Horizon AMOLED Truly Bezel-less"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.8,
+      "battery": 8.4,
+      "value": 9.9
+    }
+  },
+  {
+    "id": "poco-x2-2020",
+    "brand": "Poco",
+    "model": "X2 120Hz Pioneer",
+    "launchYear": 2020,
+    "price": {
+      "inr": 15999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 730G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "120Hz RealityFlow IPS Sony IMX686"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.4,
+      "battery": 8.7,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "poco-m2-pro-2020",
+    "brand": "Poco",
+    "model": "M2 Pro",
+    "launchYear": 2020,
+    "price": {
+      "inr": 13999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 720G",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 60,
+        "type": "FHD+ Gorilla Glass 5 33W Fast Charge"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 8.0,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "poco-m3-2021",
+    "brand": "Poco",
+    "model": "M3 Leather Design",
+    "launchYear": 2021,
+    "price": {
+      "inr": 10999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 662",
+      "ram": [
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.53,
+        "refreshRate": 60,
+        "type": "FHD+ 6000mAh Monster Battery"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.8,
+      "camera": 7.5,
+      "battery": 9.9,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "poco-m4-5g-2022",
+    "brand": "Poco",
+    "model": "M4 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 12999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 700",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.58,
+        "refreshRate": 90,
+        "type": "FHD+ Smart Display"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.6,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "poco-m5-2022",
+    "brand": "Poco",
+    "model": "M5 Performance",
+    "launchYear": 2022,
+    "price": {
+      "inr": 12499,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G99",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.58,
+        "refreshRate": 90,
+        "type": "FHD+ 90Hz Leather Texture"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-gt-neo-2-2021",
+    "brand": "Realme",
+    "model": "GT Neo 2 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 31999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 870",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.62,
+        "refreshRate": 120,
+        "type": "E4 AMOLED 120Hz 65W SuperDart"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.2,
+      "camera": 8.8,
+      "battery": 9.1,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-gt-neo-3t-2022",
+    "brand": "Realme",
+    "model": "GT Neo 3T 80W",
+    "launchYear": 2022,
+    "price": {
+      "inr": 29999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 870",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.62,
+        "refreshRate": 120,
+        "type": "E4 AMOLED 80W SuperDart Flagship Killer"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.2,
+      "camera": 8.8,
+      "battery": 9.2,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "realme-9-5g-2022",
+    "brand": "Realme",
+    "model": "9 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 14999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 810",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "IPS LCD 90Hz"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-8s-5g-2021",
+    "brand": "Realme",
+    "model": "8s 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 17999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 810",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "IPS LCD 90Hz 33W Dart"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.2,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "realme-8i-2021",
+    "brand": "Realme",
+    "model": "8i 120Hz",
+    "launchYear": 2021,
+    "price": {
+      "inr": 13999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G96",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 120,
+        "type": "120Hz Ultra Smooth Display"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 8.0,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-narzo-30-pro-2021",
+    "brand": "Realme",
+    "model": "Narzo 30 Pro 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 16999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 800U",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 120,
+        "type": "120Hz IPS LCD 30W Dart"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.1,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-narzo-50-pro-2022",
+    "brand": "Realme",
+    "model": "Narzo 50 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 21999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 920",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 90,
+        "type": "Super AMOLED 90Hz Vapor Chamber"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.4,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-c35-2022",
+    "brand": "Realme",
+    "model": "C35 Glowing Design",
+    "launchYear": 2022,
+    "price": {
+      "inr": 11999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Unisoc T616",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 60,
+        "type": "FHD+ Ultra-Slim Glowing Green"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.6,
+      "camera": 7.4,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "vivo-x80-pro-2022",
+    "brand": "Vivo",
+    "model": "X80 Pro Zeiss Gimbal",
+    "launchYear": 2022,
+    "price": {
+      "inr": 79999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 1",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4700,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "2K LTPO3 E5 AMOLED V1+ Chip"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.4,
+      "camera": 9.9,
+      "battery": 8.9,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-x80-2022",
+    "brand": "Vivo",
+    "model": "X80 5G Zeiss",
+    "launchYear": 2022,
+    "price": {
+      "inr": 54999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 9000",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "1.5K E5 AMOLED Sony IMX866"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.3,
+      "camera": 9.6,
+      "battery": 8.8,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "vivo-v23-2022",
+    "brand": "Vivo",
+    "model": "V23 5G Dual Selfie",
+    "launchYear": 2022,
+    "price": {
+      "inr": 29990,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 920",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4200,
+      "display": {
+        "size": 6.44,
+        "refreshRate": 90,
+        "type": "AMOLED Color Changing 50MP Eye AF Selfie"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 8.1,
+      "camera": 9.2,
+      "battery": 8.5,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "vivo-v21-5g-2021",
+    "brand": "Vivo",
+    "model": "V21 5G OIS Selfie",
+    "launchYear": 2021,
+    "price": {
+      "inr": 29990,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 800U",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.44,
+        "refreshRate": 90,
+        "type": "AMOLED 44MP OIS World's First Selfie"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 44
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 9.1,
+      "battery": 8.3,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-t1x-2022",
+    "brand": "Vivo",
+    "model": "T1x Gaming",
+    "launchYear": 2022,
+    "price": {
+      "inr": 11999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 680",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.58,
+        "refreshRate": 90,
+        "type": "FHD+ 90Hz 4-Layer Cooling"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.6,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "vivo-y200-2023",
+    "brand": "Vivo",
+    "model": "Y200 5G Aura Light",
+    "launchYear": 2023,
+    "price": {
+      "inr": 21999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 4 Gen 1",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4800,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "Ultra Slim AMOLED Smart Aura Light"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.4,
+      "battery": 8.8,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "iqoo-9t-2022",
+    "brand": "iQOO",
+    "model": "9T 5G BMW Motorsport",
+    "launchYear": 2022,
+    "price": {
+      "inr": 49999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4700,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "E5 AMOLED 120W V1+ Gaming Chip"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.6,
+      "camera": 9.2,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "iqoo-z5-2021",
+    "brand": "iQOO",
+    "model": "Z5 5G Endurance",
+    "launchYear": 2021,
+    "price": {
+      "inr": 23990,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 778G",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "120Hz IPS LCD Stereo Speakers"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 8.4,
+      "battery": 9.1,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "iqoo-z6-lite-2022",
+    "brand": "iQOO",
+    "model": "Z6 Lite 5G World's First 4 Gen 1",
+    "launchYear": 2022,
+    "price": {
+      "inr": 13999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 4 Gen 1",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.58,
+        "refreshRate": 120,
+        "type": "120Hz FHD+ Display"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "google-pixel-7-2022",
+    "brand": "Google",
+    "model": "Pixel 7 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 59999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Google Tensor G2",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4355,
+      "display": {
+        "size": 6.3,
+        "refreshRate": 90,
+        "type": "AMOLED IP68 Cinematic Blur"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 9.6,
+      "battery": 8.7,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "google-pixel-7-pro-2022",
+    "brand": "Google",
+    "model": "Pixel 7 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 84999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Google Tensor G2",
+      "ram": [
+        12
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "LTPO AMOLED 5x Telephoto Macro"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 9.9,
+      "battery": 9.1,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "google-pixel-6-2021",
+    "brand": "Google",
+    "model": "Pixel 6 5G Iconic Visor",
+    "launchYear": 2021,
+    "price": {
+      "inr": 54999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Google Tensor G1",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4614,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 90,
+        "type": "AMOLED Clean Software Flagship"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 9.5,
+      "battery": 8.8,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "moto-edge-20-pro-2021",
+    "brand": "Motorola",
+    "model": "Moto Edge 20 Pro",
+    "launchYear": 2021,
+    "price": {
+      "inr": 36999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 870",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 144,
+        "type": "10-bit 144Hz OLED 5x Periscope OIS"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.9,
+      "camera": 9.1,
+      "battery": 8.7,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "moto-edge-20-fusion-2021",
+    "brand": "Motorola",
+    "model": "Moto Edge 20 Fusion 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 21499,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 800U",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 90,
+        "type": "10-bit OLED 108MP Clean Android"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.6,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "moto-g60-2021",
+    "brand": "Motorola",
+    "model": "Moto G60 108MP Battery Giant",
+    "launchYear": 2021,
+    "price": {
+      "inr": 17999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 732G",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.8,
+        "refreshRate": 120,
+        "type": "120Hz HDR10 IPS LCD 6000mAh"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.6,
+      "battery": 9.9,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "moto-g40-fusion-2021",
+    "brand": "Motorola",
+    "model": "Moto G40 Fusion",
+    "launchYear": 2021,
+    "price": {
+      "inr": 14499,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 732G",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.8,
+        "refreshRate": 120,
+        "type": "120Hz HDR10 IPS LCD 6000mAh"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.1,
+      "battery": 9.9,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "moto-g71-5g-2022",
+    "brand": "Motorola",
+    "model": "Moto G71 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 18999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "FHD+ AMOLED 13 5G Bands"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.2,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "moto-g51-5g-2021",
+    "brand": "Motorola",
+    "model": "Moto G51 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 14999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 480+",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.8,
+        "refreshRate": 120,
+        "type": "120Hz FHD+ IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "moto-g31-2021",
+    "brand": "Motorola",
+    "model": "Moto G31 AMOLED",
+    "launchYear": 2021,
+    "price": {
+      "inr": 12999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G85",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "FHD+ AMOLED Clean Android"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 6.9,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "infinix-gt-10-pro-2023",
+    "brand": "Infinix",
+    "model": "GT 10 Pro 5G Cyber Mecha",
+    "launchYear": 2023,
+    "price": {
+      "inr": 19999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8050",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "10-bit AMOLED Mini-LED Back Clean XOS"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.4,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "infinix-zero-ultra-2022",
+    "brand": "Infinix",
+    "model": "Zero Ultra 180W Thunder",
+    "launchYear": 2022,
+    "price": {
+      "inr": 32999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 920",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.8,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED 200MP OIS 180W Charge"
+      },
+      "cameras": {
+        "main": 200,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 9.3,
+      "battery": 8.6,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "infinix-zero-30-5g-2023",
+    "brand": "Infinix",
+    "model": "Zero 30 5G 4K 60fps Selfie",
+    "launchYear": 2023,
+    "price": {
+      "inr": 23999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8020",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 144,
+        "type": "3D Curved AMOLED 50MP 4K60 Selfie"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 9.2,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "infinix-note-12-pro-5g-2022",
+    "brand": "Infinix",
+    "model": "Note 12 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 17999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 810",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "AMOLED 108MP Camera"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.4,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "tecno-pova-5-pro-2023",
+    "brand": "Tecno",
+    "model": "Pova 5 Pro 5G Arc LED",
+    "launchYear": 2023,
+    "price": {
+      "inr": 14999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6080",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "FHD+ 120Hz RGB Arc LED Light"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "tecno-phantom-x2-pro-2023",
+    "brand": "Tecno",
+    "model": "Phantom X2 Pro Retractable Portrait",
+    "launchYear": 2023,
+    "price": {
+      "inr": 49999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 9000",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5160,
+      "display": {
+        "size": 6.8,
+        "refreshRate": 120,
+        "type": "Curved AMOLED World's First Retractable Lens"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.2,
+      "camera": 9.4,
+      "battery": 9.2,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "lava-storm-5g-2023",
+    "brand": "Lava",
+    "model": "Storm 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 13499,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6080",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "FHD+ 120Hz Clean Stock Android"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "samsung-galaxy-s10-2019",
+    "brand": "Samsung",
+    "model": "Galaxy S10",
+    "launchYear": 2019,
+    "price": {
+      "inr": 66900,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9820",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        512
+      ],
+      "battery": 3400,
+      "display": {
+        "size": 6.1,
+        "refreshRate": 60,
+        "type": "Dynamic AMOLED"
+      },
+      "cameras": {
+        "main": 16,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 7.9,
+      "camera": 8.5,
+      "battery": 7.8,
+      "value": 8.8
+    }
+  },
+  {
+    "id": "samsung-galaxy-s10-plus-2019",
+    "brand": "Samsung",
+    "model": "Galaxy S10+",
+    "launchYear": 2019,
+    "price": {
+      "inr": 73900,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9820",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        512,
+        1024
+      ],
+      "battery": 4100,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Dynamic AMOLED Dual Selfie"
+      },
+      "cameras": {
+        "main": 16,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 8.1,
+      "camera": 8.7,
+      "battery": 8.2,
+      "value": 8.8
+    }
+  },
+  {
+    "id": "samsung-galaxy-s10e-2019",
+    "brand": "Samsung",
+    "model": "Galaxy S10e",
+    "launchYear": 2019,
+    "price": {
+      "inr": 55900,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9820",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 3100,
+      "display": {
+        "size": 5.8,
+        "refreshRate": 60,
+        "type": "Dynamic AMOLED Compact Flat"
+      },
+      "cameras": {
+        "main": 16,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.4,
+      "battery": 7.5,
+      "value": 8.9
+    }
+  },
+  {
+    "id": "samsung-galaxy-s10-lite-2020",
+    "brand": "Samsung",
+    "model": "Galaxy S10 Lite",
+    "launchYear": 2020,
+    "price": {
+      "inr": 39999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 855",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        512
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "Super AMOLED Plus Super Steady OIS"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 8.7,
+      "battery": 8.7,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "samsung-galaxy-note-10-2019",
+    "brand": "Samsung",
+    "model": "Galaxy Note 10",
+    "launchYear": 2019,
+    "price": {
+      "inr": 69999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9825",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 3500,
+      "display": {
+        "size": 6.3,
+        "refreshRate": 60,
+        "type": "Dynamic AMOLED Compact S-Pen"
+      },
+      "cameras": {
+        "main": 16,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 8.0,
+      "camera": 8.7,
+      "battery": 7.9,
+      "value": 8.8
+    }
+  },
+  {
+    "id": "samsung-galaxy-note-10-plus-2019",
+    "brand": "Samsung",
+    "model": "Galaxy Note 10+",
+    "launchYear": 2019,
+    "price": {
+      "inr": 79999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9825",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 4300,
+      "display": {
+        "size": 6.8,
+        "refreshRate": 60,
+        "type": "Dynamic AMOLED S-Pen Flagship"
+      },
+      "cameras": {
+        "main": 16,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 8.3,
+      "camera": 8.9,
+      "battery": 8.5,
+      "value": 8.9
+    }
+  },
+  {
+    "id": "samsung-galaxy-note-10-lite-2020",
+    "brand": "Samsung",
+    "model": "Galaxy Note 10 Lite",
+    "launchYear": 2020,
+    "price": {
+      "inr": 38999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9810",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "Super AMOLED Affordable S-Pen"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.4,
+      "battery": 8.7,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "samsung-galaxy-note-9-2018",
+    "brand": "Samsung",
+    "model": "Galaxy Note 9",
+    "launchYear": 2018,
+    "price": {
+      "inr": 67900,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9810",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        512
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED Bluetooth S-Pen"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.4,
+      "battery": 8.2,
+      "value": 8.8
+    }
+  },
+  {
+    "id": "samsung-galaxy-s9-plus-2018",
+    "brand": "Samsung",
+    "model": "Galaxy S9+",
+    "launchYear": 2018,
+    "price": {
+      "inr": 64900,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9810",
+      "ram": [
+        6
+      ],
+      "storage": [
+        64,
+        128,
+        256
+      ],
+      "battery": 3500,
+      "display": {
+        "size": 6.2,
+        "refreshRate": 60,
+        "type": "Super AMOLED Dual Aperture"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.3,
+      "battery": 7.8,
+      "value": 8.7
+    }
+  },
+  {
+    "id": "samsung-galaxy-s9-2018",
+    "brand": "Samsung",
+    "model": "Galaxy S9",
+    "launchYear": 2018,
+    "price": {
+      "inr": 57900,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9810",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 3000,
+      "display": {
+        "size": 5.8,
+        "refreshRate": 60,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 8.2,
+      "battery": 7.4,
+      "value": 8.7
+    }
+  },
+  {
+    "id": "samsung-galaxy-a51-2020",
+    "brand": "Samsung",
+    "model": "Galaxy A51",
+    "launchYear": 2020,
+    "price": {
+      "inr": 23999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9611",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 60,
+        "type": "Super AMOLED Infinity-O"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 8.3,
+      "battery": 8.2,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-galaxy-a71-2020",
+    "brand": "Samsung",
+    "model": "Galaxy A71",
+    "launchYear": 2020,
+    "price": {
+      "inr": 29999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 730",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "Super AMOLED Plus 64MP"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.6,
+      "battery": 8.6,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-galaxy-a50-2019",
+    "brand": "Samsung",
+    "model": "Galaxy A50",
+    "launchYear": 2019,
+    "price": {
+      "inr": 19990,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9610",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED On-screen Fingerprint"
+      },
+      "cameras": {
+        "main": 25,
+        "front": 25
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 7.9,
+      "battery": 8.1,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-galaxy-a50s-2019",
+    "brand": "Samsung",
+    "model": "Galaxy A50s",
+    "launchYear": 2019,
+    "price": {
+      "inr": 22999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9611",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED 48MP Prism"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 8.1,
+      "battery": 8.1,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "samsung-galaxy-a70-2019",
+    "brand": "Samsung",
+    "model": "Galaxy A70",
+    "launchYear": 2019,
+    "price": {
+      "inr": 28990,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 675",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "Super AMOLED 25W Fast Charging"
+      },
+      "cameras": {
+        "main": 32,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 8.1,
+      "battery": 8.5,
+      "value": 9.0
+    }
+  },
+  {
+    "id": "samsung-galaxy-a70s-2019",
+    "brand": "Samsung",
+    "model": "Galaxy A70s",
+    "launchYear": 2019,
+    "price": {
+      "inr": 28999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 675",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "Super AMOLED 64MP Prism"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 8.3,
+      "battery": 8.5,
+      "value": 9.0
+    }
+  },
+  {
+    "id": "samsung-galaxy-a80-2019",
+    "brand": "Samsung",
+    "model": "Galaxy A80",
+    "launchYear": 2019,
+    "price": {
+      "inr": 47990,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 730G",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 3700,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "New Infinity Super AMOLED Rotating Camera"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 48
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.5,
+      "battery": 7.9,
+      "value": 8.8
+    }
+  },
+  {
+    "id": "samsung-galaxy-a31-2020",
+    "brand": "Samsung",
+    "model": "Galaxy A31",
+    "launchYear": 2020,
+    "price": {
+      "inr": 21999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio P65",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED 5000mAh"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 7.0,
+      "camera": 7.8,
+      "battery": 8.9,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "samsung-galaxy-a21s-2020",
+    "brand": "Samsung",
+    "model": "Galaxy A21s",
+    "launchYear": 2020,
+    "price": {
+      "inr": 16499,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 850",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 60,
+        "type": "PLS TFT Infinity-O"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 6.8,
+      "camera": 7.5,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-galaxy-a12-2021",
+    "brand": "Samsung",
+    "model": "Galaxy A12",
+    "launchYear": 2021,
+    "price": {
+      "inr": 12999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio P35",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 60,
+        "type": "PLS TFT Quad Camera"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.4,
+      "camera": 7.4,
+      "battery": 9.0,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "samsung-galaxy-a22-5g-2021",
+    "brand": "Samsung",
+    "model": "Galaxy A22 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 19999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 700",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "TFT LCD 90Hz"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-galaxy-a22-2021",
+    "brand": "Samsung",
+    "model": "Galaxy A22",
+    "launchYear": 2021,
+    "price": {
+      "inr": 18499,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G80",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 90,
+        "type": "Super AMOLED 90Hz OIS"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 8.1,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-galaxy-a32-2021",
+    "brand": "Samsung",
+    "model": "Galaxy A32",
+    "launchYear": 2021,
+    "price": {
+      "inr": 21999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G80",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 90,
+        "type": "Super AMOLED 90Hz 64MP"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 8.3,
+      "battery": 9.0,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-galaxy-a72-2021",
+    "brand": "Samsung",
+    "model": "Galaxy A72",
+    "launchYear": 2021,
+    "price": {
+      "inr": 34999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 720G",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 90,
+        "type": "Super AMOLED 90Hz 3x Optical Telephoto OIS"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.8,
+      "battery": 9.1,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-galaxy-a13-2022",
+    "brand": "Samsung",
+    "model": "Galaxy A13",
+    "launchYear": 2022,
+    "price": {
+      "inr": 14999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 850",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 60,
+        "type": "PLS LCD Gorilla Glass 5"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.8,
+      "camera": 7.6,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-galaxy-a23-2022",
+    "brand": "Samsung",
+    "model": "Galaxy A23",
+    "launchYear": 2022,
+    "price": {
+      "inr": 19499,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 680",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "PLS LCD 90Hz 50MP OIS"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 8.0,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-galaxy-m31s-2020",
+    "brand": "Samsung",
+    "model": "Galaxy M31s",
+    "launchYear": 2020,
+    "price": {
+      "inr": 19499,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9611",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 60,
+        "type": "Super AMOLED 6000mAh 25W Fast Charge"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 8.4,
+      "battery": 9.9,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "samsung-galaxy-m30s-2019",
+    "brand": "Samsung",
+    "model": "Galaxy M30s",
+    "launchYear": 2019,
+    "price": {
+      "inr": 13999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9611",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED 6000mAh Battery Monster"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.0,
+      "camera": 7.9,
+      "battery": 9.9,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "samsung-galaxy-m40-2019",
+    "brand": "Samsung",
+    "model": "Galaxy M40",
+    "launchYear": 2019,
+    "price": {
+      "inr": 19990,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 675",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 3500,
+      "display": {
+        "size": 6.3,
+        "refreshRate": 60,
+        "type": "PLS TFT Screen Sound"
+      },
+      "cameras": {
+        "main": 32,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 7.9,
+      "battery": 7.8,
+      "value": 9.0
+    }
+  },
+  {
+    "id": "samsung-galaxy-m42-5g-2021",
+    "brand": "Samsung",
+    "model": "Galaxy M42 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 21999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 750G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 60,
+        "type": "Super AMOLED Knox Security 5G"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 7.9,
+      "camera": 8.2,
+      "battery": 9.0,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "samsung-galaxy-m62-2021",
+    "brand": "Samsung",
+    "model": "Galaxy M62",
+    "launchYear": 2021,
+    "price": {
+      "inr": 23999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9825",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 7000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "Super AMOLED Plus 7000mAh Flagship Processor"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.6,
+      "battery": 10.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "samsung-galaxy-m12-2021",
+    "brand": "Samsung",
+    "model": "Galaxy M12",
+    "launchYear": 2021,
+    "price": {
+      "inr": 10999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 850",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "PLS TFT 90Hz 6000mAh"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.8,
+      "camera": 7.5,
+      "battery": 9.9,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "samsung-galaxy-m13-5g-2022",
+    "brand": "Samsung",
+    "model": "Galaxy M13 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 13999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 700",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "PLS LCD 90Hz"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.6,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "samsung-galaxy-m13-2022",
+    "brand": "Samsung",
+    "model": "Galaxy M13",
+    "launchYear": 2022,
+    "price": {
+      "inr": 11999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 850",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 60,
+        "type": "FHD+ LCD 6000mAh"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.8,
+      "camera": 7.6,
+      "battery": 9.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "samsung-galaxy-f12-2021",
+    "brand": "Samsung",
+    "model": "Galaxy F12",
+    "launchYear": 2021,
+    "price": {
+      "inr": 10999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 850",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "PLS TFT 90Hz 6000mAh"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.8,
+      "camera": 7.5,
+      "battery": 9.9,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "samsung-galaxy-f13-2022",
+    "brand": "Samsung",
+    "model": "Galaxy F13",
+    "launchYear": 2022,
+    "price": {
+      "inr": 11999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 850",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 60,
+        "type": "FHD+ LCD 6000mAh Auto Data Switching"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.8,
+      "camera": 7.6,
+      "battery": 9.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "samsung-galaxy-f34-5g-2023",
+    "brand": "Samsung",
+    "model": "Galaxy F34 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 18999,
+      "platform": "Amazon / Samsung Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 1280",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 120,
+        "type": "Super AMOLED 120Hz 50MP OIS 6000mAh"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.3,
+      "battery": 9.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "apple-iphone-xr-2018",
+    "brand": "Apple",
+    "model": "iPhone XR",
+    "launchYear": 2018,
+    "price": {
+      "inr": 49900,
+      "platform": "Apple Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A12 Bionic",
+      "ram": [
+        3
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 2942,
+      "display": {
+        "size": 6.1,
+        "refreshRate": 60,
+        "type": "Liquid Retina HD Display"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 7
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.2,
+      "battery": 8.2,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "apple-iphone-xs-2018",
+    "brand": "Apple",
+    "model": "iPhone XS",
+    "launchYear": 2018,
+    "price": {
+      "inr": 99900,
+      "platform": "Apple Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A12 Bionic",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        256,
+        512
+      ],
+      "battery": 2658,
+      "display": {
+        "size": 5.8,
+        "refreshRate": 60,
+        "type": "Super Retina OLED Compact"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 7
+      }
+    },
+    "useCases": {
+      "gaming": 8.0,
+      "camera": 8.4,
+      "battery": 7.8,
+      "value": 8.9
+    }
+  },
+  {
+    "id": "apple-iphone-xs-max-2018",
+    "brand": "Apple",
+    "model": "iPhone XS Max",
+    "launchYear": 2018,
+    "price": {
+      "inr": 109900,
+      "platform": "Apple Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A12 Bionic",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        256,
+        512
+      ],
+      "battery": 3174,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 60,
+        "type": "Super Retina OLED Large"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 7
+      }
+    },
+    "useCases": {
+      "gaming": 8.1,
+      "camera": 8.5,
+      "battery": 8.3,
+      "value": 8.9
+    }
+  },
+  {
+    "id": "apple-iphone-x-2017",
+    "brand": "Apple",
+    "model": "iPhone X",
+    "launchYear": 2017,
+    "price": {
+      "inr": 89000,
+      "platform": "Apple Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A11 Bionic",
+      "ram": [
+        3
+      ],
+      "storage": [
+        64,
+        256
+      ],
+      "battery": 2716,
+      "display": {
+        "size": 5.8,
+        "refreshRate": 60,
+        "type": "Super Retina OLED First Notch"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 7
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 8.0,
+      "battery": 7.4,
+      "value": 8.7
+    }
+  },
+  {
+    "id": "apple-iphone-8-plus-2017",
+    "brand": "Apple",
+    "model": "iPhone 8 Plus",
+    "launchYear": 2017,
+    "price": {
+      "inr": 73000,
+      "platform": "Apple Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A11 Bionic",
+      "ram": [
+        3
+      ],
+      "storage": [
+        64,
+        128,
+        256
+      ],
+      "battery": 2691,
+      "display": {
+        "size": 5.5,
+        "refreshRate": 60,
+        "type": "Retina HD Classic Dual Cam"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 7
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 7.9,
+      "battery": 7.6,
+      "value": 8.7
+    }
+  },
+  {
+    "id": "apple-iphone-8-2017",
+    "brand": "Apple",
+    "model": "iPhone 8",
+    "launchYear": 2017,
+    "price": {
+      "inr": 64000,
+      "platform": "Apple Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A11 Bionic",
+      "ram": [
+        2
+      ],
+      "storage": [
+        64,
+        128,
+        256
+      ],
+      "battery": 1821,
+      "display": {
+        "size": 4.7,
+        "refreshRate": 60,
+        "type": "Retina HD Classic Compact"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 7
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.8,
+      "battery": 7.1,
+      "value": 8.7
+    }
+  },
+  {
+    "id": "xiaomi-redmi-note-8-pro-2019",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 8 Pro",
+    "launchYear": 2019,
+    "price": {
+      "inr": 14999,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G90T LiquidCool",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.53,
+        "refreshRate": 60,
+        "type": "FHD+ HDR IPS LCD 64MP Quad"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 7.9,
+      "camera": 8.4,
+      "battery": 8.8,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "xiaomi-redmi-note-8-2019",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 8",
+    "launchYear": 2019,
+    "price": {
+      "inr": 9999,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 665",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.3,
+        "refreshRate": 60,
+        "type": "FHD+ IPS LCD 48MP Quad"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.9,
+      "battery": 8.3,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "xiaomi-redmi-note-7-pro-2019",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 7 Pro",
+    "launchYear": 2019,
+    "price": {
+      "inr": 13999,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 675",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.3,
+        "refreshRate": 60,
+        "type": "FHD+ Dot Notch Sony IMX586"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 8.2,
+      "battery": 8.3,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "xiaomi-redmi-note-7s-2019",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 7S",
+    "launchYear": 2019,
+    "price": {
+      "inr": 10999,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 660",
+      "ram": [
+        3,
+        4
+      ],
+      "storage": [
+        32,
+        64
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.3,
+        "refreshRate": 60,
+        "type": "FHD+ Dot Notch 48MP"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 7.9,
+      "battery": 8.3,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "xiaomi-redmi-note-6-pro-2018",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 6 Pro",
+    "launchYear": 2018,
+    "price": {
+      "inr": 13999,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 636",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.26,
+        "refreshRate": 60,
+        "type": "IPS LCD Dual Front Camera"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 6.9,
+      "camera": 7.6,
+      "battery": 8.3,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "xiaomi-redmi-note-5-pro-2018",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 5 Pro",
+    "launchYear": 2018,
+    "price": {
+      "inr": 14999,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 636",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 5.99,
+        "refreshRate": 60,
+        "type": "FHD+ 18:9 Camera Beast"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 6.9,
+      "camera": 7.6,
+      "battery": 8.3,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "xiaomi-redmi-9-prime-2020",
+    "brand": "Xiaomi",
+    "model": "Redmi 9 Prime",
+    "launchYear": 2020,
+    "price": {
+      "inr": 9999,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G80",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5020,
+      "display": {
+        "size": 6.53,
+        "refreshRate": 60,
+        "type": "FHD+ IPS LCD Quad Camera"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 7.4,
+      "battery": 9.1,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "xiaomi-redmi-9-power-2020",
+    "brand": "Xiaomi",
+    "model": "Redmi 9 Power",
+    "launchYear": 2020,
+    "price": {
+      "inr": 10999,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 662",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.53,
+        "refreshRate": 60,
+        "type": "FHD+ 6000mAh Stereo Speakers"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.9,
+      "camera": 7.6,
+      "battery": 9.9,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "xiaomi-redmi-9a-2020",
+    "brand": "Xiaomi",
+    "model": "Redmi 9A",
+    "launchYear": 2020,
+    "price": {
+      "inr": 6799,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G25",
+      "ram": [
+        2,
+        3
+      ],
+      "storage": [
+        32
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.53,
+        "refreshRate": 60,
+        "type": "HD+ IPS LCD"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 5.5,
+      "camera": 6.0,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "xiaomi-redmi-8a-dual-2020",
+    "brand": "Xiaomi",
+    "model": "Redmi 8A Dual",
+    "launchYear": 2020,
+    "price": {
+      "inr": 6499,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 439",
+      "ram": [
+        2,
+        3
+      ],
+      "storage": [
+        32,
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.22,
+        "refreshRate": 60,
+        "type": "HD+ Gorilla Glass 5"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 5.7,
+      "camera": 6.2,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "xiaomi-redmi-10a-2022",
+    "brand": "Xiaomi",
+    "model": "Redmi 10A",
+    "launchYear": 2022,
+    "price": {
+      "inr": 8499,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G25",
+      "ram": [
+        3,
+        4
+      ],
+      "storage": [
+        32,
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.53,
+        "refreshRate": 60,
+        "type": "HD+ IPS LCD"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 5.5,
+      "camera": 6.0,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "xiaomi-redmi-11-prime-2022",
+    "brand": "Xiaomi",
+    "model": "Redmi 11 Prime",
+    "launchYear": 2022,
+    "price": {
+      "inr": 12999,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G99",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.58,
+        "refreshRate": 90,
+        "type": "FHD+ 90Hz AdaptiveSync 50MP"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "xiaomi-redmi-12c-2023",
+    "brand": "Xiaomi",
+    "model": "Redmi 12C",
+    "launchYear": 2023,
+    "price": {
+      "inr": 8999,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G85",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.71,
+        "refreshRate": 60,
+        "type": "HD+ Big Display 50MP"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 6.4,
+      "camera": 7.0,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "xiaomi-mi-10i-5g-2021",
+    "brand": "Xiaomi",
+    "model": "Mi 10i 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 20999,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 750G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4820,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "120Hz AdaptiveSync 108MP HM2"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.9,
+      "camera": 8.6,
+      "battery": 8.9,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "xiaomi-xiaomi-11-lite-5g-ne-2021",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 11 Lite 5G NE",
+    "launchYear": 2021,
+    "price": {
+      "inr": 26999,
+      "platform": "Flipkart / Mi Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 778G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4250,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 90,
+        "type": "10-bit Dolby Vision AMOLED Featherweight"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 8.8,
+      "battery": 8.6,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "poco-poco-f1-master-of-speed-2018",
+    "brand": "Poco",
+    "model": "Poco F1 Master of Speed",
+    "launchYear": 2018,
+    "price": {
+      "inr": 20999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 845 LiquidCool",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128,
+        256
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.18,
+        "refreshRate": 60,
+        "type": "FHD+ IPS LCD Flagship Killer"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 8.2,
+      "battery": 8.4,
+      "value": 10.0
+    }
+  },
+  {
+    "id": "poco-poco-x3-nfc-2020",
+    "brand": "Poco",
+    "model": "Poco X3 NFC",
+    "launchYear": 2020,
+    "price": {
+      "inr": 16999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 732G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "120Hz DotDisplay Sony 64MP"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.3,
+      "battery": 9.9,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "poco-poco-c3-2020",
+    "brand": "Poco",
+    "model": "Poco C3",
+    "launchYear": 2020,
+    "price": {
+      "inr": 7499,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G35",
+      "ram": [
+        3,
+        4
+      ],
+      "storage": [
+        32,
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.53,
+        "refreshRate": 60,
+        "type": "HD+ IPS LCD"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 5.8,
+      "camera": 6.2,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "poco-poco-c31-2021",
+    "brand": "Poco",
+    "model": "Poco C31",
+    "launchYear": 2021,
+    "price": {
+      "inr": 8499,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G35",
+      "ram": [
+        3,
+        4
+      ],
+      "storage": [
+        32,
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.53,
+        "refreshRate": 60,
+        "type": "HD+ IPS LCD Fingerprint"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 5.8,
+      "camera": 6.2,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "poco-poco-c50-2023",
+    "brand": "Poco",
+    "model": "Poco C50",
+    "launchYear": 2023,
+    "price": {
+      "inr": 6249,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio A22",
+      "ram": [
+        2,
+        3
+      ],
+      "storage": [
+        32
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.52,
+        "refreshRate": 60,
+        "type": "HD+ Leather Texture"
+      },
+      "cameras": {
+        "main": 8,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 5.1,
+      "camera": 5.4,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "poco-poco-c51-2023",
+    "brand": "Poco",
+    "model": "Poco C51",
+    "launchYear": 2023,
+    "price": {
+      "inr": 6499,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G36",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.52,
+        "refreshRate": 60,
+        "type": "HD+ 120Hz Touch Sampling"
+      },
+      "cameras": {
+        "main": 8,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 5.4,
+      "camera": 5.6,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "poco-poco-m3-pro-5g-2021",
+    "brand": "Poco",
+    "model": "Poco M3 Pro 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 13999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 700",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "90Hz FHD+ Smart Display Switch"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "poco-poco-m4-pro-4g-2022",
+    "brand": "Poco",
+    "model": "Poco M4 Pro 4G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 14999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G96",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 90,
+        "type": "Super AMOLED 90Hz 64MP"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 8.3,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-realme-x2-pro-2019",
+    "brand": "Realme",
+    "model": "Realme X2 Pro",
+    "launchYear": 2019,
+    "price": {
+      "inr": 29999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 855+",
+      "ram": [
+        6,
+        8,
+        12
+      ],
+      "storage": [
+        64,
+        128,
+        256
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "Super AMOLED 90Hz 50W SuperVOOC Flagship Killer"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.8,
+      "battery": 8.4,
+      "value": 9.9
+    }
+  },
+  {
+    "id": "realme-realme-x2-2019",
+    "brand": "Realme",
+    "model": "Realme X2",
+    "launchYear": 2019,
+    "price": {
+      "inr": 16999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 730G",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED 30W VOOC 64MP Hawk Eye"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.4,
+      "battery": 8.4,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "realme-realme-xt-2019",
+    "brand": "Realme",
+    "model": "Realme XT",
+    "launchYear": 2019,
+    "price": {
+      "inr": 15999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 712",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED India First 64MP Quad"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 8.3,
+      "battery": 8.3,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "realme-realme-x-2019",
+    "brand": "Realme",
+    "model": "Realme X",
+    "launchYear": 2019,
+    "price": {
+      "inr": 16999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 710",
+      "ram": [
+        4,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 3765,
+      "display": {
+        "size": 6.53,
+        "refreshRate": 60,
+        "type": "Full Screen AMOLED Pop-up Selfie"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 8.1,
+      "battery": 7.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-realme-x3-superzoom-2020",
+    "brand": "Realme",
+    "model": "Realme X3 SuperZoom",
+    "launchYear": 2020,
+    "price": {
+      "inr": 27999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 855+",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4200,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 120,
+        "type": "120Hz IPS LCD 60x Periscope Starry Mode"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 9.0,
+      "battery": 8.4,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-realme-x3-2020",
+    "brand": "Realme",
+    "model": "Realme X3",
+    "launchYear": 2020,
+    "price": {
+      "inr": 24999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 855+",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4200,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 120,
+        "type": "120Hz Ultra Smooth Dual Selfie"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 8.6,
+      "battery": 8.4,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-realme-x7-pro-5g-2021",
+    "brand": "Realme",
+    "model": "Realme X7 Pro 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 29999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1000+",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 120,
+        "type": "120Hz Super AMOLED 65W SuperDart"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 8.8,
+      "battery": 8.6,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-realme-x7-5g-2021",
+    "brand": "Realme",
+    "model": "Realme X7 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 19999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 800U",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4310,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED 50W Fast Charge Slim"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.3,
+      "battery": 8.4,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "realme-realme-6-pro-2020",
+    "brand": "Realme",
+    "model": "Realme 6 Pro",
+    "launchYear": 2020,
+    "price": {
+      "inr": 16999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 720G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 4300,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "90Hz FHD+ Dual In-display Selfie"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.3,
+      "battery": 8.5,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-realme-6-2020",
+    "brand": "Realme",
+    "model": "Realme 6",
+    "launchYear": 2020,
+    "price": {
+      "inr": 12999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G90T",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 4300,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "90Hz Pro Display 30W Flash Charge"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.1,
+      "battery": 8.5,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "realme-realme-5-pro-2019",
+    "brand": "Realme",
+    "model": "Realme 5 Pro",
+    "launchYear": 2019,
+    "price": {
+      "inr": 13999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 712",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 4035,
+      "display": {
+        "size": 6.3,
+        "refreshRate": 60,
+        "type": "FHD+ Dewdrop 48MP Quad"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 8.0,
+      "battery": 8.3,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-realme-3-pro-2019",
+    "brand": "Realme",
+    "model": "Realme 3 Pro",
+    "launchYear": 2019,
+    "price": {
+      "inr": 13999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 710",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 4045,
+      "display": {
+        "size": 6.3,
+        "refreshRate": 60,
+        "type": "Speed Awakens Sony IMX519"
+      },
+      "cameras": {
+        "main": 16,
+        "front": 25
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.8,
+      "battery": 8.3,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-realme-10-2023",
+    "brand": "Realme",
+    "model": "Realme 10",
+    "launchYear": 2023,
+    "price": {
+      "inr": 13999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G99",
+      "ram": [
+        4,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 90,
+        "type": "Super AMOLED 90Hz 33W SUPERVOOC"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.1,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-realme-9i-5g-2022",
+    "brand": "Realme",
+    "model": "Realme 9i 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 14999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 810",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "Laser Light Design 90Hz"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-realme-9i-2022",
+    "brand": "Realme",
+    "model": "Realme 9i",
+    "launchYear": 2022,
+    "price": {
+      "inr": 13999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 680",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "90Hz Stereo Prism Design 33W Dart"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-realme-narzo-20-pro-2020",
+    "brand": "Realme",
+    "model": "Realme Narzo 20 Pro",
+    "launchYear": 2020,
+    "price": {
+      "inr": 14999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G95",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "90Hz 65W SuperDart Fastest Charging"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.1,
+      "battery": 8.7,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "realme-realme-narzo-30-5g-2021",
+    "brand": "Realme",
+    "model": "Realme Narzo 30 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 15999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 700",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "90Hz FHD+ Racing Design 5G"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-realme-narzo-50-5g-2022",
+    "brand": "Realme",
+    "model": "Realme Narzo 50 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 15999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 810",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "90Hz Kevlar Speed Design"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-realme-c25-2021",
+    "brand": "Realme",
+    "model": "Realme C25",
+    "launchYear": 2021,
+    "price": {
+      "inr": 9999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G70",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 60,
+        "type": "TUV Rheinland Certified 6000mAh"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.6,
+      "camera": 7.1,
+      "battery": 9.9,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-realme-c31-2022",
+    "brand": "Realme",
+    "model": "Realme C31",
+    "launchYear": 2022,
+    "price": {
+      "inr": 8999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Unisoc T612",
+      "ram": [
+        3,
+        4
+      ],
+      "storage": [
+        32,
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 60,
+        "type": "HD+ Dynamic Glowing"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 5.8,
+      "camera": 6.2,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-realme-c33-2022",
+    "brand": "Realme",
+    "model": "Realme C33",
+    "launchYear": 2022,
+    "price": {
+      "inr": 8999,
+      "platform": "Flipkart / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Unisoc T612",
+      "ram": [
+        3,
+        4
+      ],
+      "storage": [
+        32,
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 60,
+        "type": "50MP AI Camera Boundless Sea"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 6.0,
+      "camera": 7.1,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "vivo-vivo-x50-pro-2020",
+    "brand": "Vivo",
+    "model": "Vivo X50 Pro",
+    "launchYear": 2020,
+    "price": {
+      "inr": 49990,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 765G",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4315,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "3D Curved AMOLED Gimbal Camera System"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 9.2,
+      "battery": 8.5,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "vivo-vivo-x50-2020",
+    "brand": "Vivo",
+    "model": "Vivo X50",
+    "launchYear": 2020,
+    "price": {
+      "inr": 34990,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 765G",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4200,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "AMOLED 7.49mm Ultra Slim"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.1,
+      "camera": 8.9,
+      "battery": 8.4,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "vivo-vivo-x60-pro-2021",
+    "brand": "Vivo",
+    "model": "Vivo X60 Pro",
+    "launchYear": 2021,
+    "price": {
+      "inr": 49990,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 870",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4200,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 120,
+        "type": "AMOLED Gimbal Stabilization 2.0 Zeiss"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.9,
+      "camera": 9.4,
+      "battery": 8.5,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-vivo-x60-2021",
+    "brand": "Vivo",
+    "model": "Vivo X60",
+    "launchYear": 2021,
+    "price": {
+      "inr": 37990,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 870",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4300,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 120,
+        "type": "AMOLED 120Hz Zeiss Optics"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 9.2,
+      "battery": 8.6,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "vivo-vivo-v20-2020",
+    "brand": "Vivo",
+    "model": "Vivo V20",
+    "launchYear": 2020,
+    "price": {
+      "inr": 24990,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 720G",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.44,
+        "refreshRate": 60,
+        "type": "AMOLED 44MP Eye Autofocus 7.38mm"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 44
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.9,
+      "battery": 8.3,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "vivo-vivo-v20-se-2020",
+    "brand": "Vivo",
+    "model": "Vivo V20 SE",
+    "launchYear": 2020,
+    "price": {
+      "inr": 20990,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 665",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4100,
+      "display": {
+        "size": 6.44,
+        "refreshRate": 60,
+        "type": "AMOLED 33W FlashCharge 32MP Super Night"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 8.3,
+      "battery": 8.3,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-vivo-v21e-5g-2021",
+    "brand": "Vivo",
+    "model": "Vivo V21e 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 24990,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 700",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.44,
+        "refreshRate": 60,
+        "type": "AMOLED 32MP Super Night Selfie"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 8.5,
+      "battery": 8.3,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-vivo-v27-2023",
+    "brand": "Vivo",
+    "model": "Vivo V27",
+    "launchYear": 2023,
+    "price": {
+      "inr": 32999,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7200",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4600,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED Wedding Portrait Aura Light"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 9.2,
+      "battery": 8.8,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "vivo-vivo-y75-5g-2022",
+    "brand": "Vivo",
+    "model": "Vivo Y75 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 21990,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 700",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.58,
+        "refreshRate": 60,
+        "type": "FHD+ LCD 50MP Eye AF"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 8.1,
+      "battery": 9.0,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "vivo-vivo-y73-2021",
+    "brand": "Vivo",
+    "model": "Vivo Y73",
+    "launchYear": 2021,
+    "price": {
+      "inr": 20990,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G95",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.44,
+        "refreshRate": 60,
+        "type": "AMOLED 7.38mm Diamond Flare"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 8.2,
+      "battery": 8.3,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-vivo-y33s-2021",
+    "brand": "Vivo",
+    "model": "Vivo Y33s",
+    "launchYear": 2021,
+    "price": {
+      "inr": 17990,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G80",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.58,
+        "refreshRate": 60,
+        "type": "FHD+ 50MP Eye Autofocus"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 7.9,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-vivo-y21-2021",
+    "brand": "Vivo",
+    "model": "Vivo Y21",
+    "launchYear": 2021,
+    "price": {
+      "inr": 13990,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio P35",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.51,
+        "refreshRate": 60,
+        "type": "HD+ Slim Trendy Design"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.2,
+      "camera": 7.0,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-vivo-y20-2020",
+    "brand": "Vivo",
+    "model": "Vivo Y20",
+    "launchYear": 2020,
+    "price": {
+      "inr": 12990,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 460",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.51,
+        "refreshRate": 60,
+        "type": "HD+ 5000mAh Side Fingerprint"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.3,
+      "camera": 7.0,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-iqoo-3-5g-flagship-2020",
+    "brand": "Vivo",
+    "model": "iQOO 3 5G Flagship",
+    "launchYear": 2020,
+    "price": {
+      "inr": 36990,
+      "platform": "Flipkart / Vivo Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 865 Monster",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4440,
+      "display": {
+        "size": 6.44,
+        "refreshRate": 60,
+        "type": "Super AMOLED Monster Touch Buttons 55W FlashCharge"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.6,
+      "battery": 8.6,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "oppo-reno-5-pro-5g-2021",
+    "brand": "OPPO",
+    "model": "Reno 5 Pro 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 35990,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1000+",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4350,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 90,
+        "type": "3D Curved Super AMOLED 65W SuperVOOC AI Highlight Video"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 9.1,
+      "battery": 8.5,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oppo-reno-4-pro-2020",
+    "brand": "OPPO",
+    "model": "Reno 4 Pro",
+    "launchYear": 2020,
+    "price": {
+      "inr": 34990,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 720G",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "3D Curved 90Hz AMOLED 65W SuperVOOC 7.7mm"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.7,
+      "battery": 8.3,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "oppo-reno-3-pro-2020",
+    "brand": "OPPO",
+    "model": "Reno 3 Pro",
+    "launchYear": 2020,
+    "price": {
+      "inr": 29990,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio P95",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4025,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED Dual Punch Hole 44MP Dual Selfie"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 44
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 8.7,
+      "battery": 8.3,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "oppo-reno-2-2019",
+    "brand": "OPPO",
+    "model": "Reno 2",
+    "launchYear": 2019,
+    "price": {
+      "inr": 36990,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 730G",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 60,
+        "type": "Dynamic AMOLED Shark Fin Rising Camera 20x Zoom"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.7,
+      "battery": 8.3,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "oppo-reno-2z-2019",
+    "brand": "OPPO",
+    "model": "Reno 2Z",
+    "launchYear": 2019,
+    "price": {
+      "inr": 29990,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio P90",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.53,
+        "refreshRate": 60,
+        "type": "AMOLED Pop-up Ultra Dark Mode"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 8.3,
+      "battery": 8.3,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "oppo-reno-10x-zoom-2019",
+    "brand": "OPPO",
+    "model": "Reno 10x Zoom",
+    "launchYear": 2019,
+    "price": {
+      "inr": 39999,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 855",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4065,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 60,
+        "type": "Panoramic AMOLED Periscope 10x Hybrid Shark Fin"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 9.1,
+      "battery": 8.4,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oppo-f19-pro-2021",
+    "brand": "OPPO",
+    "model": "F19 Pro",
+    "launchYear": 2021,
+    "price": {
+      "inr": 21490,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio P95",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4310,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 60,
+        "type": "Super AMOLED AI Color Portrait Video"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 8.1,
+      "battery": 8.5,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "oppo-f19-2021",
+    "brand": "OPPO",
+    "model": "F19",
+    "launchYear": 2021,
+    "price": {
+      "inr": 18990,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 662",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 60,
+        "type": "AMOLED 5000mAh 33W Flash Charge 7.95mm"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 6.9,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "oppo-f15-2020",
+    "brand": "OPPO",
+    "model": "F15",
+    "launchYear": 2020,
+    "price": {
+      "inr": 19990,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio P70",
+      "ram": [
+        4,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4025,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "AMOLED 7.9mm 48MP Quad"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 6.9,
+      "camera": 7.8,
+      "battery": 8.3,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "oppo-f11-pro-2019",
+    "brand": "OPPO",
+    "model": "F11 Pro",
+    "launchYear": 2019,
+    "price": {
+      "inr": 24990,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio P70",
+      "ram": [
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.53,
+        "refreshRate": 60,
+        "type": "Panoramic Screen Rising Pop-up 48MP"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 6.9,
+      "camera": 7.8,
+      "battery": 8.3,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "oppo-k10-5g-2022",
+    "brand": "OPPO",
+    "model": "K10 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 17499,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 810",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "HD+ 90Hz Dual Stereo Speakers"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "oppo-k10-2022",
+    "brand": "OPPO",
+    "model": "K10",
+    "launchYear": 2022,
+    "price": {
+      "inr": 14990,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 680",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.59,
+        "refreshRate": 90,
+        "type": "90Hz FHD+ Punch Hole 33W SUPERVOOC"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "oppo-a78-4g-2023",
+    "brand": "OPPO",
+    "model": "A78 4G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 17499,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 680",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 90,
+        "type": "FHD+ AMOLED 67W SUPERVOOC Stereo"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "oppo-a58-2023",
+    "brand": "OPPO",
+    "model": "A58",
+    "launchYear": 2023,
+    "price": {
+      "inr": 13999,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G85",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.72,
+        "refreshRate": 60,
+        "type": "FHD+ Sunlight Display 33W SUPERVOOC"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.8,
+      "camera": 7.3,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "oppo-a38-2023",
+    "brand": "OPPO",
+    "model": "A38",
+    "launchYear": 2023,
+    "price": {
+      "inr": 11999,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G85",
+      "ram": [
+        4
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "90Hz Sunlight Display 33W SUPERVOOC"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 6.7,
+      "camera": 7.2,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "oppo-a77s-2022",
+    "brand": "OPPO",
+    "model": "A77s",
+    "launchYear": 2022,
+    "price": {
+      "inr": 17999,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 680",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "Fiberglass Leather Design 33W"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 7.6,
+      "battery": 9.0,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oppo-a54-2021",
+    "brand": "OPPO",
+    "model": "A54",
+    "launchYear": 2021,
+    "price": {
+      "inr": 13490,
+      "platform": "Flipkart / OPPO Store / Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio P35",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.51,
+        "refreshRate": 60,
+        "type": "HD+ Punch-hole 5000mAh"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 6.2,
+      "camera": 7.1,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "oneplus-7t-pro-2019",
+    "brand": "OnePlus",
+    "model": "7T Pro",
+    "launchYear": 2019,
+    "price": {
+      "inr": 53999,
+      "platform": "Amazon / OnePlus Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 855+",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4085,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 90,
+        "type": "Fluid AMOLED 90Hz QHD+ Pop-up Camera"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.9,
+      "battery": 8.4,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "oneplus-7t-2019",
+    "brand": "OnePlus",
+    "model": "7T",
+    "launchYear": 2019,
+    "price": {
+      "inr": 37999,
+      "platform": "Amazon / OnePlus Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 855+",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 3800,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 90,
+        "type": "Fluid AMOLED 90Hz HDR10+ Warp 30T"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.7,
+      "camera": 8.7,
+      "battery": 8.2,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "oneplus-7-pro-2019",
+    "brand": "OnePlus",
+    "model": "7 Pro",
+    "launchYear": 2019,
+    "price": {
+      "inr": 48999,
+      "platform": "Amazon / OnePlus Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 855",
+      "ram": [
+        6,
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 90,
+        "type": "Fluid AMOLED World First 90Hz QHD+ Notchless"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.7,
+      "camera": 8.8,
+      "battery": 8.3,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "oneplus-7-2019",
+    "brand": "OnePlus",
+    "model": "7",
+    "launchYear": 2019,
+    "price": {
+      "inr": 32999,
+      "platform": "Amazon / OnePlus Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 855",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 3700,
+      "display": {
+        "size": 6.41,
+        "refreshRate": 60,
+        "type": "Optic AMOLED UFS 3.0 Stereo"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 8.4,
+      "battery": 8.1,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "oneplus-6t-2018",
+    "brand": "OnePlus",
+    "model": "6T",
+    "launchYear": 2018,
+    "price": {
+      "inr": 37999,
+      "platform": "Amazon / OnePlus Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 845",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 3700,
+      "display": {
+        "size": 6.41,
+        "refreshRate": 60,
+        "type": "Optic AMOLED In-display Fingerprint"
+      },
+      "cameras": {
+        "main": 16,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.2,
+      "battery": 8.1,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "moto-moto-g32-2022",
+    "brand": "Motorola",
+    "model": "Moto G32",
+    "launchYear": 2022,
+    "price": {
+      "inr": 10499,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 680",
+      "ram": [
+        4,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "FHD+ 90Hz Stereo Dolby Atmos"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "moto-moto-g62-5g-2022",
+    "brand": "Motorola",
+    "model": "Moto G62 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 17999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 120,
+        "type": "FHD+ 120Hz 12 5G Bands Stereo"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.0,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "moto-moto-g72-2022",
+    "brand": "Motorola",
+    "model": "Moto G72",
+    "launchYear": 2022,
+    "price": {
+      "inr": 18999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G99",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 120,
+        "type": "10-bit 120Hz pOLED 108MP"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.9,
+      "camera": 8.5,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "moto-moto-g13-2023",
+    "brand": "Motorola",
+    "model": "Moto G13",
+    "launchYear": 2023,
+    "price": {
+      "inr": 9499,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G85",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "HD+ 90Hz Stereo Speakers"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.6,
+      "camera": 7.1,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "moto-moto-g23-2023",
+    "brand": "Motorola",
+    "model": "Moto G23",
+    "launchYear": 2023,
+    "price": {
+      "inr": 10999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G85",
+      "ram": [
+        4
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "HD+ 90Hz 30W TurboPower"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 6.7,
+      "camera": 7.3,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "moto-moto-edge-30-fusion-2022",
+    "brand": "Motorola",
+    "model": "Moto Edge 30 Fusion",
+    "launchYear": 2022,
+    "price": {
+      "inr": 42999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888+",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4400,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 144,
+        "type": "Endless Edge 144Hz pOLED 68W TurboPower"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.2,
+      "camera": 9.2,
+      "battery": 8.6,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "moto-moto-edge-30-pro-2022",
+    "brand": "Motorola",
+    "model": "Moto Edge 30 Pro",
+    "launchYear": 2022,
+    "price": {
+      "inr": 49999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 1",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4800,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 144,
+        "type": "144Hz 10-bit pOLED 60MP Selfie"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 60
+      }
+    },
+    "useCases": {
+      "gaming": 9.3,
+      "camera": 9.3,
+      "battery": 8.9,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "google-pixel-5-2020",
+    "brand": "Google",
+    "model": "Pixel 5",
+    "launchYear": 2020,
+    "price": {
+      "inr": 69999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 765G",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4080,
+      "display": {
+        "size": 6.0,
+        "refreshRate": 90,
+        "type": "OLED 90Hz Bio-resin Aluminum IP68"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 9.4,
+      "battery": 8.5,
+      "value": 9.0
+    }
+  },
+  {
+    "id": "google-pixel-3a-2019",
+    "brand": "Google",
+    "model": "Pixel 3a",
+    "launchYear": 2019,
+    "price": {
+      "inr": 39999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 670",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 3000,
+      "display": {
+        "size": 5.6,
+        "refreshRate": 60,
+        "type": "OLED Legendary Single Camera"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 9.0,
+      "battery": 7.6,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "lava-agni-5g-original-2021",
+    "brand": "Lava",
+    "model": "Agni 5G Original",
+    "launchYear": 2021,
+    "price": {
+      "inr": 19999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 810",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 90,
+        "type": "FHD+ 90Hz India First 5G Phone"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.0,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "lava-blaze-2-5g-2023",
+    "brand": "Lava",
+    "model": "Blaze 2 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 9999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6020",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "Segment First Circular Ring Light 5G"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.5,
+      "battery": 9.0,
+      "value": 9.9
+    }
+  },
+  {
+    "id": "lava-blaze-2-2023",
+    "brand": "Lava",
+    "model": "Blaze 2",
+    "launchYear": 2023,
+    "price": {
+      "inr": 8999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Unisoc T616",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "Segment First 6GB RAM Glass Back"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.5,
+      "camera": 7.0,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "lava-yuva-3-pro-2023",
+    "brand": "Lava",
+    "model": "Yuva 3 Pro",
+    "launchYear": 2023,
+    "price": {
+      "inr": 8999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Unisoc T616",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "AG Glass Back 50MP"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.5,
+      "camera": 7.3,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "lava-yuva-2-pro-2023",
+    "brand": "Lava",
+    "model": "Yuva 2 Pro",
+    "launchYear": 2023,
+    "price": {
+      "inr": 7999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G37",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 60,
+        "type": "Glass Back Premium Finish"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 5.8,
+      "camera": 6.5,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "infinix-zero-5g-2023-turbo-2023",
+    "brand": "Infinix",
+    "model": "Zero 5G 2023 Turbo",
+    "launchYear": 2023,
+    "price": {
+      "inr": 17999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1080",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "FHD+ 120Hz Uni-Curve Design"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.3,
+      "camera": 8.4,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "infinix-zero-20-world-first-60mp-ois-selfie-2022",
+    "brand": "Infinix",
+    "model": "Zero 20 World First 60MP OIS Selfie",
+    "launchYear": 2022,
+    "price": {
+      "inr": 17999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G99",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 90,
+        "type": "FHD+ AMOLED 60MP OIS Front Camera"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 60
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 9.2,
+      "battery": 8.6,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "infinix-note-30-5g-jbl-audio-2023",
+    "brand": "Infinix",
+    "model": "Note 30 5G JBL Audio",
+    "launchYear": 2023,
+    "price": {
+      "inr": 14999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6080",
+      "ram": [
+        4,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "FHD+ 120Hz Sound by JBL 45W Charge"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.3,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "infinix-note-12-pro-2022",
+    "brand": "Infinix",
+    "model": "Note 12 Pro",
+    "launchYear": 2022,
+    "price": {
+      "inr": 16999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G99",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "FHD+ True Color AMOLED 108MP"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.4,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "infinix-hot-30-5g-2023",
+    "brand": "Infinix",
+    "model": "Hot 30 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 12499,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6020",
+      "ram": [
+        4,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "FHD+ 120Hz 6000mAh Monster Battery"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 7.7,
+      "battery": 9.9,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "infinix-hot-20-5g-2022",
+    "brand": "Infinix",
+    "model": "Hot 20 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 11999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 810",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 120,
+        "type": "120Hz HyperEngine 3.0"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 7.6,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "infinix-hot-11s-2021",
+    "brand": "Infinix",
+    "model": "Hot 11S",
+    "launchYear": 2021,
+    "price": {
+      "inr": 10999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G88",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 90,
+        "type": "FHD+ 90Hz Wave Design"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 7.5,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "infinix-smart-7-2023",
+    "brand": "Infinix",
+    "model": "Smart 7",
+    "launchYear": 2023,
+    "price": {
+      "inr": 7299,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Unisoc SC9863A",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 60,
+        "type": "HD+ 6000mAh Antibacterial Back"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 5.3,
+      "camera": 5.8,
+      "battery": 9.9,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "tecno-phantom-x-curved-amoled-2022",
+    "brand": "Tecno",
+    "model": "Phantom X Curved AMOLED",
+    "launchYear": 2022,
+    "price": {
+      "inr": 25999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G95",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4700,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 90,
+        "type": "3D Borderless AMOLED 50MP 1/1.3 Dual Selfie"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 48
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.9,
+      "battery": 8.8,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "tecno-phantom-x2-5g-2023",
+    "brand": "Tecno",
+    "model": "Phantom X2 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 39999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 9000",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5160,
+      "display": {
+        "size": 6.8,
+        "refreshRate": 120,
+        "type": "120Hz Curved AMOLED 4nm Flagship"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.1,
+      "camera": 9.0,
+      "battery": 9.2,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "tecno-camon-20-pro-5g-2023",
+    "brand": "Tecno",
+    "model": "Camon 20 Pro 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 19999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8050",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "FHD+ AMOLED 64MP RGBW OIS"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.9,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "tecno-camon-20-premier-5g-2023",
+    "brand": "Tecno",
+    "model": "Camon 20 Premier 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 29999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8050",
+      "ram": [
+        8
+      ],
+      "storage": [
+        512
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "AMOLED 108MP Ultra-wide Sensor-Shift OIS"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.9,
+      "camera": 9.3,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "tecno-camon-19-pro-5g-2022",
+    "brand": "Tecno",
+    "model": "Camon 19 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 21999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 810",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.8,
+        "refreshRate": 120,
+        "type": "0.98mm Slimmest Bezel RGBW OIS"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.4,
+      "battery": 9.0,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "tecno-pova-4-6000mah-2022",
+    "brand": "Tecno",
+    "model": "Pova 4 6000mAh",
+    "launchYear": 2022,
+    "price": {
+      "inr": 11999,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G99",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.82,
+        "refreshRate": 90,
+        "type": "HD+ 90Hz Dual Gaming Engine 6000mAh"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 7.6,
+      "battery": 9.9,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "tecno-pova-3-7000mah-giant-2022",
+    "brand": "Tecno",
+    "model": "Pova 3 7000mAh Giant",
+    "launchYear": 2022,
+    "price": {
+      "inr": 11499,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G88",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 7000,
+      "display": {
+        "size": 6.9,
+        "refreshRate": 90,
+        "type": "FHD+ 90Hz 7000mAh Monster 33W"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.5,
+      "battery": 10.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "tecno-pova-2-7000mah-2021",
+    "brand": "Tecno",
+    "model": "Pova 2 7000mAh",
+    "launchYear": 2021,
+    "price": {
+      "inr": 10499,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G85",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 7000,
+      "display": {
+        "size": 6.95,
+        "refreshRate": 60,
+        "type": "FHD+ Dot-in 7000mAh"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.0,
+      "camera": 7.3,
+      "battery": 10.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "tecno-spark-10-pro-glass-back-2023",
+    "brand": "Tecno",
+    "model": "Spark 10 Pro Glass Back",
+    "launchYear": 2023,
+    "price": {
+      "inr": 12499,
+      "platform": "Amazon",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G88",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 90,
+        "type": "FHD+ 90Hz Starry Glass 32MP Glowing Selfie"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 8.0,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "asus-rog-phone-8-pro-165hz-2024",
+    "brand": "Asus",
+    "model": "ROG Phone 8 Pro 165Hz",
+    "launchYear": 2024,
+    "price": {
+      "inr": 94999,
+      "platform": "Vijay Sales / Asus Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": [
+        16,
+        24
+      ],
+      "storage": [
+        512,
+        1024
+      ],
+      "battery": 5500,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 165,
+        "type": "LTPO AMOLED 165Hz AniMe Vision AirTrigger"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 10.0,
+      "camera": 9.2,
+      "battery": 9.5,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "asus-rog-phone-7-ultimate-2023",
+    "brand": "Asus",
+    "model": "ROG Phone 7 Ultimate",
+    "launchYear": 2023,
+    "price": {
+      "inr": 99999,
+      "platform": "Vijay Sales / Asus Store",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": [
+        16
+      ],
+      "storage": [
+        512
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 165,
+        "type": "165Hz AMOLED AeroActive Portal Subwoofer"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 10.0,
+      "camera": 9.0,
+      "battery": 9.9,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "asus-rog-phone-6-pro-2022",
+    "brand": "Asus",
+    "model": "ROG Phone 6 Pro",
+    "launchYear": 2022,
+    "price": {
+      "inr": 89999,
+      "platform": "Vijay Sales",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": [
+        18
+      ],
+      "storage": [
+        512
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 165,
+        "type": "165Hz AMOLED ROG Vision Rear Matrix"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 9.8,
+      "camera": 8.8,
+      "battery": 9.9,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "asus-rog-phone-5-2021",
+    "brand": "Asus",
+    "model": "ROG Phone 5",
+    "launchYear": 2021,
+    "price": {
+      "inr": 49999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 144,
+        "type": "144Hz AMOLED Dual Front Stereo 6000mAh"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 24
+      }
+    },
+    "useCases": {
+      "gaming": 9.5,
+      "camera": 8.6,
+      "battery": 9.9,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "asus-rog-phone-3-2020",
+    "brand": "Asus",
+    "model": "ROG Phone 3",
+    "launchYear": 2020,
+    "price": {
+      "inr": 49999,
+      "platform": "Flipkart",
+      "note": "Verified Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 865+",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.59,
+        "refreshRate": 144,
+        "type": "144Hz 10-bit AMOLED AirTrigger 3 6000mAh"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 24
+      }
+    },
+    "useCases": {
+      "gaming": 9.2,
+      "camera": 8.4,
+      "battery": 9.9,
+      "value": 9.5
+    }
   }
 ]
