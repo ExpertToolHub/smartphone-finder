@@ -3,7 +3,7 @@ const DataModule = {
   async loadPhones() {
     if (this.cache) return this.cache;
     try {
-      const res = await fetch('data/phones.json');
+      const res = await fetch('smartphone-finder/data/phones.json');
       if (!res.ok) throw new Error('Network error reading database');
       this.cache = await res.json();
       return this.cache;
