@@ -6,6 +6,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 134999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -45,6 +46,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 104999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -82,6 +84,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 84999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -119,6 +122,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 174999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -158,6 +162,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 114999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -195,6 +200,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 41999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -233,6 +239,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 31999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -270,6 +277,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 28999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -307,6 +315,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 27999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -344,6 +353,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 19999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -382,6 +392,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 18999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -420,6 +431,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 15499,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -458,6 +470,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 13999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -495,6 +508,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 12999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -532,6 +546,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 164900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -570,6 +585,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 139900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -609,6 +625,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 82900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -647,6 +664,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 94900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -684,6 +702,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 49900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -721,6 +740,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 44999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -759,6 +779,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 34999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -797,6 +818,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 22999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -835,6 +857,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 17999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -872,6 +895,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 119999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -909,6 +933,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 89999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -947,6 +972,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 69999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -984,6 +1010,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 33999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1022,6 +1049,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 28999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1060,6 +1088,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 18999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1098,6 +1127,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 13999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1135,6 +1165,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 11499,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1172,6 +1203,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 59999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1210,6 +1242,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 29999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1249,6 +1282,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 24999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1287,6 +1321,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 17999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1325,6 +1360,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 21999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1362,6 +1398,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 14999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1399,6 +1436,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 22999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1437,6 +1475,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 16999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1474,6 +1513,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 11999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1511,6 +1551,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 56999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1547,6 +1588,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 42999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1585,6 +1627,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 36999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1624,6 +1667,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 24999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1662,6 +1706,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 19999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1699,6 +1744,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 14999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1736,6 +1782,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 109999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1773,6 +1820,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 42999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1811,6 +1859,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 34999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1849,6 +1898,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 27999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1886,6 +1936,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 25999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1924,6 +1975,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 20999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1961,6 +2013,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 14999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -1998,6 +2051,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 22999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2035,6 +2089,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 18999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2071,6 +2126,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 124999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2109,6 +2165,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 109999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2146,6 +2203,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 79999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2183,6 +2241,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 49999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2220,6 +2279,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 69999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2257,6 +2317,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 49999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2294,6 +2355,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 26999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2332,6 +2394,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 21999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2370,6 +2433,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 16999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2408,6 +2472,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 13999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2445,6 +2510,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 11499,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2482,6 +2548,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 49999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2520,6 +2587,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 32999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2557,6 +2625,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 28999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2595,6 +2664,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 17999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2633,6 +2703,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 39999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2671,6 +2742,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 31999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2708,6 +2780,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 24999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2745,6 +2818,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 18999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2783,6 +2857,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 14999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2820,6 +2895,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 11499,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2857,6 +2933,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 26999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2894,6 +2971,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 27999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2930,6 +3008,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 22999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -2967,6 +3046,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 32999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3003,6 +3083,7 @@
     "launchYear": 2026,
     "price": {
       "inr": 18999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3040,6 +3121,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 129999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3079,6 +3161,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 99999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3116,6 +3199,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 79999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3153,6 +3237,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 164999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3190,6 +3275,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 109999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3227,6 +3313,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 39999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3265,6 +3352,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 27999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3302,6 +3390,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 24999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3340,6 +3429,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 17999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3378,6 +3468,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 12499,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3415,6 +3506,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 144900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3453,6 +3545,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 119900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3492,6 +3585,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 89900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3530,6 +3624,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 79900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3568,6 +3663,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 69999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3607,6 +3703,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 64999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3645,6 +3742,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 39999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3683,6 +3781,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 29999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3721,6 +3820,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 24999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3758,6 +3858,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 19999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3794,6 +3895,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 54999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3832,6 +3934,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 34999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3870,6 +3973,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 24999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3908,6 +4012,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 19999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3945,6 +4050,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 12999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -3983,6 +4089,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 94999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4019,6 +4126,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 89999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4055,6 +4163,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 49999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4093,6 +4202,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 34999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4132,6 +4242,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 28999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4169,6 +4280,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 31999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4207,6 +4319,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 24999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4244,6 +4357,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 19999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4281,6 +4395,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 13499,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4319,6 +4434,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 40999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4358,6 +4474,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 30999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4397,6 +4514,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 32999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4435,6 +4553,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 26999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4473,6 +4592,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 22999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4511,6 +4631,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 17999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4548,6 +4669,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 21999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4586,6 +4708,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 19999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4623,6 +4746,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 14999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4660,6 +4784,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 42999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4698,6 +4823,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 59999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4734,6 +4860,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 30999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4772,6 +4899,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 25999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4810,6 +4938,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 18999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4848,6 +4977,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 13999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4885,6 +5015,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 124999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4922,6 +5053,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 109999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4959,6 +5091,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 79999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -4996,6 +5129,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 52999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5033,6 +5167,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 59999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5070,6 +5205,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 31999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5107,6 +5243,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 22999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5145,6 +5282,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 23999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5181,6 +5319,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 17999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5219,6 +5358,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 14999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5257,6 +5397,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 10999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5294,6 +5435,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 27999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5331,6 +5473,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 23999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5369,6 +5512,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 15999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5406,6 +5550,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 29999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5444,6 +5589,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 25999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5482,6 +5628,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 19999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5519,6 +5666,7 @@
     "launchYear": 2025,
     "price": {
       "inr": 12999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5556,6 +5704,7 @@
     "launchYear": 2024,
     "price": {
       "inr": 134900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5594,6 +5743,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 69900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5632,6 +5782,7 @@
     "launchYear": 2022,
     "price": {
       "inr": 59900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5669,6 +5820,7 @@
     "launchYear": 2021,
     "price": {
       "inr": 49900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5706,6 +5858,7 @@
     "launchYear": 2020,
     "price": {
       "inr": 39900,
+      "platform": "Apple Store / Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5743,6 +5896,7 @@
     "launchYear": 2024,
     "price": {
       "inr": 119999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5781,6 +5935,7 @@
     "launchYear": 2024,
     "price": {
       "inr": 69999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5818,6 +5973,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 89999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5855,6 +6011,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 49999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5892,6 +6049,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 37999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5929,6 +6087,7 @@
     "launchYear": 2022,
     "price": {
       "inr": 28999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -5966,6 +6125,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 33499,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6003,6 +6163,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 16999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6040,6 +6201,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 54999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6078,6 +6240,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 29999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6116,6 +6279,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 22999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6154,6 +6318,7 @@
     "launchYear": 2022,
     "price": {
       "inr": 44999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6192,6 +6357,7 @@
     "launchYear": 2024,
     "price": {
       "inr": 28999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6230,6 +6396,7 @@
     "launchYear": 2024,
     "price": {
       "inr": 23999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6268,6 +6435,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 24999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6305,6 +6473,7 @@
     "launchYear": 2021,
     "price": {
       "inr": 18999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6342,6 +6511,7 @@
     "launchYear": 2024,
     "price": {
       "inr": 52999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6380,6 +6550,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 29999,
+      "platform": "Amazon",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6418,6 +6589,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 39999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6455,6 +6627,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 34999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6493,6 +6666,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 21999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6530,6 +6704,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 84999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6567,6 +6742,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 37999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6603,6 +6779,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 26999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6639,6 +6816,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 36999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6678,6 +6856,7 @@
     "launchYear": 2022,
     "price": {
       "inr": 27999,
+      "platform": "Flipkart",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6716,6 +6895,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 26999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6753,6 +6933,7 @@
     "launchYear": 2023,
     "price": {
       "inr": 20999,
+      "platform": "Flipkart / Mi Store",
       "note": "Official India Price"
     },
     "dataQuality": "verified",
@@ -6782,6 +6963,8166 @@
       "camera": 8.7,
       "battery": 9.1,
       "value": 9.6
+    }
+  },
+  {
+    "id": "realme-12-pro-plus-2024",
+    "brand": "Realme",
+    "model": "12 Pro+ 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 29999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 7s Gen 2",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Curved AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 9.4,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-12-pro-2024",
+    "brand": "Realme",
+    "model": "12 Pro 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 25999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 6 Gen 1",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Curved AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.1,
+      "camera": 9.0,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-12-plus-2024",
+    "brand": "Realme",
+    "model": "12+ 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 20999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7050",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.6,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-12-5g-2024",
+    "brand": "Realme",
+    "model": "12 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 16999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6100+",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.72,
+        "refreshRate": 120,
+        "type": "FHD+ LCD"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.3,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-12x-5g-2024",
+    "brand": "Realme",
+    "model": "12x 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 11999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6100+",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.72,
+        "refreshRate": 120,
+        "type": "FHD+ LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-narzo-70-pro-2024",
+    "brand": "Realme",
+    "model": "Narzo 70 Pro 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 19999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7050",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.7,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-narzo-70-2024",
+    "brand": "Realme",
+    "model": "Narzo 70 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 15999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7050",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.1,
+      "camera": 8.2,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-narzo-70x-2024",
+    "brand": "Realme",
+    "model": "Narzo 70x 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 11999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6100+",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.72,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-narzo-70-turbo-2024",
+    "brand": "Realme",
+    "model": "Narzo 70 Turbo 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 16999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7300 Energy",
+      "ram": [
+        6,
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "OLED Esports"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.2,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "realme-c67-5g-2024",
+    "brand": "Realme",
+    "model": "C67 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 13999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6100+",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.72,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-c65-5g-2024",
+    "brand": "Realme",
+    "model": "C65 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 10499,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6300",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.5,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-c63-5g-2024",
+    "brand": "Realme",
+    "model": "C63 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 10999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6300",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 32,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 7.3,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "redmi-note-13-5g-2024",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 13 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 17999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6080",
+      "ram": [
+        6,
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.4,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "redmi-13c-5g-2024",
+    "brand": "Xiaomi",
+    "model": "Redmi 13C 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 10999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6100+",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.74,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 7.4,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "xiaomi-14-ultra-2024",
+    "brand": "Xiaomi",
+    "model": "14 Ultra 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 99999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": [
+        16
+      ],
+      "storage": [
+        512
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.73,
+        "refreshRate": 120,
+        "type": "LTPO AMOLED Leica"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.8,
+      "camera": 10.0,
+      "battery": 9.2,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "redmi-a3-2024",
+    "brand": "Xiaomi",
+    "model": "Redmi A3",
+    "launchYear": 2024,
+    "price": {
+      "inr": 6999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G36",
+      "ram": [
+        3,
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.71,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 8,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 5.5,
+      "camera": 5.8,
+      "battery": 8.8,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "redmi-a3x-2024",
+    "brand": "Xiaomi",
+    "model": "Redmi A3x",
+    "launchYear": 2024,
+    "price": {
+      "inr": 6499,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Unisoc T603",
+      "ram": [
+        3,
+        4
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.71,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 8,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 5.3,
+      "camera": 5.6,
+      "battery": 8.8,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "vivo-v30-pro-2024",
+    "brand": "Vivo",
+    "model": "V30 Pro Zeiss",
+    "launchYear": 2024,
+    "price": {
+      "inr": 41999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8200",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        512
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "1.5K 3D Curved AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 9.6,
+      "battery": 9.0,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "vivo-v30-2024",
+    "brand": "Vivo",
+    "model": "V30 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 33999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 7 Gen 3",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "1.5K 3D Curved AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 9.4,
+      "battery": 9.0,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "vivo-v30e-2024",
+    "brand": "Vivo",
+    "model": "V30e 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 27999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 6 Gen 1",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5500,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 8.1,
+      "camera": 9.1,
+      "battery": 9.4,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "vivo-x100-2024",
+    "brand": "Vivo",
+    "model": "X100 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 63999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 9300",
+      "ram": [
+        12,
+        16
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "LTPO AMOLED Zeiss"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.6,
+      "camera": 9.8,
+      "battery": 9.1,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "vivo-x-fold3-pro-2024",
+    "brand": "Vivo",
+    "model": "X Fold3 Pro 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 159999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": [
+        16
+      ],
+      "storage": [
+        512
+      ],
+      "battery": 5700,
+      "display": {
+        "size": 8.03,
+        "refreshRate": 120,
+        "type": "Foldable LTPO AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.8,
+      "camera": 9.8,
+      "battery": 9.6,
+      "value": 8.9
+    }
+  },
+  {
+    "id": "vivo-y200-pro-2024",
+    "brand": "Vivo",
+    "model": "Y200 Pro 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 24999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.5,
+      "battery": 9.0,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "vivo-y200e-2024",
+    "brand": "Vivo",
+    "model": "Y200e 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 19999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 4 Gen 2",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 8.1,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-y58-5g-2024",
+    "brand": "Vivo",
+    "model": "Y58 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 19499,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 4 Gen 2",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.72,
+        "refreshRate": 120,
+        "type": "LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 8.0,
+      "battery": 9.9,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-y28-5g-2024",
+    "brand": "Vivo",
+    "model": "Y28 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 13999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6020",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.6,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "samsung-s24-plus-2024",
+    "brand": "Samsung",
+    "model": "Galaxy S24+ 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 99999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 2400",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 4900,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Dynamic AMOLED 2X"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 9.6,
+      "camera": 9.6,
+      "battery": 9.3,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-z-fold6-2024",
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 6 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 164999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256,
+        512,
+        1024
+      ],
+      "battery": 4400,
+      "display": {
+        "size": 7.6,
+        "refreshRate": 120,
+        "type": "Foldable Dynamic AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 9.7,
+      "camera": 9.3,
+      "battery": 8.9,
+      "value": 8.6
+    }
+  },
+  {
+    "id": "samsung-z-flip6-2024",
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 6 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 109999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Foldable Dynamic AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 9.4,
+      "camera": 9.1,
+      "battery": 8.7,
+      "value": 8.8
+    }
+  },
+  {
+    "id": "samsung-s24-fe-2024",
+    "brand": "Samsung",
+    "model": "Galaxy S24 FE 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 59999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 2400e",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256,
+        512
+      ],
+      "battery": 4700,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Dynamic AMOLED 2X"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 9.2,
+      "camera": 9.3,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-f55-2024",
+    "brand": "Samsung",
+    "model": "Galaxy F55 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 26999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 7 Gen 1",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Super AMOLED Plus Vegan Leather"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.8,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-m15-2024",
+    "brand": "Samsung",
+    "model": "Galaxy M15 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 12999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6100+",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.8,
+      "battery": 9.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "samsung-a15-2024",
+    "brand": "Samsung",
+    "model": "Galaxy A15 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 17999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6100+",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 8.0,
+      "battery": 9.0,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-a05s-2024",
+    "brand": "Samsung",
+    "model": "Galaxy A05s",
+    "launchYear": 2024,
+    "price": {
+      "inr": 11499,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 680",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 90,
+        "type": "PLS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 6.9,
+      "camera": 7.4,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-m05-2024",
+    "brand": "Samsung",
+    "model": "Galaxy M05",
+    "launchYear": 2024,
+    "price": {
+      "inr": 7999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G85",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "PLS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.2,
+      "camera": 6.8,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "iqoo-z9-2024",
+    "brand": "iQOO",
+    "model": "Z9 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 19999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7200",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 8.5,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "iqoo-z9-lite-2024",
+    "brand": "iQOO",
+    "model": "Z9 Lite 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 10499,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6300",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.5,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "moto-g34-5g-2024",
+    "brand": "Motorola",
+    "model": "Moto G34 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 10999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        4,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "moto-g24-power-2024",
+    "brand": "Motorola",
+    "model": "Moto G24 Power",
+    "launchYear": 2024,
+    "price": {
+      "inr": 8999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G85",
+      "ram": [
+        4,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 6.5,
+      "camera": 7.2,
+      "battery": 9.9,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "moto-g04s-2024",
+    "brand": "Motorola",
+    "model": "Moto G04s",
+    "launchYear": 2024,
+    "price": {
+      "inr": 6999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Unisoc T606",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 5.8,
+      "camera": 6.5,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "moto-razr-50-ultra-2024",
+    "brand": "Motorola",
+    "model": "Moto Razr 50 Ultra",
+    "launchYear": 2024,
+    "price": {
+      "inr": 99999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8s Gen 3",
+      "ram": [
+        12
+      ],
+      "storage": [
+        512
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.9,
+        "refreshRate": 165,
+        "type": "Foldable LTPO pOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.5,
+      "camera": 9.2,
+      "battery": 8.6,
+      "value": 9.0
+    }
+  },
+  {
+    "id": "moto-razr-50-2024",
+    "brand": "Motorola",
+    "model": "Moto Razr 50",
+    "launchYear": 2024,
+    "price": {
+      "inr": 64999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7300X",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4200,
+      "display": {
+        "size": 6.9,
+        "refreshRate": 120,
+        "type": "Foldable LTPO pOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.9,
+      "battery": 8.8,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "poco-c65-2024",
+    "brand": "Poco",
+    "model": "C65",
+    "launchYear": 2024,
+    "price": {
+      "inr": 7999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G85",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.74,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.3,
+      "camera": 6.8,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "poco-c61-2024",
+    "brand": "Poco",
+    "model": "C61",
+    "launchYear": 2024,
+    "price": {
+      "inr": 6499,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G36",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.71,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 8,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 5.5,
+      "camera": 5.8,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "poco-m6-5g-2024",
+    "brand": "Poco",
+    "model": "M6 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 9999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6100+",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.74,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.4,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "infinix-gt-20-pro-2024",
+    "brand": "Infinix",
+    "model": "GT 20 Pro 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 24999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8200 Ultimate",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 144,
+        "type": "AMOLED Gaming"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.1,
+      "camera": 8.4,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "infinix-note-40-pro-plus-2024",
+    "brand": "Infinix",
+    "model": "Note 40 Pro+ 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 21999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7020",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4600,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED MagCharge"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.1,
+      "camera": 8.7,
+      "battery": 8.8,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "infinix-note-40-pro-2024",
+    "brand": "Infinix",
+    "model": "Note 40 Pro 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 19999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7020",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.1,
+      "camera": 8.7,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "infinix-hot-40-pro-2024",
+    "brand": "Infinix",
+    "model": "Hot 40 Pro",
+    "launchYear": 2024,
+    "price": {
+      "inr": 12999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G99",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "infinix-smart-8-hd-2024",
+    "brand": "Infinix",
+    "model": "Smart 8 HD",
+    "launchYear": 2024,
+    "price": {
+      "inr": 5999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Unisoc T606",
+      "ram": [
+        3,
+        4
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 5.4,
+      "camera": 5.8,
+      "battery": 9.0,
+      "value": 9.9
+    }
+  },
+  {
+    "id": "tecno-camon-30-premier-2024",
+    "brand": "Tecno",
+    "model": "Camon 30 Premier 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 39999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8200 Ultimate",
+      "ram": [
+        12
+      ],
+      "storage": [
+        512
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.77,
+        "refreshRate": 120,
+        "type": "1.5K LTPO AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 9.3,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "tecno-camon-30-2024",
+    "brand": "Tecno",
+    "model": "Camon 30 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 22999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7020",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 8.1,
+      "camera": 8.8,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "tecno-pova-6-pro-2024",
+    "brand": "Tecno",
+    "model": "Pova 6 Pro 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 19999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6080",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "AMOLED Arc Interface"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.2,
+      "battery": 9.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "tecno-spark-20-pro-plus-2024",
+    "brand": "Tecno",
+    "model": "Spark 20 Pro+ 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 16999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G99 Ultimate",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "Curved AMOLED"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 8.2,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "tecno-spark-go-2024",
+    "brand": "Tecno",
+    "model": "Spark Go 2024",
+    "launchYear": 2024,
+    "price": {
+      "inr": 6699,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Unisoc T606",
+      "ram": [
+        3,
+        4
+      ],
+      "storage": [
+        64
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 5.4,
+      "camera": 5.8,
+      "battery": 9.0,
+      "value": 9.9
+    }
+  },
+  {
+    "id": "realme-11-pro-plus-2023",
+    "brand": "Realme",
+    "model": "11 Pro+ 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 27999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7050",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Curved AMOLED"
+      },
+      "cameras": {
+        "main": 200,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.3,
+      "camera": 9.2,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-11-pro-2023",
+    "brand": "Realme",
+    "model": "11 Pro 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 23999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7050",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Curved AMOLED"
+      },
+      "cameras": {
+        "main": 100,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.8,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-11x-5g-2023",
+    "brand": "Realme",
+    "model": "11x 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 14999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6100+",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.72,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 7.9,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-narzo-60-pro-2023",
+    "brand": "Realme",
+    "model": "Narzo 60 Pro 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 23999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7050",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256,
+        1024
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Curved AMOLED"
+      },
+      "cameras": {
+        "main": 100,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.8,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-narzo-60x-2023",
+    "brand": "Realme",
+    "model": "Narzo 60x 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 12999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6100+",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.72,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.7,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-c55-2023",
+    "brand": "Realme",
+    "model": "C55",
+    "launchYear": 2023,
+    "price": {
+      "inr": 10999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G88",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.72,
+        "refreshRate": 90,
+        "type": "IPS LCD Mini Capsule"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.8,
+      "camera": 7.4,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-c53-2023",
+    "brand": "Realme",
+    "model": "C53",
+    "launchYear": 2023,
+    "price": {
+      "inr": 9999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Unisoc T612",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.74,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.4,
+      "camera": 7.3,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "redmi-12-5g-2023",
+    "brand": "Xiaomi",
+    "model": "Redmi 12 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 11999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 4 Gen 2",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.79,
+        "refreshRate": 90,
+        "type": "IPS LCD Glass"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 7.8,
+      "battery": 9.1,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "redmi-12-4g-2023",
+    "brand": "Xiaomi",
+    "model": "Redmi 12",
+    "launchYear": 2023,
+    "price": {
+      "inr": 9999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G88",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.79,
+        "refreshRate": 90,
+        "type": "IPS LCD Glass"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.7,
+      "camera": 7.2,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "redmi-note-12-5g-2023",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 12 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 17999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 4 Gen 1",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.0,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "redmi-note-12-pro-2023",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 12 Pro 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 21999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1080",
+      "ram": [
+        6,
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "Pro AMOLED Sony IMX766"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.9,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "apple-iphone-15-plus-2023",
+    "brand": "Apple",
+    "model": "iPhone 15 Plus",
+    "launchYear": 2023,
+    "price": {
+      "inr": 79900,
+      "platform": "Apple Store / Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A16 Bionic",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128,
+        256,
+        512
+      ],
+      "battery": 4383,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "Super Retina XDR OLED"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 9.3,
+      "camera": 9.3,
+      "battery": 9.6,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "apple-iphone-15-pro-2023",
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "launchYear": 2023,
+    "price": {
+      "inr": 119900,
+      "platform": "Apple Store / Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A17 Pro Bionic",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "battery": 3274,
+      "display": {
+        "size": 6.1,
+        "refreshRate": 120,
+        "type": "Super Retina XDR OLED"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 9.8,
+      "camera": 9.8,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-a34-2023",
+    "brand": "Samsung",
+    "model": "Galaxy A34 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 24499,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1080",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 120,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 8.0,
+      "camera": 8.5,
+      "battery": 9.1,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-a14-5g-2023",
+    "brand": "Samsung",
+    "model": "Galaxy A14 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 14499,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 1330",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "PLS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "samsung-m14-5g-2023",
+    "brand": "Samsung",
+    "model": "Galaxy M14 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 12999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 1330",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "PLS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.7,
+      "battery": 9.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "samsung-f14-5g-2023",
+    "brand": "Samsung",
+    "model": "Galaxy F14 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 11999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 1330",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "PLS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.7,
+      "battery": 9.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "oneplus-nord-ce-3-2023",
+    "brand": "OnePlus",
+    "model": "Nord CE 3 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 24999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 782G",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Fluid AMOLED Sony IMX890"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 8.9,
+      "battery": 9.1,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "oneplus-nord-ce-3-lite-2023",
+    "brand": "OnePlus",
+    "model": "Nord CE 3 Lite 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 17499,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.72,
+        "refreshRate": 120,
+        "type": "FHD+ LCD"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.2,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "vivo-x90-pro-2023",
+    "brand": "Vivo",
+    "model": "X90 Pro Zeiss",
+    "launchYear": 2023,
+    "price": {
+      "inr": 84999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 9200",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4870,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "1.5K AMOLED 1-inch Sony"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.5,
+      "camera": 9.9,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-x90-2023",
+    "brand": "Vivo",
+    "model": "X90 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 59999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 9200",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4810,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "1.5K AMOLED Zeiss"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.4,
+      "camera": 9.6,
+      "battery": 8.9,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "vivo-v29e-2023",
+    "brand": "Vivo",
+    "model": "V29e 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 25999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.9,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-t2x-5g-2023",
+    "brand": "Vivo",
+    "model": "T2x 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 11999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6020",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.58,
+        "refreshRate": 60,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.5,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "vivo-y100-2023",
+    "brand": "Vivo",
+    "model": "Y100 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 23999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 900",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.38,
+        "refreshRate": 90,
+        "type": "AMOLED Color Changing"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.4,
+      "battery": 8.6,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "iqoo-11-2023",
+    "brand": "iQOO",
+    "model": "11 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 59999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": [
+        8,
+        16
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 144,
+        "type": "2K 144Hz E6 AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.6,
+      "camera": 9.2,
+      "battery": 9.1,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "iqoo-z7-pro-2023",
+    "brand": "iQOO",
+    "model": "Z7 Pro 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 21999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7200",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4600,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 8.6,
+      "battery": 8.8,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "iqoo-z7-2023",
+    "brand": "iQOO",
+    "model": "Z7 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 18999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 920",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.38,
+        "refreshRate": 90,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.1,
+      "camera": 8.4,
+      "battery": 8.7,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "iqoo-z7s-2023",
+    "brand": "iQOO",
+    "model": "Z7s 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 16999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.38,
+        "refreshRate": 90,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.2,
+      "battery": 8.7,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "moto-edge-40-neo-2023",
+    "brand": "Motorola",
+    "model": "Moto Edge 40 Neo 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 20999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7030",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 144,
+        "type": "Curved pOLED IP68"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.3,
+      "camera": 8.9,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "moto-g54-2023",
+    "brand": "Motorola",
+    "model": "Moto G54 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 13999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7020",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.0,
+      "battery": 9.9,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "moto-g84-2023",
+    "brand": "Motorola",
+    "model": "Moto G84 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 18999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 120,
+        "type": "pOLED Pantone Vegan"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.4,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "moto-g73-2023",
+    "brand": "Motorola",
+    "model": "Moto G73 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 16999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 930",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.1,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "moto-g14-2023",
+    "brand": "Motorola",
+    "model": "Moto G14",
+    "launchYear": 2023,
+    "price": {
+      "inr": 8499,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Unisoc T616",
+      "ram": [
+        4
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 60,
+        "type": "FHD+ IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.2,
+      "camera": 6.8,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "poco-c55-2023",
+    "brand": "Poco",
+    "model": "C55",
+    "launchYear": 2023,
+    "price": {
+      "inr": 7999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G85",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.71,
+        "refreshRate": 60,
+        "type": "IPS LCD Leather"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 6.2,
+      "camera": 6.7,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "poco-m6-pro-5g-2023",
+    "brand": "Poco",
+    "model": "M6 Pro 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 10999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 4 Gen 2",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.79,
+        "refreshRate": 90,
+        "type": "IPS LCD Glass"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 7.8,
+      "battery": 9.1,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "realme-9-pro-plus-2022",
+    "brand": "Realme",
+    "model": "9 Pro+ 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 24999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 920",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 90,
+        "type": "Super AMOLED Sony IMX766 OIS"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.1,
+      "camera": 8.9,
+      "battery": 8.6,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-9-pro-2022",
+    "brand": "Realme",
+    "model": "9 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 17999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.1,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "realme-gt-neo-3-2022",
+    "brand": "Realme",
+    "model": "GT Neo 3 150W",
+    "launchYear": 2022,
+    "price": {
+      "inr": 36999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8100",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "AMOLED 150W Fast Charge"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.1,
+      "camera": 8.9,
+      "battery": 8.7,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "realme-gt-2-pro-2022",
+    "brand": "Realme",
+    "model": "GT 2 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 49999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 1",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "2K LTPO2 AMOLED Paper Design"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.3,
+      "camera": 9.2,
+      "battery": 9.0,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "redmi-k50i-2022",
+    "brand": "Xiaomi",
+    "model": "Redmi K50i 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 25999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8100",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5080,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 144,
+        "type": "144Hz FFS LCD"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.2,
+      "camera": 8.3,
+      "battery": 9.1,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "redmi-note-11-pro-plus-2022",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 11 Pro+ 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 20999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.6,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "redmi-note-11-2022",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 11",
+    "launchYear": 2022,
+    "price": {
+      "inr": 13499,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 680",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 90,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 7.6,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "apple-iphone-14-pro-max-2022",
+    "brand": "Apple",
+    "model": "iPhone 14 Pro Max",
+    "launchYear": 2022,
+    "price": {
+      "inr": 139900,
+      "platform": "Apple Store / Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A16 Bionic",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "battery": 4323,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Super Retina XDR OLED Dynamic Island"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 9.7,
+      "camera": 9.8,
+      "battery": 9.4,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "apple-iphone-14-pro-2022",
+    "brand": "Apple",
+    "model": "iPhone 14 Pro",
+    "launchYear": 2022,
+    "price": {
+      "inr": 129900,
+      "platform": "Apple Store / Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A16 Bionic",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "battery": 3200,
+      "display": {
+        "size": 6.1,
+        "refreshRate": 120,
+        "type": "Super Retina XDR OLED Dynamic Island"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 9.6,
+      "camera": 9.7,
+      "battery": 8.9,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "apple-iphone-14-plus-2022",
+    "brand": "Apple",
+    "model": "iPhone 14 Plus",
+    "launchYear": 2022,
+    "price": {
+      "inr": 79900,
+      "platform": "Apple Store / Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A15 Bionic",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128,
+        256,
+        512
+      ],
+      "battery": 4323,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "Super Retina XDR OLED"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 9.1,
+      "camera": 9.1,
+      "battery": 9.5,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-s22-ultra-2022",
+    "brand": "Samsung",
+    "model": "Galaxy S22 Ultra 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 109999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 1",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.8,
+        "refreshRate": 120,
+        "type": "Dynamic AMOLED 2X S-Pen"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 40
+      }
+    },
+    "useCases": {
+      "gaming": 9.4,
+      "camera": 9.6,
+      "battery": 9.2,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-s22-plus-2022",
+    "brand": "Samsung",
+    "model": "Galaxy S22+ 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 84999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 1",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 120,
+        "type": "Dynamic AMOLED 2X"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 9.3,
+      "camera": 9.2,
+      "battery": 8.9,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-s22-2022",
+    "brand": "Samsung",
+    "model": "Galaxy S22 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 62999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 1",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 3700,
+      "display": {
+        "size": 6.1,
+        "refreshRate": 120,
+        "type": "Dynamic AMOLED 2X"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 9.1,
+      "camera": 9.1,
+      "battery": 8.2,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-a53-2022",
+    "brand": "Samsung",
+    "model": "Galaxy A53 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 34499,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 1280",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 120,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.7,
+      "battery": 9.1,
+      "value": 9.0
+    }
+  },
+  {
+    "id": "samsung-m53-2022",
+    "brand": "Samsung",
+    "model": "Galaxy M53 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 26499,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 900",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Super AMOLED Plus"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.9,
+      "camera": 8.8,
+      "battery": 9.0,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-m33-2022",
+    "brand": "Samsung",
+    "model": "Galaxy M33 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 17999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 1280",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 120,
+        "type": "TFT LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.0,
+      "battery": 9.9,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "oneplus-10t-2022",
+    "brand": "OnePlus",
+    "model": "10T 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 49999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": [
+        8,
+        12,
+        16
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4800,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Fluid AMOLED 150W SuperVOOC"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.3,
+      "camera": 8.8,
+      "battery": 8.9,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "oneplus-nord-2t-2022",
+    "brand": "OnePlus",
+    "model": "Nord 2T 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 28999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1300",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 90,
+        "type": "AMOLED Sony IMX766"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 8.8,
+      "battery": 8.8,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "oneplus-nord-ce-2-2022",
+    "brand": "OnePlus",
+    "model": "Nord CE 2 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 23999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 900",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 90,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.9,
+      "camera": 8.3,
+      "battery": 8.8,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oneplus-nord-ce-2-lite-2022",
+    "brand": "OnePlus",
+    "model": "Nord CE 2 Lite 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 18999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.59,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.0,
+      "battery": 9.0,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "vivo-v25-pro-2022",
+    "brand": "Vivo",
+    "model": "V25 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 35999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1300",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4830,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 9.2,
+      "battery": 8.9,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "vivo-v25-2022",
+    "brand": "Vivo",
+    "model": "V25 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 27999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 900",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.44,
+        "refreshRate": 90,
+        "type": "AMOLED Color Changing"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 7.9,
+      "camera": 9.0,
+      "battery": 8.7,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-t1-5g-2022",
+    "brand": "Vivo",
+    "model": "T1 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 15999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.58,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.0,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "vivo-t1-pro-2022",
+    "brand": "Vivo",
+    "model": "T1 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 23999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 778G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4700,
+      "display": {
+        "size": 6.44,
+        "refreshRate": 90,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 8.6,
+      "battery": 8.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "iqoo-9-pro-2022",
+    "brand": "iQOO",
+    "model": "9 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 64999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 1",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4700,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "2K E5 AMOLED Gimbal"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.4,
+      "camera": 9.4,
+      "battery": 8.9,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "iqoo-9-se-2022",
+    "brand": "iQOO",
+    "model": "9 SE 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 33999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.62,
+        "refreshRate": 120,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.5,
+      "battery": 8.6,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "iqoo-neo-6-2022",
+    "brand": "iQOO",
+    "model": "Neo 6 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 29999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 870",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4700,
+      "display": {
+        "size": 6.62,
+        "refreshRate": 120,
+        "type": "E4 AMOLED OIS"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.0,
+      "camera": 8.6,
+      "battery": 8.9,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "iqoo-z6-pro-2022",
+    "brand": "iQOO",
+    "model": "Z6 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 23999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 778G",
+      "ram": [
+        6,
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4700,
+      "display": {
+        "size": 6.44,
+        "refreshRate": 90,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 8.5,
+      "battery": 8.9,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "iqoo-z6-5g-2022",
+    "brand": "iQOO",
+    "model": "Z6 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 15499,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.58,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.0,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "moto-edge-30-2022",
+    "brand": "Motorola",
+    "model": "Moto Edge 30 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 27999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 778G+",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4020,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 144,
+        "type": "pOLED World's Thinnest 5G"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 8.9,
+      "battery": 8.4,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "moto-edge-30-ultra-2022",
+    "brand": "Motorola",
+    "model": "Moto Edge 30 Ultra",
+    "launchYear": 2022,
+    "price": {
+      "inr": 59999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4610,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 144,
+        "type": "pOLED 200MP World's First"
+      },
+      "cameras": {
+        "main": 200,
+        "front": 60
+      }
+    },
+    "useCases": {
+      "gaming": 9.4,
+      "camera": 9.6,
+      "battery": 8.9,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "moto-g82-2022",
+    "brand": "Motorola",
+    "model": "Moto G82 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 21499,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 120,
+        "type": "pOLED 10-bit OIS"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.5,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "moto-g52-2022",
+    "brand": "Motorola",
+    "model": "Moto G52",
+    "launchYear": 2022,
+    "price": {
+      "inr": 14499,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 680",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "pOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "poco-f4-2022",
+    "brand": "Poco",
+    "model": "F4 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 27999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 870",
+      "ram": [
+        6,
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "E4 AMOLED Dolby Vision OIS"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 9.1,
+      "camera": 8.7,
+      "battery": 8.7,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "poco-x4-pro-2022",
+    "brand": "Poco",
+    "model": "X4 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 18999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.4,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "poco-m4-pro-5g-2022",
+    "brand": "Poco",
+    "model": "M4 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 14999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 810",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 90,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-8-pro-2021",
+    "brand": "Realme",
+    "model": "8 Pro",
+    "launchYear": 2021,
+    "price": {
+      "inr": 17999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 720G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.7,
+      "battery": 8.7,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-8-2021",
+    "brand": "Realme",
+    "model": "8",
+    "launchYear": 2021,
+    "price": {
+      "inr": 14999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio G95",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 8.1,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-gt-master-2021",
+    "brand": "Realme",
+    "model": "GT Master Edition",
+    "launchYear": 2021,
+    "price": {
+      "inr": 25999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 778G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4300,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 120,
+        "type": "Super AMOLED Suitcase Design"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 8.8,
+      "battery": 8.5,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-gt-5g-2021",
+    "brand": "Realme",
+    "model": "GT 5G Flagship",
+    "launchYear": 2021,
+    "price": {
+      "inr": 37999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 120,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.9,
+      "camera": 8.6,
+      "battery": 8.6,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "redmi-note-10-pro-2021",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10 Pro",
+    "launchYear": 2021,
+    "price": {
+      "inr": 15999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 732G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5020,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.6,
+      "battery": 9.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "redmi-note-10-2021",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "launchYear": 2021,
+    "price": {
+      "inr": 11999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 678",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 60,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 13
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "mi-11x-pro-2021",
+    "brand": "Xiaomi",
+    "model": "Mi 11X Pro 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 39999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4520,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "E4 AMOLED"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 9.0,
+      "camera": 9.0,
+      "battery": 8.7,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "mi-11x-2021",
+    "brand": "Xiaomi",
+    "model": "Mi 11X 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 29999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 870",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4520,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "E4 AMOLED"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 9.1,
+      "camera": 8.4,
+      "battery": 8.7,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "apple-iphone-13-pro-max-2021",
+    "brand": "Apple",
+    "model": "iPhone 13 Pro Max",
+    "launchYear": 2021,
+    "price": {
+      "inr": 129900,
+      "platform": "Apple Store / Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A15 Bionic",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "battery": 4352,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Super Retina XDR OLED ProMotion"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 9.6,
+      "camera": 9.7,
+      "battery": 9.6,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "apple-iphone-13-pro-2021",
+    "brand": "Apple",
+    "model": "iPhone 13 Pro",
+    "launchYear": 2021,
+    "price": {
+      "inr": 119900,
+      "platform": "Apple Store / Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A15 Bionic",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128,
+        256,
+        512,
+        1024
+      ],
+      "battery": 3095,
+      "display": {
+        "size": 6.1,
+        "refreshRate": 120,
+        "type": "Super Retina XDR OLED ProMotion"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 9.5,
+      "camera": 9.6,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "apple-iphone-13-mini-2021",
+    "brand": "Apple",
+    "model": "iPhone 13 Mini",
+    "launchYear": 2021,
+    "price": {
+      "inr": 69900,
+      "platform": "Apple Store / Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A15 Bionic",
+      "ram": [
+        4
+      ],
+      "storage": [
+        128,
+        256,
+        512
+      ],
+      "battery": 2438,
+      "display": {
+        "size": 5.4,
+        "refreshRate": 60,
+        "type": "Super Retina XDR OLED Compact"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.9,
+      "battery": 7.9,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "samsung-s21-ultra-2021",
+    "brand": "Samsung",
+    "model": "Galaxy S21 Ultra 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 105999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 2100",
+      "ram": [
+        12,
+        16
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.8,
+        "refreshRate": 120,
+        "type": "Dynamic AMOLED 2X"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 40
+      }
+    },
+    "useCases": {
+      "gaming": 9.2,
+      "camera": 9.5,
+      "battery": 9.1,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-s20-fe-5g-2021",
+    "brand": "Samsung",
+    "model": "Galaxy S20 FE 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 36999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 865",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 120,
+        "type": "Super AMOLED"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.7,
+      "camera": 9.0,
+      "battery": 8.8,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "samsung-a52s-5g-2021",
+    "brand": "Samsung",
+    "model": "Galaxy A52s 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 35999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 778G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 120,
+        "type": "Super AMOLED 120Hz OIS"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 9.0,
+      "battery": 8.8,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oneplus-9-pro-2021",
+    "brand": "OnePlus",
+    "model": "9 Pro 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 64999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "LTPO Fluid2 AMOLED Hasselblad"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.0,
+      "camera": 9.3,
+      "battery": 8.7,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "oneplus-9r-2021",
+    "brand": "OnePlus",
+    "model": "9R 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 39999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 870",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 120,
+        "type": "Fluid AMOLED"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.9,
+      "camera": 8.5,
+      "battery": 8.8,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "oneplus-nord-2-2021",
+    "brand": "OnePlus",
+    "model": "Nord 2 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 27999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1200 AI",
+      "ram": [
+        6,
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 90,
+        "type": "Fluid AMOLED Sony IMX766 OIS"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 8.9,
+      "battery": 8.8,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "vivo-x70-pro-plus-2021",
+    "brand": "Vivo",
+    "model": "X70 Pro+ Zeiss",
+    "launchYear": 2021,
+    "price": {
+      "inr": 79999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888+",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "2K E5 LTPO AMOLED Gimbal"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.3,
+      "camera": 9.8,
+      "battery": 8.8,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-x70-pro-2021",
+    "brand": "Vivo",
+    "model": "X70 Pro Zeiss",
+    "launchYear": 2021,
+    "price": {
+      "inr": 46999,
+      "platform": "Flipkart",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1200",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4450,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 120,
+        "type": "AMOLED Gimbal"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 9.5,
+      "battery": 8.7,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "iqoo-7-legend-2021",
+    "brand": "iQOO",
+    "model": "7 Legend 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 39999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.62,
+        "refreshRate": 120,
+        "type": "AMOLED BMW M Motorsport"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.1,
+      "camera": 8.8,
+      "battery": 8.2,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "iqoo-7-2021",
+    "brand": "iQOO",
+    "model": "7 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 31999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 870",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4400,
+      "display": {
+        "size": 6.62,
+        "refreshRate": 120,
+        "type": "AMOLED OIS"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 9.0,
+      "camera": 8.6,
+      "battery": 8.6,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "iqoo-z3-2021",
+    "brand": "iQOO",
+    "model": "Z3 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 19999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 768G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4400,
+      "display": {
+        "size": 6.58,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.0,
+      "camera": 8.2,
+      "battery": 8.7,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "poco-f3-gt-2021",
+    "brand": "Poco",
+    "model": "F3 GT 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 26999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1200",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5065,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "OLED Maglev Triggers"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.9,
+      "camera": 8.4,
+      "battery": 9.1,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "poco-x3-pro-2021",
+    "brand": "Poco",
+    "model": "X3 Pro",
+    "launchYear": 2021,
+    "price": {
+      "inr": 18999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 860",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5160,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 8.7,
+      "camera": 7.9,
+      "battery": 9.2,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "oneplus-8-pro-2020",
+    "brand": "OnePlus",
+    "model": "8 Pro 5G",
+    "launchYear": 2020,
+    "price": {
+      "inr": 54999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 865",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4510,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "Fluid AMOLED QHD+"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.9,
+      "battery": 8.7,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oneplus-8t-2020",
+    "brand": "OnePlus",
+    "model": "8T 5G",
+    "launchYear": 2020,
+    "price": {
+      "inr": 42999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 865",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 120,
+        "type": "Fluid AMOLED 65W Warp"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.6,
+      "battery": 8.7,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "oneplus-nord-2020",
+    "brand": "OnePlus",
+    "model": "Nord 5G Original",
+    "launchYear": 2020,
+    "price": {
+      "inr": 24999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 765G",
+      "ram": [
+        6,
+        8,
+        12
+      ],
+      "storage": [
+        64,
+        128,
+        256
+      ],
+      "battery": 4115,
+      "display": {
+        "size": 6.44,
+        "refreshRate": 90,
+        "type": "Fluid AMOLED Dual Selfie"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.5,
+      "battery": 8.3,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "apple-iphone-12-pro-max-2020",
+    "brand": "Apple",
+    "model": "iPhone 12 Pro Max",
+    "launchYear": 2020,
+    "price": {
+      "inr": 129900,
+      "platform": "Apple Store / Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A14 Bionic",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128,
+        256,
+        512
+      ],
+      "battery": 3687,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "Super Retina XDR OLED"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 9.2,
+      "camera": 9.3,
+      "battery": 8.8,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "apple-iphone-11-2020",
+    "brand": "Apple",
+    "model": "iPhone 11",
+    "launchYear": 2020,
+    "price": {
+      "inr": 49900,
+      "platform": "Apple Store / Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A13 Bionic",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 3110,
+      "display": {
+        "size": 6.1,
+        "refreshRate": 60,
+        "type": "Liquid Retina HD"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.3,
+      "battery": 8.3,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "samsung-s20-plus-2020",
+    "brand": "Samsung",
+    "model": "Galaxy S20+ 5G",
+    "launchYear": 2020,
+    "price": {
+      "inr": 73999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 990",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Dynamic AMOLED 2X"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 8.9,
+      "battery": 8.6,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "samsung-note-20-ultra-2020",
+    "brand": "Samsung",
+    "model": "Galaxy Note 20 Ultra 5G",
+    "launchYear": 2020,
+    "price": {
+      "inr": 104999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 990",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.9,
+        "refreshRate": 120,
+        "type": "Dynamic AMOLED 2X S-Pen"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 10
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 9.3,
+      "battery": 8.7,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "poco-x3-2020",
+    "brand": "Poco",
+    "model": "X3",
+    "launchYear": 2020,
+    "price": {
+      "inr": 16999,
+      "platform": "Flipkart / Mi Store",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 732G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 6000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "IPS LCD"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.2,
+      "battery": 9.8,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "realme-7-pro-2020",
+    "brand": "Realme",
+    "model": "7 Pro",
+    "launchYear": 2020,
+    "price": {
+      "inr": 19999,
+      "platform": "Amazon",
+      "note": "Official India Launch Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 720G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.4,
+        "refreshRate": 60,
+        "type": "Super AMOLED 65W SuperDart"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.6,
+      "camera": 8.4,
+      "battery": 8.7,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "oppo-find-x8-pro-2025",
+    "brand": "OPPO",
+    "model": "Find X8 Pro Hasselblad",
+    "launchYear": 2025,
+    "price": {
+      "inr": 99999,
+      "platform": "Flipkart / OPPO Store",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 9400",
+      "ram": [
+        16
+      ],
+      "storage": [
+        512
+      ],
+      "battery": 5910,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "LTPO AMOLED Quad-Curved"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.7,
+      "camera": 9.9,
+      "battery": 9.8,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "oppo-find-x8-2025",
+    "brand": "OPPO",
+    "model": "Find X8 5G",
+    "launchYear": 2025,
+    "price": {
+      "inr": 69999,
+      "platform": "Flipkart / OPPO Store",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 9400",
+      "ram": [
+        12,
+        16
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 5630,
+      "display": {
+        "size": 6.59,
+        "refreshRate": 120,
+        "type": "AMOLED Flat"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.6,
+      "camera": 9.7,
+      "battery": 9.6,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oppo-reno-13-pro-2025",
+    "brand": "OPPO",
+    "model": "Reno 13 Pro 5G",
+    "launchYear": 2025,
+    "price": {
+      "inr": 49999,
+      "platform": "Flipkart / Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8350",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 5800,
+      "display": {
+        "size": 6.83,
+        "refreshRate": 120,
+        "type": "Quad-Curved AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 9.1,
+      "camera": 9.5,
+      "battery": 9.6,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oppo-reno-13-2025",
+    "brand": "OPPO",
+    "model": "Reno 13 5G",
+    "launchYear": 2025,
+    "price": {
+      "inr": 37999,
+      "platform": "Flipkart / Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8350",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5600,
+      "display": {
+        "size": 6.59,
+        "refreshRate": 120,
+        "type": "AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 9.2,
+      "battery": 9.5,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oppo-f29-pro-plus-2025",
+    "brand": "OPPO",
+    "model": "F29 Pro+ 5G",
+    "launchYear": 2025,
+    "price": {
+      "inr": 31999,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7350 Pro",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5500,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED IP69"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 9.1,
+      "battery": 9.4,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "oppo-reno-12-pro-2024",
+    "brand": "OPPO",
+    "model": "Reno 12 Pro 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 36999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7300 Energy",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256,
+        512
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Quad-Curved AMOLED AI"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 9.3,
+      "battery": 9.1,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "oppo-reno-12-2024",
+    "brand": "OPPO",
+    "model": "Reno 12 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 32999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7300 Energy",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Curved AMOLED AI"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 9.1,
+      "battery": 9.1,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "oppo-f27-pro-plus-2024",
+    "brand": "OPPO",
+    "model": "F27 Pro+ 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 27999,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7050",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED IP69 Waterproof"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.7,
+      "battery": 9.1,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "oppo-f27-5g-2024",
+    "brand": "OPPO",
+    "model": "F27 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 22999,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6300",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "AMOLED Halo Light"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.5,
+      "battery": 9.1,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oppo-f25-pro-2024",
+    "brand": "OPPO",
+    "model": "F25 Pro 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 23999,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7050",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "AMOLED 4K Video"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.8,
+      "battery": 9.1,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "oppo-k12x-5g-2024",
+    "brand": "OPPO",
+    "model": "K12x 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 12999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6300",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5100,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "HD+ LCD Damage-Proof 360"
+      },
+      "cameras": {
+        "main": 32,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.4,
+      "camera": 7.5,
+      "battery": 9.2,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "oppo-a3-pro-5g-2024",
+    "brand": "OPPO",
+    "model": "A3 Pro 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 17999,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6300",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5100,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "LCD Splash Touch"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.5,
+      "camera": 7.9,
+      "battery": 9.1,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "oppo-a3x-5g-2024",
+    "brand": "OPPO",
+    "model": "A3x 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 12499,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6300",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5100,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "LCD Military Grade"
+      },
+      "cameras": {
+        "main": 32,
+        "front": 5
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 7.2,
+      "battery": 9.2,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "oppo-a59-5g-2024",
+    "brand": "OPPO",
+    "model": "A59 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 13999,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6020",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "IPS LCD 300% Ultra Volume"
+      },
+      "cameras": {
+        "main": 13,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 7.2,
+      "battery": 9.0,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oppo-find-n3-flip-2023",
+    "brand": "OPPO",
+    "model": "Find N3 Flip",
+    "launchYear": 2023,
+    "price": {
+      "inr": 94999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 9200",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4300,
+      "display": {
+        "size": 6.8,
+        "refreshRate": 120,
+        "type": "Foldable LTPO AMOLED Hasselblad"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.3,
+      "camera": 9.5,
+      "battery": 8.7,
+      "value": 9.0
+    }
+  },
+  {
+    "id": "oppo-reno-10-pro-plus-2023",
+    "brand": "OPPO",
+    "model": "Reno 10 Pro+ 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 54999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4700,
+      "display": {
+        "size": 6.74,
+        "refreshRate": 120,
+        "type": "1.5K 3D Curved AMOLED 64MP Periscope"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.3,
+      "camera": 9.6,
+      "battery": 8.9,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oppo-reno-10-pro-2023",
+    "brand": "OPPO",
+    "model": "Reno 10 Pro 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 37999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 778G",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4600,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 9.1,
+      "battery": 8.8,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "oppo-reno-10-2023",
+    "brand": "OPPO",
+    "model": "Reno 10 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 32999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7050",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED Telephoto"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.3,
+      "camera": 8.9,
+      "battery": 9.0,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oppo-f23-5g-2023",
+    "brand": "OPPO",
+    "model": "F23 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 22499,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.72,
+        "refreshRate": 120,
+        "type": "IPS LCD Microlens"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.4,
+      "battery": 9.1,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "oppo-a79-5g-2023",
+    "brand": "OPPO",
+    "model": "A79 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 17499,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6020",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.72,
+        "refreshRate": 90,
+        "type": "IPS LCD Glowing Feather"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 7.8,
+      "battery": 9.0,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oppo-a78-5g-2023",
+    "brand": "OPPO",
+    "model": "A78 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 18999,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 700",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "IPS LCD Stereo Speakers"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 7.6,
+      "battery": 9.0,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "oppo-reno-8-pro-2022",
+    "brand": "OPPO",
+    "model": "Reno 8 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 45999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8100 Max",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "AMOLED MariSilicon X NPU"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.0,
+      "camera": 9.3,
+      "battery": 8.7,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "oppo-reno-8-2022",
+    "brand": "OPPO",
+    "model": "Reno 8 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 29999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1300",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 90,
+        "type": "AMOLED Sony IMX766"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.5,
+      "camera": 8.9,
+      "battery": 8.7,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "oppo-f21-pro-5g-2022",
+    "brand": "OPPO",
+    "model": "F21 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 26999,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 695",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 60,
+        "type": "AMOLED Orbit Light"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.5,
+      "battery": 8.7,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "oppo-f21-pro-2022",
+    "brand": "OPPO",
+    "model": "F21 Pro",
+    "launchYear": 2022,
+    "price": {
+      "inr": 22999,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 680",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 90,
+        "type": "AMOLED Sunset Orange Leather"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 8.4,
+      "battery": 8.7,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "oppo-reno-7-pro-2022",
+    "brand": "OPPO",
+    "model": "Reno 7 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 39999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1200 Max",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 90,
+        "type": "AMOLED Aircraft Grade"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.7,
+      "camera": 9.1,
+      "battery": 8.7,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "oppo-reno-6-pro-2021",
+    "brand": "OPPO",
+    "model": "Reno 6 Pro 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 39990,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1200",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 90,
+        "type": "3D Curved AMOLED Bokeh Flare"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.7,
+      "camera": 9.1,
+      "battery": 8.7,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "oppo-f19-pro-plus-2021",
+    "brand": "OPPO",
+    "model": "F19 Pro+ 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 25990,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 800U",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4310,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 60,
+        "type": "Super AMOLED AI Highlight Video"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.3,
+      "battery": 8.5,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "oppo-f17-pro-2020",
+    "brand": "OPPO",
+    "model": "F17 Pro",
+    "launchYear": 2020,
+    "price": {
+      "inr": 22990,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Helio P95",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4015,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 60,
+        "type": "Super AMOLED 7.48mm Ultra Sleek"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.2,
+      "camera": 8.2,
+      "battery": 8.3,
+      "value": 9.2
+    }
+  },
+  {
+    "id": "lava-agni-3-2024",
+    "brand": "Lava",
+    "model": "Agni 3 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 20999,
+      "platform": "Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7300X",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "1.5K 3D Curved Dual AMOLED (InstaScreen)"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.6,
+      "camera": 8.9,
+      "battery": 9.1,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "lava-agni-2-2023",
+    "brand": "Lava",
+    "model": "Agni 2 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 19999,
+      "platform": "Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7050",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4700,
+      "display": {
+        "size": 6.78,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED Clean Android"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.3,
+      "camera": 8.7,
+      "battery": 8.8,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "lava-blaze-curve-2024",
+    "brand": "Lava",
+    "model": "Blaze Curve 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 17999,
+      "platform": "Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 7050",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED Stereo UFS 3.1"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.6,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "lava-blaze-x-2024",
+    "brand": "Lava",
+    "model": "Blaze X 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 14999,
+      "platform": "Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 6300",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.67,
+        "refreshRate": 120,
+        "type": "3D Curved AMOLED Most Affordable"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.3,
+      "battery": 9.0,
+      "value": 9.9
+    }
+  },
+  {
+    "id": "lava-blaze-5g-2022",
+    "brand": "Lava",
+    "model": "Blaze 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 9999,
+      "platform": "Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 700",
+      "ram": [
+        4,
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "IPS LCD Glass Back"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.1,
+      "camera": 7.5,
+      "battery": 9.0,
+      "value": 9.9
+    }
+  },
+  {
+    "id": "lava-yuva-5g-2024",
+    "brand": "Lava",
+    "model": "Yuva 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 9499,
+      "platform": "Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Unisoc T750 5G",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.52,
+        "refreshRate": 90,
+        "type": "IPS LCD Glass Back"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 6.9,
+      "camera": 7.2,
+      "battery": 9.0,
+      "value": 9.8
+    }
+  },
+  {
+    "id": "oneplus-open-2023",
+    "brand": "OnePlus",
+    "model": "OnePlus Open Fold",
+    "launchYear": 2023,
+    "price": {
+      "inr": 139999,
+      "platform": "Amazon / OnePlus Store",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": [
+        16
+      ],
+      "storage": [
+        512
+      ],
+      "battery": 4805,
+      "display": {
+        "size": 7.82,
+        "refreshRate": 120,
+        "type": "Dual 2K 120Hz LTPO3 Flexi-fluid AMOLED"
+      },
+      "cameras": {
+        "main": 48,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.7,
+      "camera": 9.8,
+      "battery": 9.2,
+      "value": 9.4
+    }
+  },
+  {
+    "id": "tecno-phantom-v-fold-2-2024",
+    "brand": "Tecno",
+    "model": "Phantom V Fold 2 5G",
+    "launchYear": 2024,
+    "price": {
+      "inr": 79999,
+      "platform": "Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 9000+",
+      "ram": [
+        12
+      ],
+      "storage": [
+        512
+      ],
+      "battery": 5750,
+      "display": {
+        "size": 7.85,
+        "refreshRate": 120,
+        "type": "Foldable LTPO AMOLED AI"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.3,
+      "camera": 9.3,
+      "battery": 9.6,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "tecno-phantom-v-flip-2023",
+    "brand": "Tecno",
+    "model": "Phantom V Flip 5G",
+    "launchYear": 2023,
+    "price": {
+      "inr": 49999,
+      "platform": "Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 8050",
+      "ram": [
+        8
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.9,
+        "refreshRate": 120,
+        "type": "Foldable AMOLED Planet Cover Screen"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.7,
+      "camera": 8.9,
+      "battery": 8.5,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "apple-iphone-11-pro-max-2020",
+    "brand": "Apple",
+    "model": "iPhone 11 Pro Max",
+    "launchYear": 2020,
+    "price": {
+      "inr": 109900,
+      "platform": "Apple Store / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A13 Bionic",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        256,
+        512
+      ],
+      "battery": 3969,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 60,
+        "type": "Super Retina XDR OLED Triple Camera"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 12
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 9.1,
+      "battery": 8.9,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "apple-iphone-se-3-2022",
+    "brand": "Apple",
+    "model": "iPhone SE (3rd Gen 5G)",
+    "launchYear": 2022,
+    "price": {
+      "inr": 43900,
+      "platform": "Flipkart / Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Apple A15 Bionic",
+      "ram": [
+        4
+      ],
+      "storage": [
+        64,
+        128,
+        256
+      ],
+      "battery": 2018,
+      "display": {
+        "size": 4.7,
+        "refreshRate": 60,
+        "type": "Retina IPS LCD Compact Pocket Rocket"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 7
+      }
+    },
+    "useCases": {
+      "gaming": 8.7,
+      "camera": 8.5,
+      "battery": 7.6,
+      "value": 9.1
+    }
+  },
+  {
+    "id": "samsung-galaxy-f62-2021",
+    "brand": "Samsung",
+    "model": "Galaxy F62 7000mAh",
+    "launchYear": 2021,
+    "price": {
+      "inr": 23999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Exynos 9825 Flagship 7nm",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 7000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 60,
+        "type": "Super AMOLED Plus 7000mAh Monster"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 8.6,
+      "battery": 10.0,
+      "value": 9.7
+    }
+  },
+  {
+    "id": "samsung-galaxy-m52-5g-2021",
+    "brand": "Samsung",
+    "model": "Galaxy M52 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 29999,
+      "platform": "Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 778G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.7,
+        "refreshRate": 120,
+        "type": "Super AMOLED Plus 120Hz"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 8.8,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "samsung-galaxy-f23-5g-2022",
+    "brand": "Samsung",
+    "model": "Galaxy F23 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 17499,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 750G",
+      "ram": [
+        4,
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.6,
+        "refreshRate": 120,
+        "type": "FHD+ 120Hz Gorilla Glass 5"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.7,
+      "camera": 8.1,
+      "battery": 9.0,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "samsung-galaxy-a52-2021",
+    "brand": "Samsung",
+    "model": "Galaxy A52",
+    "launchYear": 2021,
+    "price": {
+      "inr": 26499,
+      "platform": "Amazon / Samsung Store",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 720G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.5,
+        "refreshRate": 90,
+        "type": "Super AMOLED 90Hz IP67 OIS"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 7.8,
+      "camera": 8.8,
+      "battery": 8.7,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "xiaomi-mi-11-ultra-2021",
+    "brand": "Xiaomi",
+    "model": "Mi 11 Ultra DxOMark King",
+    "launchYear": 2021,
+    "price": {
+      "inr": 69999,
+      "platform": "Mi Store / Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 5000,
+      "display": {
+        "size": 6.81,
+        "refreshRate": 120,
+        "type": "2K 120Hz E4 AMOLED Dual Screen GN2"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 9.3,
+      "camera": 9.9,
+      "battery": 9.1,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "xiaomi-11-lite-ne-2021",
+    "brand": "Xiaomi",
+    "model": "11 Lite NE 5G Feather",
+    "launchYear": 2021,
+    "price": {
+      "inr": 26999,
+      "platform": "Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 778G",
+      "ram": [
+        6,
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4250,
+      "display": {
+        "size": 6.55,
+        "refreshRate": 90,
+        "type": "10-bit Dolby Vision AMOLED 158g Ultra Light"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 20
+      }
+    },
+    "useCases": {
+      "gaming": 8.4,
+      "camera": 8.8,
+      "battery": 8.5,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "xiaomi-12-pro-2022",
+    "brand": "Xiaomi",
+    "model": "12 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 62999,
+      "platform": "Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 1",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4600,
+      "display": {
+        "size": 6.73,
+        "refreshRate": 120,
+        "type": "2K LTPO AMOLED 120W HyperCharge"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.3,
+      "camera": 9.5,
+      "battery": 8.7,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "xiaomi-13-pro-2023",
+    "brand": "Xiaomi",
+    "model": "13 Pro 5G Leica",
+    "launchYear": 2023,
+    "price": {
+      "inr": 79999,
+      "platform": "Amazon",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4820,
+      "display": {
+        "size": 6.73,
+        "refreshRate": 120,
+        "type": "2K LTPO OLED 1-inch Sony IMX989"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.6,
+      "camera": 9.9,
+      "battery": 9.1,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-x60-pro-plus-2021",
+    "brand": "Vivo",
+    "model": "X60 Pro+ Zeiss",
+    "launchYear": 2021,
+    "price": {
+      "inr": 69990,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 888",
+      "ram": [
+        12
+      ],
+      "storage": [
+        256
+      ],
+      "battery": 4200,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 120,
+        "type": "AMOLED Dual Gimbal GN1"
+      },
+      "cameras": {
+        "main": 50,
+        "front": 32
+      }
+    },
+    "useCases": {
+      "gaming": 9.2,
+      "camera": 9.7,
+      "battery": 8.4,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-v23-pro-2022",
+    "brand": "Vivo",
+    "model": "V23 Pro 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 38990,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1200",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4300,
+      "display": {
+        "size": 6.56,
+        "refreshRate": 90,
+        "type": "3D Curved AMOLED Color Changing Back"
+      },
+      "cameras": {
+        "main": 108,
+        "front": 50
+      }
+    },
+    "useCases": {
+      "gaming": 8.7,
+      "camera": 9.4,
+      "battery": 8.5,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "vivo-v20-pro-2020",
+    "brand": "Vivo",
+    "model": "V20 Pro 5G",
+    "launchYear": 2020,
+    "price": {
+      "inr": 29990,
+      "platform": "Amazon / Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 765G",
+      "ram": [
+        8
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4000,
+      "display": {
+        "size": 6.44,
+        "refreshRate": 60,
+        "type": "AMOLED Eye Autofocus 44MP Dual Selfie"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 44
+      }
+    },
+    "useCases": {
+      "gaming": 8.0,
+      "camera": 9.1,
+      "battery": 8.3,
+      "value": 9.3
+    }
+  },
+  {
+    "id": "google-pixel-6a-2022",
+    "brand": "Google",
+    "model": "Pixel 6a 5G",
+    "launchYear": 2022,
+    "price": {
+      "inr": 43999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Google Tensor G1",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 4410,
+      "display": {
+        "size": 6.1,
+        "refreshRate": 60,
+        "type": "OLED Clean Android Pixel Camera"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 8.2,
+      "camera": 9.4,
+      "battery": 8.7,
+      "value": 9.5
+    }
+  },
+  {
+    "id": "google-pixel-4a-2020",
+    "brand": "Google",
+    "model": "Pixel 4a Compact Classic",
+    "launchYear": 2020,
+    "price": {
+      "inr": 31999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Snapdragon 730G",
+      "ram": [
+        6
+      ],
+      "storage": [
+        128
+      ],
+      "battery": 3140,
+      "display": {
+        "size": 5.81,
+        "refreshRate": 60,
+        "type": "OLED Compact Legendary Camera"
+      },
+      "cameras": {
+        "main": 12,
+        "front": 8
+      }
+    },
+    "useCases": {
+      "gaming": 7.3,
+      "camera": 9.2,
+      "battery": 7.8,
+      "value": 9.6
+    }
+  },
+  {
+    "id": "realme-x7-max-2021",
+    "brand": "Realme",
+    "model": "X7 Max 5G",
+    "launchYear": 2021,
+    "price": {
+      "inr": 26999,
+      "platform": "Flipkart",
+      "note": "Lowest Online Price"
+    },
+    "dataQuality": "verified",
+    "specs": {
+      "processor": "Dimensity 1200",
+      "ram": [
+        8,
+        12
+      ],
+      "storage": [
+        128,
+        256
+      ],
+      "battery": 4500,
+      "display": {
+        "size": 6.43,
+        "refreshRate": 120,
+        "type": "Super AMOLED 120Hz First Dimensity 1200"
+      },
+      "cameras": {
+        "main": 64,
+        "front": 16
+      }
+    },
+    "useCases": {
+      "gaming": 8.8,
+      "camera": 8.7,
+      "battery": 8.7,
+      "value": 9.8
     }
   }
 ]
