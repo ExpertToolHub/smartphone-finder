@@ -19,8 +19,8 @@ const CompareModule = {
     if (list.includes(id)) {
       list = list.filter(item => item !== id);
     } else {
-      if (list.length >= 4) {
-        alert('Aap ek saath maximum 4 smartphones compare kar sakte hain!');
+      if (list.length >= 10) {
+        alert('Aap ek sath maximum 10 smartphones compare kar sakte hain!');
         return list;
       }
       list.push(id);
