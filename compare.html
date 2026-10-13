@@ -3,40 +3,232 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Compare Devices - SmartFinder India</title>
-  <link rel="stylesheet" href="smartphone-finder/css/base.css">
-  <link rel="stylesheet" href="smartphone-finder/css/components.css">
+  <title>SmartFinder India - Mega 10 Compare & Ultra HD PDF</title>
+  
+  <!-- High Quality PDF Library CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+
   <style>
-    .compare-page-wrap { max-width: 1200px; margin: 30px auto; padding: 0 16px; width: 100%; }
-    .table-container { background: #ffffff; border-radius: 16px; border: 1px solid var(--border-light); overflow-x: auto; box-shadow: var(--shadow-card); }
-    .comp-table { width: 100%; border-collapse: collapse; min-width: 650px; }
-    .comp-table th, .comp-table td { padding: 14px 18px; border-bottom: 1px solid var(--border-light); text-align: left; }
-    .comp-table th { background: #f8fafc; color: var(--text-muted); font-size: 0.84rem; font-weight: 700; width: 180px; text-transform: uppercase; letter-spacing: 0.5px; }
-    .comp-table td { font-size: 0.9rem; color: var(--text-main); }
-    .device-head { font-size: 1.15rem; font-weight: 800; color: var(--text-main); margin-bottom: 4px; }
-    .btn-del { color: var(--accent-rose); background: none; border: none; font-size: 0.78rem; font-weight: 700; cursor: pointer; }
-    .best-spec { color: #166534; font-weight: 700; background: #f0fdf4; padding: 2px 6px; border-radius: 4px; }
+    :root {
+      --bg-main: #f8fafc;
+      --bg-card: #ffffff;
+      --border: #e2e8f0;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --primary: #4f46e5;
+      --primary-purple: #7c3aed;
+      --accent-rose: #f43f5e;
+      --grad-gold: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+      --grad-silver: linear-gradient(135deg, #94a3b8 0%, #64748b 100%);
+      --grad-bronze: linear-gradient(135deg, #d97706 0%, #b45309 100%);
+      --grad-btn: linear-gradient(135deg, #4f46e5 0%, #6366f1 100%);
+      --shadow-card: 0 4px 18px rgba(15, 23, 42, 0.06);
+      --radius-md: 12px;
+      --radius-lg: 18px;
+      --radius-pill: 9999px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    body { background-color: var(--bg-main); color: var(--text-main); min-height: 100vh; }
+    a { text-decoration: none; color: inherit; }
+
+    .navbar {
+      background: rgba(255, 255, 255, 0.95);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .brand-wrap a { font-weight: 800; color: var(--primary); font-size: 1rem; }
+    .nav-btns { display: flex; gap: 10px; }
+    .btn-clear { background: #fee2e2; color: var(--accent-rose); border: 1px solid #fecaca; padding: 6px 14px; border-radius: var(--radius-pill); font-weight: 700; cursor: pointer; }
+
+    .compare-container { max-width: 1400px; margin: 24px auto; padding: 0 16px; width: 100%; }
+
+    /* Action Banner Bar */
+    .action-header-box {
+      background: #ffffff;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 20px;
+      margin-bottom: 24px;
+      box-shadow: var(--shadow-card);
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+    }
+    .action-header-box h2 { font-size: 1.3rem; font-weight: 900; }
+    .action-header-box p { font-size: 0.88rem; color: var(--text-muted); margin-top: 4px; }
+    .actions-group { display: flex; flex-wrap: wrap; gap: 10px; }
+
+    .btn-final-choose {
+      background: var(--grad-gold);
+      color: #ffffff;
+      border: none;
+      padding: 12px 22px;
+      border-radius: var(--radius-pill);
+      font-size: 0.95rem;
+      font-weight: 900;
+      cursor: pointer;
+      box-shadow: 0 4px 14px rgba(245, 158, 11, 0.35);
+      transition: transform 0.2s;
+    }
+    .btn-final-choose:hover { transform: scale(1.03); }
+
+    .btn-download-pdf {
+      background: #0f172a;
+      color: #ffffff;
+      border: none;
+      padding: 12px 20px;
+      border-radius: var(--radius-pill);
+      font-size: 0.92rem;
+      font-weight: 800;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      box-shadow: 0 4px 12px rgba(15, 23, 42, 0.2);
+      transition: background 0.2s;
+    }
+    .btn-download-pdf:hover { background: #334155; }
+
+    /* Top 3 Final Choose Podium */
+    .top3-section {
+      display: none;
+      margin-bottom: 28px;
+    }
+    .top3-title {
+      font-size: 1.25rem;
+      font-weight: 900;
+      margin-bottom: 14px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .top3-cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px;
+    }
+    .podium-card {
+      background: #ffffff;
+      border-radius: var(--radius-lg);
+      padding: 20px;
+      box-shadow: var(--shadow-card);
+      position: relative;
+      border: 1px solid var(--border);
+    }
+    .podium-card.rank-1 {
+      border: 2.5px solid #f59e0b;
+      background: linear-gradient(180deg, #fffbeb 0%, #ffffff 100%);
+    }
+    .podium-card.rank-2 {
+      border: 2px solid #94a3b8;
+      background: linear-gradient(180deg, #f8fafc 0%, #ffffff 100%);
+    }
+    .podium-card.rank-3 {
+      border: 2px solid #d97706;
+      background: linear-gradient(180deg, #fff7ed 0%, #ffffff 100%);
+    }
+
+    .podium-tag {
+      display: inline-block;
+      font-size: 0.8rem;
+      font-weight: 900;
+      padding: 4px 12px;
+      border-radius: var(--radius-pill);
+      margin-bottom: 12px;
+      color: #ffffff;
+    }
+    .tag-gold { background: var(--grad-gold); }
+    .tag-silver { background: var(--grad-silver); }
+    .tag-bronze { background: var(--grad-bronze); }
+
+    .podium-name { font-size: 1.25rem; font-weight: 900; margin-bottom: 4px; }
+    .podium-price { font-size: 1.3rem; font-weight: 900; color: var(--primary); margin-bottom: 8px; }
+    .podium-rating { font-size: 0.84rem; font-weight: 800; background: #dcfce7; color: #166534; padding: 4px 8px; border-radius: 6px; display: inline-block; }
+    .podium-reason { font-size: 0.85rem; color: #334155; margin-top: 12px; line-height: 1.45; }
+
+    /* Comparison Table Container */
+    #printableComparisonArea {
+      background: #ffffff;
+      padding: 12px;
+      border-radius: var(--radius-lg);
+    }
+    .table-card {
+      background: #ffffff;
+      border-radius: var(--radius-lg);
+      border: 1px solid var(--border);
+      overflow-x: auto;
+      box-shadow: var(--shadow-card);
+    }
+    .comp-table { width: 100%; border-collapse: collapse; min-width: 800px; }
+    .comp-table th, .comp-table td { padding: 14px 16px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
+    .comp-table th { background: #f8fafc; color: var(--text-muted); font-size: 0.8rem; font-weight: 900; width: 160px; text-transform: uppercase; position: sticky; left: 0; z-index: 2; }
+    .comp-table td { font-size: 0.88rem; min-width: 170px; }
+
+    .device-title { font-size: 1.05rem; font-weight: 900; color: var(--text-main); }
+    .del-btn { color: var(--accent-rose); background: none; border: none; font-size: 0.76rem; font-weight: 700; cursor: pointer; margin-top: 6px; }
+
+    .winner-col { background: #fffdf5; }
+    .col-rank-badge { font-size: 0.72rem; font-weight: 800; padding: 2px 8px; border-radius: var(--radius-pill); display: inline-block; margin-bottom: 4px; }
+    .badge-rank1 { background: #fef3c7; color: #92400e; }
+    .badge-rank2 { background: #f1f5f9; color: #334155; }
+    .badge-rank3 { background: #ffedd5; color: #9a3412; }
+
+    .empty-card { background: #ffffff; border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 50px 20px; text-align: center; }
   </style>
 </head>
 <body>
   <nav class="navbar">
     <div class="brand-wrap">
-      <a href="index.html" style="font-weight:700; color:var(--primary-indigo); font-size:0.95rem;">← Back to Explorer</a>
+      <a href="index.html">← Back to Explorer</a>
     </div>
-    <button id="clearAllBtn" class="btn-compare" style="border-color:var(--accent-rose); color:var(--accent-rose);">Clear All</button>
+    <div class="nav-btns">
+      <button id="clearAllBtn" class="btn-clear">Clear All</button>
+    </div>
   </nav>
 
-  <div class="compare-page-wrap">
-    <div id="emptyNotice" class="state-card" style="display:none;">
-      <h3>No Phones Selected For Comparison</h3>
-      <p style="margin-top:6px;">Go back to the explorer and tap "+ Compare" on up to 4 smartphones.</p>
-      <a href="index.html" class="btn-compare-dock" style="display:inline-block; margin-top:16px;">Explore 3,000+ Phones</a>
+  <div class="compare-container">
+    <div id="emptyNotice" class="empty-card" style="display:none;">
+      <h2>Koi Smartphone Selected Nahi Hai</h2>
+      <p style="margin-top:8px; color:var(--text-muted);">Explorer par jaakar kisi bhi 2 se 10 phones par "+ Compare" dabayein.</p>
+      <a href="index.html" style="display:inline-block; margin-top:16px; background:var(--grad-btn); color:#fff; padding:10px 24px; border-radius:var(--radius-pill); font-weight:800;">Browse Phones</a>
     </div>
 
-    <div class="table-container" id="compareContainer" style="display:none;">
-      <table class="comp-table">
-        <tbody id="compareTbody"></tbody>
-      </table>
+    <div id="compareView">
+      <div class="action-header-box">
+        <div>
+          <h2>Comparing <span id="compCount">0</span> of 10 Smartphones</h2>
+          <p>Side-by-side specs dekhein, Top 3 Winner chunein, ya Ultra HD PDF download karein.</p>
+        </div>
+        <div class="actions-group">
+          <button id="finalChooseBtn" class="btn-final-choose">🏆 Final Choose: Top 3 Phones</button>
+          <button id="downloadPdfBtn" class="btn-download-pdf">📥 Download Ultra HD PDF</button>
+        </div>
+      </div>
+
+      <!-- Area Captured For High Definition PDF -->
+      <div id="printableComparisonArea">
+        <!-- Top 3 Final Choice Podium Cards -->
+        <div id="top3Section" class="top3-section">
+          <div class="top3-title">🏆 AI Final Verdict: Top 3 Smartphones Among Selected</div>
+          <div id="top3Grid" class="top3-cards-grid"></div>
+        </div>
+
+        <!-- Specs Table -->
+        <div class="table-card">
+          <table class="comp-table">
+            <tbody id="compareTbody"></tbody>
+          </table>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -45,52 +237,138 @@
   <script src="smartphone-finder/js/compare.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
-      const phones = await DataModule.loadPhones();
-      const ids = CompareModule.getCompareList();
-      const selected = phones.filter(p => ids.includes(p.id));
+      const allPhones = await DataModule.loadPhones();
+      const compareIds = CompareModule.getCompareList();
+      let selected = allPhones.filter(p => compareIds.includes(p.id));
 
       const emptyEl = document.getElementById('emptyNotice');
-      const tableWrap = document.getElementById('compareContainer');
+      const compareView = document.getElementById('compareView');
+      const countEl = document.getElementById('compCount');
+      const top3Section = document.getElementById('top3Section');
+      const top3Grid = document.getElementById('top3Grid');
       const tbody = document.getElementById('compareTbody');
 
       if (!selected.length) {
         emptyEl.style.display = 'block';
-        tableWrap.style.display = 'none';
+        compareView.style.display = 'none';
         return;
       }
 
-      emptyEl.style.display = 'none';
-      tableWrap.style.display = 'block';
+      countEl.innerText = selected.length;
 
-      const specsRows = [
-        {
-          label: 'Device',
-          val: p => `
-            <div class="device-head">${Utils.escapeHTML(p.brand)} ${Utils.escapeHTML(p.model)}</div>
-            <button class="btn-del" onclick="removeSingle('${p.id}')">✕ Remove</button>
-          `
-        },
-        { label: 'India Price', val: p => `<b style="font-size:1.1rem; color:var(--primary-indigo);">${Utils.formatINR(p.price?.inr)}</b>` },
-        { label: 'Launch Year', val: p => `<b>${p.launchYear || 'N/A'}</b>` },
-        { label: 'Processor', val: p => p.specs?.processor || 'N/A' },
-        { label: 'RAM', val: p => Array.isArray(p.specs?.ram) ? p.specs.ram.join(', ') + ' GB' : (p.specs?.ram + ' GB') },
-        { label: 'Storage', val: p => Array.isArray(p.specs?.storage) ? p.specs.storage.join(', ') + ' GB' : (p.specs?.storage + ' GB') },
-        { label: 'Battery', val: p => p.specs?.battery ? `<b>${p.specs.battery} mAh</b>` : 'N/A' },
-        { label: 'Display', val: p => `${p.specs?.display?.size || ''}" ${p.specs?.display?.refreshRate || ''}Hz ${p.specs?.display?.type || ''}` },
-        { label: 'Main Camera', val: p => p.specs?.cameras?.main ? `<b>${p.specs.cameras.main} MP</b>` : 'N/A' },
-        { label: 'Front Camera', val: p => p.specs?.cameras?.front ? `${p.specs.cameras.front} MP` : 'N/A' },
-        { label: 'Gaming Score', val: p => `🎮 <b>${p.useCases?.gaming || 7}/10</b>` },
-        { label: 'Camera Score', val: p => `📸 <b>${p.useCases?.camera || 7}/10</b>` },
-        { label: 'Battery Score', val: p => `🔋 <b>${p.useCases?.battery || 7}/10</b>` },
-        { label: 'Value Score', val: p => `💎 <b>${p.useCases?.value || 7}/10</b>` }
-      ];
+      // Smart Composite Rating
+      const calcOverallScore = (p) => {
+        const g = p.useCases?.gaming || 7;
+        const c = p.useCases?.camera || 7;
+        const b = p.useCases?.battery || 7;
+        const v = p.useCases?.value || 7;
+        return ((g * 0.25) + (c * 0.3) + (b * 0.2) + (v * 0.25)).toFixed(1);
+      };
 
-      tbody.innerHTML = specsRows.map(r => {
-        return `<tr>
-          <th>${r.label}</th>
-          ${selected.map(p => `<td>${r.val(p)}</td>`).join('')}
-        </tr>`;
-      }).join('');
+      const renderTable = (phonesList, isRanked = false) => {
+        const rows = [
+          {
+            label: 'Device',
+            val: (p, idx) => {
+              let badge = '';
+              if (isRanked && idx === 0) badge = '<span class="col-rank-badge badge-rank1">🥇 #1 Overall Best</span>';
+              else if (isRanked && idx === 1) badge = '<span class="col-rank-badge badge-rank2">🥈 #2 Runner Up</span>';
+              else if (isRanked && idx === 2) badge = '<span class="col-rank-badge badge-rank3">🥉 #3 Third Place</span>';
+              else if (isRanked) badge = `<span class="col-rank-badge" style="background:#f1f5f9; color:#64748b;">Rank #${idx + 1}</span>`;
+
+              return `
+                ${badge}
+                <div class="device-title">${Utils.escapeHTML(p.brand)} ${Utils.escapeHTML(p.model)}</div>
+                <button class="del-btn" onclick="removeSingle('${p.id}')">✕ Remove</button>
+              `;
+            }
+          },
+          { label: 'India Price', val: p => `<b style="font-size:1.1rem; color:var(--primary);">${Utils.formatINR(p.price?.inr)}</b>` },
+          { label: 'Overall Score', val: p => `⭐ <b>${calcOverallScore(p)} / 10</b>` },
+          { label: 'Processor', val: p => `⚡ <b>${p.specs?.processor || 'N/A'}</b>` },
+          { label: 'RAM', val: p => `${Array.isArray(p.specs?.ram) ? p.specs.ram.join('/') : p.specs?.ram} GB` },
+          { label: 'Storage', val: p => `${Array.isArray(p.specs?.storage) ? p.specs.storage.join('/') : p.specs?.storage} GB` },
+          { label: 'Battery', val: p => `🔋 <b>${p.specs?.battery ? p.specs.battery + ' mAh' : 'N/A'}</b>` },
+          { label: 'Main Camera', val: p => `📸 <b>${p.specs?.cameras?.main ? p.specs.cameras.main + ' MP' : 'N/A'}</b>` },
+          { label: 'Display', val: p => `${p.specs?.display?.size || ''}" ${p.specs?.display?.refreshRate || ''}Hz ${p.specs?.display?.type || ''}` },
+          { label: 'Launch Year', val: p => `<b>${p.launchYear || 'N/A'}</b>` },
+          { label: 'Gaming', val: p => `🎮 ${p.useCases?.gaming || 7} / 10` },
+          { label: 'Camera Quality', val: p => `📸 ${p.useCases?.camera || 7} / 10` },
+          { label: 'Battery Life', val: p => `🔋 ${p.useCases?.battery || 7} / 10` },
+          { label: 'Value for Money', val: p => `💎 ${p.useCases?.value || 7} / 10` }
+        ];
+
+        tbody.innerHTML = rows.map(r => {
+          return `<tr>
+            <th>${r.label}</th>
+            ${phonesList.map((p, idx) => `<td class="${isRanked && idx === 0 ? 'winner-col' : ''}">${r.val(p, idx)}</td>`).join('')}
+          </tr>`;
+        }).join('');
+      };
+
+      // Initial Render
+      renderTable(selected, false);
+
+      // Final Choose: Filter & Pick Top 3
+      document.getElementById('finalChooseBtn').addEventListener('click', () => {
+        const sorted = [...selected].sort((a, b) => calcOverallScore(b) - calcOverallScore(a));
+        const top3 = sorted.slice(0, 3);
+
+        top3Section.style.display = 'block';
+        top3Grid.innerHTML = top3.map((p, idx) => {
+          const rank = idx + 1;
+          const tagClass = rank === 1 ? 'tag-gold' : rank === 2 ? 'tag-silver' : 'tag-bronze';
+          const cardClass = `rank-${rank}`;
+          const title = rank === 1 ? '🥇 #1 CHAMPION (Best Overall)' : rank === 2 ? '🥈 #2 RUNNER UP' : '🥉 #3 THIRD CHOICE';
+
+          let reason = '';
+          if (rank === 1) {
+            reason = `🏆 <b>Kyu Jeeta:</b> Iska processor (${p.specs?.processor}), high-resolution camera (${p.specs?.cameras?.main}MP) aur battery backup (${p.specs?.battery}mAh) in 10 phones mein sabse zyada powerful aur balanced hai.`;
+          } else if (rank === 2) {
+            reason = `🥈 <b>Runner Up:</b> Rank #1 ke bilkul kareeb hai, display aur performance top class hai lekin halka sa difference camera/battery score mein raha.`;
+          } else {
+            reason = `🥉 <b>Value Pick:</b> Budget aur reliable performance ka behtareen combo offer karta hai.`;
+          }
+
+          return `
+            <div class="podium-card ${cardClass}">
+              <span class="podium-tag ${tagClass}">${title}</span>
+              <div class="podium-name">${Utils.escapeHTML(p.brand)} ${Utils.escapeHTML(p.model)}</div>
+              <div class="podium-price">${Utils.formatINR(p.price?.inr)}</div>
+              <div class="podium-rating">Composite Rating: ${calcOverallScore(p)}/10</div>
+              <div class="podium-reason">${reason}</div>
+            </div>
+          `;
+        }).join('');
+
+        // Re-order table with #1 phone on left
+        renderTable(sorted, true);
+        top3Section.scrollIntoView({ behavior: 'smooth' });
+      });
+
+      // Ultra HD PDF Generator
+      document.getElementById('downloadPdfBtn').addEventListener('click', () => {
+        const element = document.getElementById('printableComparisonArea');
+        const opt = {
+          margin: 8,
+          filename: `SmartFinder-Comparison-Report-${Date.now()}.pdf`,
+          image: { type: 'jpeg', quality: 0.98 },
+          html2canvas: { scale: 2.5, useCORS: true, letterRendering: true },
+          jsPDF: { unit: 'mm', format: 'a3', orientation: 'landscape' }
+        };
+
+        const btn = document.getElementById('downloadPdfBtn');
+        const originalText = btn.innerText;
+        btn.innerText = '⏳ Generating Ultra HD PDF...';
+
+        html2pdf().set(opt).from(element).save().then(() => {
+          btn.innerText = originalText;
+        }).catch(err => {
+          console.error(err);
+          btn.innerText = originalText;
+          alert('PDF download hone mein dikkat aayi, kripya dobara try karein.');
+        });
+      });
 
       window.removeSingle = (id) => {
         CompareModule.removeFromCompare(id);
